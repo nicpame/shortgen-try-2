@@ -5,5 +5,6 @@ description = "an effort to automate to some degree the process of making short 
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "moviepy>=2.2.1",
     "yt-dlp>=2025.5.22",
 ]
