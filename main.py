@@ -1,5 +1,8 @@
+from llm.gemini_client import generate_gemini_response
 def main():
-    print("Hello from shortgen-try-2!")
+    
+    response = generate_gemini_response("who are you")
+    print(response)
 
 
 if __name__ == "__main__":
