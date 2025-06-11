@@ -12,7 +12,7 @@ api_key = os.getenv("GEMINI_API_KEY")
 
 client = genai.Client(api_key=api_key)
 
-def generate_gemini_response(prompt: str, model_key: str = "flash") -> str:
+def generate_text(prompt: str, model_key: str = "flash") -> str:
     global client
     
     model_id = GEMINI_MODELS.get(model_key, GEMINI_MODELS["flash"])
@@ -21,3 +21,20 @@ def generate_gemini_response(prompt: str, model_key: str = "flash") -> str:
         contents=prompt
     )
     return response.text
+
+def generate_json(prompt: str, pydantic_schema, model_key: str = "flash") -> str:
+    global client
+    
+    model_id = GEMINI_MODELS.get(model_key, GEMINI_MODELS["flash"])
+    response = client.models.generate_content(
+        model=model_id,
+        contents=prompt,
+        config={
+            "response_mime_type": "application/json",
+            "response_schema": pydantic_schema,
+        },
+    )
+    return response.text
+
+
+    
