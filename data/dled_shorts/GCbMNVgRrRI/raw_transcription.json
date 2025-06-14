@@ -1,0 +1,1510 @@
+{
+  "text": " Who is the luckiest person ever? You might think it'd be someone like Phineas Gage, who was working on a railroad in Vermont when a 1 meter long iron rod exploded and flew through his skull. But shockingly, he felt no pain and made a full recovery. But surprisingly, he doesn't even come close to the luckiest person ever. Not even Alcides Moreno comes close, who was cleaning the windows on a skyscraper when the scaffolding collapsed. Somehow, he managed to ride the platform as it fell 47 stories, and he survived. You see, the luckiest person to ever live has to be Richard Blass. Richard was a gangster in Canada when in 1968, two hitmen walked into his bar and shot him four times. He somehow survived. Then two weeks later, they tracked him to a hotel and set it on fire. Then he got away again. But a month later, they found him and shot him in the head twice. Through some crazy luck, he was once again okay. Then after getting sent to prison, he beat up a guard and escaped. But after a long manhunt, he took 27 backshots and died.",
+  "words": [
+    {
+      "word": "Who",
+      "start": 0.02,
+      "end": 0.22
+    },
+    {
+      "word": "is",
+      "start": 0.22,
+      "end": 0.42
+    },
+    {
+      "word": "the",
+      "start": 0.42,
+      "end": 0.64
+    },
+    {
+      "word": "luckiest",
+      "start": 0.64,
+      "end": 1.12
+    },
+    {
+      "word": "person",
+      "start": 1.12,
+      "end": 1.5
+    },
+    {
+      "word": "ever?",
+      "start": 1.5,
+      "end": 1.8
+    },
+    {
+      "word": "You",
+      "start": 1.64,
+      "end": 2.02
+    },
+    {
+      "word": "might",
+      "start": 2.02,
+      "end": 2.14
+    },
+    {
+      "word": "think",
+      "start": 2.14,
+      "end": 2.32
+    },
+    {
+      "word": "it'd",
+      "start": 2.32,
+      "end": 2.48
+    },
+    {
+      "word": "be",
+      "start": 2.48,
+      "end": 2.54
+    },
+    {
+      "word": "someone",
+      "start": 2.54,
+      "end": 2.78
+    },
+    {
+      "word": "like",
+      "start": 2.78,
+      "end": 3.02
+    },
+    {
+      "word": "Phineas",
+      "start": 3.02,
+      "end": 3.42
+    },
+    {
+      "word": "Gage,",
+      "start": 3.42,
+      "end": 4.1
+    },
+    {
+      "word": "who",
+      "start": 4.06,
+      "end": 4.2
+    },
+    {
+      "word": "was",
+      "start": 4.2,
+      "end": 4.36
+    },
+    {
+      "word": "working",
+      "start": 4.36,
+      "end": 4.68
+    },
+    {
+      "word": "on",
+      "start": 4.68,
+      "end": 4.88
+    },
+    {
+      "word": "a",
+      "start": 4.88,
+      "end": 4.98
+    },
+    {
+      "word": "railroad",
+      "start": 4.98,
+      "end": 5.36
+    },
+    {
+      "word": "in",
+      "start": 5.36,
+      "end": 5.7
+    },
+    {
+      "word": "Vermont",
+      "start": 5.7,
+      "end": 5.96
+    },
+    {
+      "word": "when",
+      "start": 6,
+      "end": 6.28
+    },
+    {
+      "word": "a",
+      "start": 6.28,
+      "end": 6.42
+    },
+    {
+      "word": "1",
+      "start": 6.42,
+      "end": 6.74
+    },
+    {
+      "word": "meter",
+      "start": 6.74,
+      "end": 6.96
+    },
+    {
+      "word": "long",
+      "start": 6.96,
+      "end": 7.3
+    },
+    {
+      "word": "iron",
+      "start": 7.3,
+      "end": 7.76
+    },
+    {
+      "word": "rod",
+      "start": 7.76,
+      "end": 8.12
+    },
+    {
+      "word": "exploded",
+      "start": 8.12,
+      "end": 8.78
+    },
+    {
+      "word": "and",
+      "start": 8.78,
+      "end": 9.2
+    },
+    {
+      "word": "flew",
+      "start": 9.2,
+      "end": 9.58
+    },
+    {
+      "word": "through",
+      "start": 9.58,
+      "end": 9.88
+    },
+    {
+      "word": "his",
+      "start": 9.88,
+      "end": 10.14
+    },
+    {
+      "word": "skull.",
+      "start": 10.14,
+      "end": 10.66
+    },
+    {
+      "word": "But",
+      "start": 10.58,
+      "end": 10.78
+    },
+    {
+      "word": "shockingly,",
+      "start": 10.78,
+      "end": 11.28
+    },
+    {
+      "word": "he",
+      "start": 11.28,
+      "end": 11.48
+    },
+    {
+      "word": "felt",
+      "start": 11.48,
+      "end": 11.76
+    },
+    {
+      "word": "no",
+      "start": 11.76,
+      "end": 12.1
+    },
+    {
+      "word": "pain",
+      "start": 12.1,
+      "end": 12.4
+    },
+    {
+      "word": "and",
+      "start": 12.4,
+      "end": 12.6
+    },
+    {
+      "word": "made",
+      "start": 12.6,
+      "end": 12.74
+    },
+    {
+      "word": "a",
+      "start": 12.74,
+      "end": 12.88
+    },
+    {
+      "word": "full",
+      "start": 12.88,
+      "end": 13.2
+    },
+    {
+      "word": "recovery.",
+      "start": 13.2,
+      "end": 13.82
+    },
+    {
+      "word": "But",
+      "start": 13.74,
+      "end": 13.88
+    },
+    {
+      "word": "surprisingly,",
+      "start": 13.88,
+      "end": 14.22
+    },
+    {
+      "word": "he",
+      "start": 14.22,
+      "end": 14.58
+    },
+    {
+      "word": "doesn't",
+      "start": 14.58,
+      "end": 14.88
+    },
+    {
+      "word": "even",
+      "start": 14.88,
+      "end": 14.98
+    },
+    {
+      "word": "come",
+      "start": 14.98,
+      "end": 15.22
+    },
+    {
+      "word": "close",
+      "start": 15.22,
+      "end": 15.6
+    },
+    {
+      "word": "to",
+      "start": 15.6,
+      "end": 15.88
+    },
+    {
+      "word": "the",
+      "start": 15.88,
+      "end": 15.98
+    },
+    {
+      "word": "luckiest",
+      "start": 15.98,
+      "end": 16.4
+    },
+    {
+      "word": "person",
+      "start": 16.4,
+      "end": 16.82
+    },
+    {
+      "word": "ever.",
+      "start": 16.82,
+      "end": 17.26
+    },
+    {
+      "word": "Not",
+      "start": 17.26,
+      "end": 17.42
+    },
+    {
+      "word": "even",
+      "start": 17.42,
+      "end": 17.56
+    },
+    {
+      "word": "Alcides",
+      "start": 17.56,
+      "end": 18.12
+    },
+    {
+      "word": "Moreno",
+      "start": 18.12,
+      "end": 18.74
+    },
+    {
+      "word": "comes",
+      "start": 18.74,
+      "end": 19.06
+    },
+    {
+      "word": "close,",
+      "start": 19.06,
+      "end": 19.58
+    },
+    {
+      "word": "who",
+      "start": 19.52,
+      "end": 19.72
+    },
+    {
+      "word": "was",
+      "start": 19.72,
+      "end": 19.9
+    },
+    {
+      "word": "cleaning",
+      "start": 19.9,
+      "end": 20.22
+    },
+    {
+      "word": "the",
+      "start": 20.22,
+      "end": 20.42
+    },
+    {
+      "word": "windows",
+      "start": 20.42,
+      "end": 20.76
+    },
+    {
+      "word": "on",
+      "start": 20.76,
+      "end": 21
+    },
+    {
+      "word": "a",
+      "start": 21,
+      "end": 21.14
+    },
+    {
+      "word": "skyscraper",
+      "start": 21.14,
+      "end": 21.74
+    },
+    {
+      "word": "when",
+      "start": 21.74,
+      "end": 22.04
+    },
+    {
+      "word": "the",
+      "start": 22.04,
+      "end": 22.2
+    },
+    {
+      "word": "scaffolding",
+      "start": 22.2,
+      "end": 22.86
+    },
+    {
+      "word": "collapsed.",
+      "start": 22.86,
+      "end": 23.58
+    },
+    {
+      "word": "Somehow,",
+      "start": 23.64,
+      "end": 23.94
+    },
+    {
+      "word": "he",
+      "start": 23.94,
+      "end": 24.2
+    },
+    {
+      "word": "managed",
+      "start": 24.2,
+      "end": 24.48
+    },
+    {
+      "word": "to",
+      "start": 24.48,
+      "end": 24.68
+    },
+    {
+      "word": "ride",
+      "start": 24.68,
+      "end": 25.04
+    },
+    {
+      "word": "the",
+      "start": 25.04,
+      "end": 25.26
+    },
+    {
+      "word": "platform",
+      "start": 25.26,
+      "end": 25.72
+    },
+    {
+      "word": "as",
+      "start": 25.72,
+      "end": 26.14
+    },
+    {
+      "word": "it",
+      "start": 26.14,
+      "end": 26.26
+    },
+    {
+      "word": "fell",
+      "start": 26.26,
+      "end": 26.58
+    },
+    {
+      "word": "47",
+      "start": 26.58,
+      "end": 27.3
+    },
+    {
+      "word": "stories,",
+      "start": 27.3,
+      "end": 28.18
+    },
+    {
+      "word": "and",
+      "start": 28.14,
+      "end": 28.4
+    },
+    {
+      "word": "he",
+      "start": 28.4,
+      "end": 28.58
+    },
+    {
+      "word": "survived.",
+      "start": 28.58,
+      "end": 28.98
+    },
+    {
+      "word": "You",
+      "start": 29.18,
+      "end": 29.4
+    },
+    {
+      "word": "see,",
+      "start": 29.4,
+      "end": 29.66
+    },
+    {
+      "word": "the",
+      "start": 29.66,
+      "end": 29.76
+    },
+    {
+      "word": "luckiest",
+      "start": 29.76,
+      "end": 30.18
+    },
+    {
+      "word": "person",
+      "start": 30.18,
+      "end": 30.56
+    },
+    {
+      "word": "to",
+      "start": 30.56,
+      "end": 30.7
+    },
+    {
+      "word": "ever",
+      "start": 30.7,
+      "end": 30.92
+    },
+    {
+      "word": "live",
+      "start": 30.92,
+      "end": 31.18
+    },
+    {
+      "word": "has",
+      "start": 31.18,
+      "end": 31.5
+    },
+    {
+      "word": "to",
+      "start": 31.5,
+      "end": 31.76
+    },
+    {
+      "word": "be",
+      "start": 31.76,
+      "end": 31.86
+    },
+    {
+      "word": "Richard",
+      "start": 31.86,
+      "end": 32.28
+    },
+    {
+      "word": "Blass.",
+      "start": 32.28,
+      "end": 32.9
+    },
+    {
+      "word": "Richard",
+      "start": 32.9,
+      "end": 33.14
+    },
+    {
+      "word": "was",
+      "start": 33.14,
+      "end": 33.34
+    },
+    {
+      "word": "a",
+      "start": 33.34,
+      "end": 33.52
+    },
+    {
+      "word": "gangster",
+      "start": 33.52,
+      "end": 33.88
+    },
+    {
+      "word": "in",
+      "start": 33.88,
+      "end": 34.12
+    },
+    {
+      "word": "Canada",
+      "start": 34.12,
+      "end": 34.5
+    },
+    {
+      "word": "when",
+      "start": 34.5,
+      "end": 34.88
+    },
+    {
+      "word": "in",
+      "start": 34.88,
+      "end": 35
+    },
+    {
+      "word": "1968,",
+      "start": 35,
+      "end": 35.78
+    },
+    {
+      "word": "two",
+      "start": 35.78,
+      "end": 36.3
+    },
+    {
+      "word": "hitmen",
+      "start": 36.3,
+      "end": 36.76
+    },
+    {
+      "word": "walked",
+      "start": 36.76,
+      "end": 37.16
+    },
+    {
+      "word": "into",
+      "start": 37.16,
+      "end": 37.38
+    },
+    {
+      "word": "his",
+      "start": 37.38,
+      "end": 37.58
+    },
+    {
+      "word": "bar",
+      "start": 37.58,
+      "end": 37.84
+    },
+    {
+      "word": "and",
+      "start": 37.84,
+      "end": 38.08
+    },
+    {
+      "word": "shot",
+      "start": 38.08,
+      "end": 38.44
+    },
+    {
+      "word": "him",
+      "start": 38.44,
+      "end": 38.62
+    },
+    {
+      "word": "four",
+      "start": 38.62,
+      "end": 38.96
+    },
+    {
+      "word": "times.",
+      "start": 38.96,
+      "end": 39.44
+    },
+    {
+      "word": "He",
+      "start": 39.54,
+      "end": 39.7
+    },
+    {
+      "word": "somehow",
+      "start": 39.7,
+      "end": 40.1
+    },
+    {
+      "word": "survived.",
+      "start": 40.1,
+      "end": 40.68
+    },
+    {
+      "word": "Then",
+      "start": 41,
+      "end": 41.26
+    },
+    {
+      "word": "two",
+      "start": 41.26,
+      "end": 41.52
+    },
+    {
+      "word": "weeks",
+      "start": 41.52,
+      "end": 41.96
+    },
+    {
+      "word": "later,",
+      "start": 41.96,
+      "end": 42.44
+    },
+    {
+      "word": "they",
+      "start": 42.44,
+      "end": 42.54
+    },
+    {
+      "word": "tracked",
+      "start": 42.54,
+      "end": 42.92
+    },
+    {
+      "word": "him",
+      "start": 42.92,
+      "end": 43.12
+    },
+    {
+      "word": "to",
+      "start": 43.12,
+      "end": 43.24
+    },
+    {
+      "word": "a",
+      "start": 43.24,
+      "end": 43.38
+    },
+    {
+      "word": "hotel",
+      "start": 43.38,
+      "end": 43.74
+    },
+    {
+      "word": "and",
+      "start": 43.74,
+      "end": 44.1
+    },
+    {
+      "word": "set",
+      "start": 44.1,
+      "end": 44.42
+    },
+    {
+      "word": "it",
+      "start": 44.42,
+      "end": 44.54
+    },
+    {
+      "word": "on",
+      "start": 44.54,
+      "end": 44.68
+    },
+    {
+      "word": "fire.",
+      "start": 44.68,
+      "end": 45.16
+    },
+    {
+      "word": "Then",
+      "start": 45.26,
+      "end": 45.54
+    },
+    {
+      "word": "he",
+      "start": 45.54,
+      "end": 45.64
+    },
+    {
+      "word": "got",
+      "start": 45.64,
+      "end": 45.9
+    },
+    {
+      "word": "away",
+      "start": 45.9,
+      "end": 46.26
+    },
+    {
+      "word": "again.",
+      "start": 46.26,
+      "end": 46.7
+    },
+    {
+      "word": "But",
+      "start": 46.98,
+      "end": 47.16
+    },
+    {
+      "word": "a",
+      "start": 47.16,
+      "end": 47.26
+    },
+    {
+      "word": "month",
+      "start": 47.26,
+      "end": 47.46
+    },
+    {
+      "word": "later,",
+      "start": 47.46,
+      "end": 47.92
+    },
+    {
+      "word": "they",
+      "start": 47.92,
+      "end": 48.06
+    },
+    {
+      "word": "found",
+      "start": 48.06,
+      "end": 48.44
+    },
+    {
+      "word": "him",
+      "start": 48.44,
+      "end": 48.64
+    },
+    {
+      "word": "and",
+      "start": 48.64,
+      "end": 48.82
+    },
+    {
+      "word": "shot",
+      "start": 48.82,
+      "end": 49.14
+    },
+    {
+      "word": "him",
+      "start": 49.14,
+      "end": 49.3
+    },
+    {
+      "word": "in",
+      "start": 49.3,
+      "end": 49.44
+    },
+    {
+      "word": "the",
+      "start": 49.44,
+      "end": 49.54
+    },
+    {
+      "word": "head",
+      "start": 49.54,
+      "end": 49.82
+    },
+    {
+      "word": "twice.",
+      "start": 49.82,
+      "end": 50.94
+    },
+    {
+      "word": "Through",
+      "start": 50.58,
+      "end": 50.76
+    },
+    {
+      "word": "some",
+      "start": 50.76,
+      "end": 50.92
+    },
+    {
+      "word": "crazy",
+      "start": 50.92,
+      "end": 51.44
+    },
+    {
+      "word": "luck,",
+      "start": 51.44,
+      "end": 51.88
+    },
+    {
+      "word": "he",
+      "start": 51.88,
+      "end": 51.98
+    },
+    {
+      "word": "was",
+      "start": 51.98,
+      "end": 52.18
+    },
+    {
+      "word": "once",
+      "start": 52.18,
+      "end": 52.48
+    },
+    {
+      "word": "again",
+      "start": 52.48,
+      "end": 52.74
+    },
+    {
+      "word": "okay.",
+      "start": 52.74,
+      "end": 53.16
+    },
+    {
+      "word": "Then",
+      "start": 53.28,
+      "end": 53.52
+    },
+    {
+      "word": "after",
+      "start": 53.52,
+      "end": 53.74
+    },
+    {
+      "word": "getting",
+      "start": 53.74,
+      "end": 53.92
+    },
+    {
+      "word": "sent",
+      "start": 53.92,
+      "end": 54.2
+    },
+    {
+      "word": "to",
+      "start": 54.2,
+      "end": 54.38
+    },
+    {
+      "word": "prison,",
+      "start": 54.38,
+      "end": 54.88
+    },
+    {
+      "word": "he",
+      "start": 54.88,
+      "end": 54.92
+    },
+    {
+      "word": "beat",
+      "start": 54.92,
+      "end": 55.14
+    },
+    {
+      "word": "up",
+      "start": 55.14,
+      "end": 55.22
+    },
+    {
+      "word": "a",
+      "start": 55.22,
+      "end": 55.38
+    },
+    {
+      "word": "guard",
+      "start": 55.38,
+      "end": 55.6
+    },
+    {
+      "word": "and",
+      "start": 55.6,
+      "end": 55.72
+    },
+    {
+      "word": "escaped.",
+      "start": 55.72,
+      "end": 56.14
+    },
+    {
+      "word": "But",
+      "start": 56.32,
+      "end": 56.58
+    },
+    {
+      "word": "after",
+      "start": 56.58,
+      "end": 56.76
+    },
+    {
+      "word": "a",
+      "start": 56.76,
+      "end": 56.92
+    },
+    {
+      "word": "long",
+      "start": 56.92,
+      "end": 57.12
+    },
+    {
+      "word": "manhunt,",
+      "start": 57.12,
+      "end": 57.6
+    },
+    {
+      "word": "he",
+      "start": 57.6,
+      "end": 57.68
+    },
+    {
+      "word": "took",
+      "start": 57.68,
+      "end": 57.82
+    },
+    {
+      "word": "27",
+      "start": 57.82,
+      "end": 58.44
+    },
+    {
+      "word": "backshots",
+      "start": 58.44,
+      "end": 59.18
+    },
+    {
+      "word": "and",
+      "start": 59.18,
+      "end": 59.42
+    },
+    {
+      "word": "died.",
+      "start": 59.42,
+      "end": 60.36
+    }
+  ],
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0,
+      "end": 1.78,
+      "text": " Who is the luckiest person ever?",
+      "tokens": [
+        50365,
+        2102,
+        307,
+        264,
+        3668,
+        6495,
+        954,
+        1562,
+        30,
+        50454
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.8669248,
+      "compression_ratio": 1.6517572,
+      "no_speech_prob": 8.195102e-13
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.9,
+      "end": 4.04,
+      "text": " You might think it'd be someone like Phineas Gage,",
+      "tokens": [
+        50460,
+        509,
+        1062,
+        519,
+        309,
+        1116,
+        312,
+        1580,
+        411,
+        2623,
+        533,
+        296,
+        460,
+        609,
+        11,
+        50567
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.8669248,
+      "compression_ratio": 1.6517572,
+      "no_speech_prob": 8.195102e-13
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 4.1,
+      "end": 6.02,
+      "text": " who was working on a railroad in Vermont",
+      "tokens": [
+        50570,
+        567,
+        390,
+        1364,
+        322,
+        257,
+        30073,
+        294,
+        34754,
+        50666
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.8669248,
+      "compression_ratio": 1.6517572,
+      "no_speech_prob": 8.195102e-13
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 6.02,
+      "end": 10.56,
+      "text": " when a 1 meter long iron rod exploded and flew through his skull.",
+      "tokens": [
+        50666,
+        562,
+        257,
+        502,
+        9255,
+        938,
+        6497,
+        8685,
+        27049,
+        293,
+        15728,
+        807,
+        702,
+        11743,
+        13,
+        50893
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.8669248,
+      "compression_ratio": 1.6517572,
+      "no_speech_prob": 8.195102e-13
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 10.64,
+      "end": 13.7,
+      "text": " But shockingly, he felt no pain and made a full recovery.",
+      "tokens": [
+        50897,
+        583,
+        5588,
+        12163,
+        11,
+        415,
+        2762,
+        572,
+        1822,
+        293,
+        1027,
+        257,
+        1577,
+        8597,
+        13,
+        51050
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.8669248,
+      "compression_ratio": 1.6517572,
+      "no_speech_prob": 8.195102e-13
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 13.8,
+      "end": 17.22,
+      "text": " But surprisingly, he doesn't even come close to the luckiest person ever.",
+      "tokens": [
+        51055,
+        583,
+        17600,
+        11,
+        415,
+        1177,
+        380,
+        754,
+        808,
+        1998,
+        281,
+        264,
+        3668,
+        6495,
+        954,
+        1562,
+        13,
+        51226
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.8669248,
+      "compression_ratio": 1.6517572,
+      "no_speech_prob": 8.195102e-13
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 17.3,
+      "end": 19.52,
+      "text": " Not even Alcides Moreno comes close,",
+      "tokens": [
+        51230,
+        1726,
+        754,
+        967,
+        66,
+        1875,
+        5048,
+        1771,
+        1487,
+        1998,
+        11,
+        51341
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.8669248,
+      "compression_ratio": 1.6517572,
+      "no_speech_prob": 8.195102e-13
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 19.6,
+      "end": 23.44,
+      "text": " who was cleaning the windows on a skyscraper when the scaffolding collapsed.",
+      "tokens": [
+        51345,
+        567,
+        390,
+        8924,
+        264,
+        9309,
+        322,
+        257,
+        48227,
+        39302,
+        610,
+        562,
+        264,
+        44094,
+        278,
+        24578,
+        13,
+        51537
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.8669248,
+      "compression_ratio": 1.6517572,
+      "no_speech_prob": 8.195102e-13
+    },
+    {
+      "id": 8,
+      "seek": 0,
+      "start": 23.58,
+      "end": 28.06,
+      "text": " Somehow, he managed to ride the platform as it fell 47 stories,",
+      "tokens": [
+        51544,
+        28357,
+        11,
+        415,
+        6453,
+        281,
+        5077,
+        264,
+        3663,
+        382,
+        309,
+        5696,
+        16953,
+        3676,
+        11,
+        51768
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.8669248,
+      "compression_ratio": 1.6517572,
+      "no_speech_prob": 8.195102e-13
+    },
+    {
+      "id": 9,
+      "seek": 0,
+      "start": 28.16,
+      "end": 29.18,
+      "text": " and he survived.",
+      "tokens": [
+        51773,
+        293,
+        415,
+        14433,
+        13,
+        51824
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.8669248,
+      "compression_ratio": 1.6517572,
+      "no_speech_prob": 8.195102e-13
+    },
+    {
+      "id": 10,
+      "seek": 2918,
+      "start": 29.18,
+      "end": 32.84,
+      "text": " You see, the luckiest person to ever live has to be Richard Blass.",
+      "tokens": [
+        50365,
+        509,
+        536,
+        11,
+        264,
+        3668,
+        6495,
+        954,
+        281,
+        1562,
+        1621,
+        575,
+        281,
+        312,
+        9809,
+        2177,
+        640,
+        13,
+        50548
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.884568,
+      "compression_ratio": 1.658363,
+      "no_speech_prob": 9.505096e-13
+    },
+    {
+      "id": 11,
+      "seek": 2918,
+      "start": 32.94,
+      "end": 39.5,
+      "text": " Richard was a gangster in Canada when in 1968, two hitmen walked into his bar and shot him four times.",
+      "tokens": [
+        50553,
+        9809,
+        390,
+        257,
+        50104,
+        294,
+        6309,
+        562,
+        294,
+        29930,
+        11,
+        732,
+        2045,
+        2558,
+        7628,
+        666,
+        702,
+        2159,
+        293,
+        3347,
+        796,
+        1451,
+        1413,
+        13,
+        50881
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.884568,
+      "compression_ratio": 1.658363,
+      "no_speech_prob": 9.505096e-13
+    },
+    {
+      "id": 12,
+      "seek": 2918,
+      "start": 39.58,
+      "end": 40.9,
+      "text": " He somehow survived.",
+      "tokens": [
+        50885,
+        634,
+        6063,
+        14433,
+        13,
+        50951
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.884568,
+      "compression_ratio": 1.658363,
+      "no_speech_prob": 9.505096e-13
+    },
+    {
+      "id": 13,
+      "seek": 2918,
+      "start": 41.06,
+      "end": 45.2,
+      "text": " Then two weeks later, they tracked him to a hotel and set it on fire.",
+      "tokens": [
+        50959,
+        1396,
+        732,
+        3259,
+        1780,
+        11,
+        436,
+        31703,
+        796,
+        281,
+        257,
+        7622,
+        293,
+        992,
+        309,
+        322,
+        2610,
+        13,
+        51166
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.884568,
+      "compression_ratio": 1.658363,
+      "no_speech_prob": 9.505096e-13
+    },
+    {
+      "id": 14,
+      "seek": 2918,
+      "start": 45.32,
+      "end": 46.84,
+      "text": " Then he got away again.",
+      "tokens": [
+        51172,
+        1396,
+        415,
+        658,
+        1314,
+        797,
+        13,
+        51248
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.884568,
+      "compression_ratio": 1.658363,
+      "no_speech_prob": 9.505096e-13
+    },
+    {
+      "id": 15,
+      "seek": 2918,
+      "start": 46.98,
+      "end": 50.54,
+      "text": " But a month later, they found him and shot him in the head twice.",
+      "tokens": [
+        51255,
+        583,
+        257,
+        1618,
+        1780,
+        11,
+        436,
+        1352,
+        796,
+        293,
+        3347,
+        796,
+        294,
+        264,
+        1378,
+        6091,
+        13,
+        51433
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.884568,
+      "compression_ratio": 1.658363,
+      "no_speech_prob": 9.505096e-13
+    },
+    {
+      "id": 16,
+      "seek": 2918,
+      "start": 50.66,
+      "end": 53.16,
+      "text": " Through some crazy luck, he was once again okay.",
+      "tokens": [
+        51439,
+        8927,
+        512,
+        3219,
+        3668,
+        11,
+        415,
+        390,
+        1564,
+        797,
+        1392,
+        13,
+        51564
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.884568,
+      "compression_ratio": 1.658363,
+      "no_speech_prob": 9.505096e-13
+    },
+    {
+      "id": 17,
+      "seek": 2918,
+      "start": 53.32,
+      "end": 56.32,
+      "text": " Then after getting sent to prison, he beat up a guard and escaped.",
+      "tokens": [
+        51572,
+        1396,
+        934,
+        1242,
+        2279,
+        281,
+        6168,
+        11,
+        415,
+        4224,
+        493,
+        257,
+        6290,
+        293,
+        20397,
+        13,
+        51722
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.884568,
+      "compression_ratio": 1.658363,
+      "no_speech_prob": 9.505096e-13
+    },
+    {
+      "id": 18,
+      "seek": 5632,
+      "start": 56.32,
+      "end": 59.88,
+      "text": " But after a long manhunt, he took 27 backshots and died.",
+      "tokens": [
+        50365,
+        583,
+        934,
+        257,
+        938,
+        587,
+        71,
+        2760,
+        11,
+        415,
+        1890,
+        7634,
+        646,
+        35491,
+        293,
+        4539,
+        13,
+        50543
+      ],
+      "temperature": 0,
+      "avg_logprob": 0.9129977,
+      "compression_ratio": 0.8888889,
+      "no_speech_prob": 8.6132734e-13
+    }
+  ]
+}

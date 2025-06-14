@@ -9,6 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
-data/
-**/cookies.txt
 .env
+
+# vids data
+data/**/*.mp4
+data/**/*.mp3
