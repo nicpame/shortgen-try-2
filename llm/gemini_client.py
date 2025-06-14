@@ -46,6 +46,8 @@ def generate_speech_and_save_file(text: str, audio_file_path: str, audio_filenam
 
     model_id = GEMINI_MODELS.get(model_key)
 
+    print(f"text=\n {text} \n , audio_file_path={audio_file_path}, audio_filename={audio_filename}, model_key={model_key}")
+    return
 
     # Set up the wave file to save the output:
     import wave

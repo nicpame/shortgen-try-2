@@ -14,3 +14,4 @@ wheels/
 # vids data
 data/**/*.mp4
 data/**/*.mp3
+data/**/*.wav
