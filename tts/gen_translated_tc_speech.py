@@ -3,8 +3,9 @@ sys.path.append( os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 from llm.gemini_client import generate_speech_and_save_file
 from helpers.word_count import count_words
+import wave
 
-AUDIO_FILE_NAME="gened_sppech.wav"
+AUDIO_FILE_NAME="gened_speech.wav"
 VIDEOS_DIR = "./data/dled_shorts"
 TRANSLATED_TC_FILE_NAME="translated_transcritption.json"
 
@@ -32,6 +33,25 @@ def accumulate_tcs_dict_to_parts(texts, threshold):
         parts.append("\n".join(current_part))
 
     return parts
+
+
+def concat_wav_files(parts_paths, output_path):
+    """
+    Concatenate multiple wav files into one output file.
+    Assumes all wav files have the same parameters (channels, sample width, framerate).
+    """
+    if not parts_paths:
+        return
+    with wave.open(parts_paths[0], 'rb') as wf:
+        params = wf.getparams()
+        frames = [wf.readframes(wf.getnframes())]
+    for part_path in parts_paths[1:]:
+        with wave.open(part_path, 'rb') as wf:
+            frames.append(wf.readframes(wf.getnframes()))
+    with wave.open(output_path, 'wb') as wf_out:
+        wf_out.setparams(params)
+        for f in frames:
+            wf_out.writeframes(f)
 
 
 def batch_gen_speech(videos_dir):
@@ -67,16 +87,22 @@ def gen_speech(translated_tc_dict: dict,
     word_count_threshold_for_tts = 100
     tcs_parts = accumulate_tcs_dict_to_parts(translated_tcs_list, word_count_threshold_for_tts)
 
-    print(len(tcs_parts))
+    part_paths = []
     for i, part in enumerate(tcs_parts):
         base_filename = os.path.splitext(audio_filename)[0]
+        part_filename = f"{base_filename}_part_{i}.wav"
+        part_path = os.path.join(audio_file_path, part_filename)
         generate_speech_and_save_file(
             text=part,
             audio_file_path=audio_file_path,
-            audio_filename=f"{base_filename}_part_{i}.wav"
+            audio_filename=part_filename
         )
+        part_paths.append(part_path)
 
-
+    # Join all parts into one file
+    joined_audio_path = os.path.join(audio_file_path, audio_filename)
+    concat_wav_files(part_paths, joined_audio_path)
+    
 batch_gen_speech(VIDEOS_DIR)
 
 

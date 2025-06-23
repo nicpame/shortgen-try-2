@@ -5,8 +5,12 @@ description = "an effort to automate to some degree the process of making short 
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "dotenv>=0.9.9",
     "google-genai>=1.19.0",
     "groq>=0.26.0",
+    "librosa>=0.11.0",
     "moviepy>=2.2.1",
+    "pyrubberband>=0.4.0",
+    "soundfile>=0.13.1",
     "yt-dlp>=2025.5.22",
 ]
