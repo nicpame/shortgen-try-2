@@ -2,19 +2,24 @@
     "_default": {},
     "source_vids": {
         "1": {
-            "url": "https://www.youtube.com/shorts/gAY-O9o8qOI"
+            "url": "https://www.youtube.com/shorts/gAY-O9o8qOI",
+            "state": "candidate"
         },
         "2": {
-            "url": "https://www.youtube.com/shorts/AudK_PHOo1k"
+            "url": "https://www.youtube.com/shorts/AudK_PHOo1k",
+            "state": "candidate"
         },
         "3": {
-            "url": "https://www.youtube.com/shorts/wuxv_C8Vvxs"
+            "url": "https://www.youtube.com/shorts/wuxv_C8Vvxs",
+            "state": "candidate"
         },
         "4": {
-            "url": "https://www.youtube.com/shorts/rgwR_DB7IRc"
+            "url": "https://www.youtube.com/shorts/rgwR_DB7IRc",
+            "state": "candidate"
         },
         "5": {
-            "url": "https://www.youtube.com/shorts/UYEoYGvpYOs"
+            "url": "https://www.youtube.com/shorts/UYEoYGvpYOss",
+            "state": "candidate"
         }
     }
 }

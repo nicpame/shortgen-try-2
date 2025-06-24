@@ -14,15 +14,23 @@ from typing import Dict, Any, Optional
 import yt_dlp
 
 
+#  config
+yt_cookies_file_path = os.path.abspath('./dl/yt_cookies2.txt') 
+print(f"Using cookies file: {yt_cookies_file_path}")
+
 class YouTubeDownloader:
     def __init__(self, output_dir: str = "downloads"):
         """Initialize the YouTube downloader with output directory."""
         self.output_dir = Path(output_dir)
         self.output_dir.mkdir(exist_ok=True)
         self.default_ydl_opts = {
-            'cookiefile': 'cookies.txt'
+            'cookiefile': yt_cookies_file_path,
         }
-        
+    def set_output_dir(self, output_dir: str):
+        """Set a new output directory for downloads."""
+        self.output_dir = Path(output_dir)
+        self.output_dir.mkdir(exist_ok=True)
+
     def sanitize_filename(self, filename: str) -> str:
         """Sanitize filename to be safe for filesystem."""
         # Remove or replace invalid characters
@@ -134,7 +142,7 @@ class YouTubeDownloader:
             ydl_opts = {
                 **self.default_ydl_opts,
                 'format': quality,
-                'outtmpl': str(self.output_dir / f"{safe_title}_{video_id}.%(ext)s"),
+                'outtmpl': str(self.output_dir / f"source_vid.%(ext)s"),
                 'writethumbnail': True,
                 'writeinfojson': False,  # We'll create our own JSON
             }
@@ -218,37 +226,40 @@ class YouTubeDownloader:
         
         return str(json_path)
     
-    def process_video(self, url: str, quality: str = 'best') -> Dict[str, Any]:
+    def process_video(self, url: str, quality: str = 'best', vid_output_dir: Optional[str] = None) -> Dict[str, Any]:
         """Complete processing pipeline for a YouTube video."""
-        print(f"Processing: {url}")
+        print("Processing video for download...")
+        print(f"url: {url}")
+        print(f"dir: {vid_output_dir}")
         
+        # Optionally set a different output directory for this video
+        original_output_dir = self.output_dir
+        if vid_output_dir:
+            self.set_output_dir(vid_output_dir)
+
         try:
-            # Extract transcript first
-            print("Extracting transcript...")
-            transcript = self.extract_transcript(url)
-            
             # Download video
             print("Downloading video...")
             download_result = self.download_video(url, quality)
-            
+
             if not download_result['success']:
                 return {
                     'success': False,
                     'error': download_result['error']
                 }
-            
+
             # Create metadata JSON
             print("Creating metadata file...")
             safe_title = download_result['safe_title']
             video_id = download_result['video_id']
-            
+
             json_path = self.create_metadata_json(
-                download_result['info'], 
-                transcript, 
-                f"{safe_title}_{video_id}.mp4"
+                info=download_result['info'],
+                transcript={},
+                output_filename='source_vid_metadata.json'
             )
-            
-            return {
+
+            result = {
                 'success': True,
                 'title': download_result['title'],
                 'video_id': video_id,
@@ -257,9 +268,11 @@ class YouTubeDownloader:
                     'metadata': json_path,
                     'thumbnail': f"{safe_title}_{video_id}.jpg"
                 },
-                'transcript_available': transcript['available']
+                # 'transcript_available': transcript['available']
             }
-            
+
+            return result
+
         except Exception as e:
             return {
                 'success': False,

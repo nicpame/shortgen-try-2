@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-06-23T17:46:13.791790",
+  "video_info": {
+    "id": "AudK_PHOo1k",
+    "title": "the dumbest prison escape ever",
+    "uploader": "Emil",
+    "uploader_id": "@emilfacts",
+    "upload_date": "20250218",
+    "description": "in this video, i talk about the dumbest prison escapes ever\nif you liked the video, don't forget to subscribe",
+    "duration": 60,
+    "view_count": 269009,
+    "like_count": 9964,
+    "comment_count": 26,
+    "age_limit": 0,
+    "webpage_url": "https://www.youtube.com/watch?v=AudK_PHOo1k",
+    "thumbnail": "https://i.ytimg.com/vi/AudK_PHOo1k/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYfyA1KBMwDw==&rs=AOn4CLAFAH81lwGKd2YGb-4S6LPBs9JROw",
+    "tags": [],
+    "categories": [
+      "Entertainment"
+    ],
+    "is_live": false,
+    "was_live": false
+  },
+  "format_info": {
+    "format": "399 - 1080x1920 (1080p)+251 - audio only (medium)",
+    "format_id": "399+251",
+    "ext": "webm",
+    "resolution": "1080x1920",
+    "fps": 30,
+    "vcodec": "av01.0.08M.08",
+    "acodec": "opus",
+    "filesize": null,
+    "filesize_approx": 9322526
+  },
+  "channel_info": {
+    "channel": "Emil",
+    "channel_id": "UC9sojDsaF6PfTCkWkcGW6dw",
+    "channel_url": "https://www.youtube.com/channel/UC9sojDsaF6PfTCkWkcGW6dw",
+    "channel_follower_count": 279000
+  },
+  "transcript": {},
+  "technical_info": {
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "epoch": 1750700769,
+    "webpage_url_basename": "watch"
+  }
+}

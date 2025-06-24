@@ -17,9 +17,12 @@ def import_candidate_source_vids_to_db():
         if url is None:
             continue  # skip items without a url
         if not source_vids_db.search(Query().url == url):
+            item['state'] = 'candidate'
             source_vids_db.insert(item)
             inserted_count += 1
     print(f"Inserted {inserted_count} new items into the source_vids_db table.")
-
+    
+def get_candidate_source_vids():
+    return source_vids_db.search(Query().state == 'candidate')
 
 
