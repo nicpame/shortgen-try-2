@@ -1,0 +1,7 @@
+source_vids_rel_dir = 'data/source_vids' # relative path to project root
+
+# state consts
+[video_state]
+candidate = "candidate"
+downloaded = "downloaded"
+

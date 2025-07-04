@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-06-23T17:46:19.117588",
+  "extraction_date": "2025-06-24T15:27:12.673880",
   "video_info": {
     "id": "wuxv_C8Vvxs",
     "title": "the worlds unluckiest person",
@@ -8,7 +8,7 @@
     "upload_date": "20250216",
     "description": "in this video, i talk about the worlds unluckiest people\nif you liked the video, don't forget to subscribe",
     "duration": 57,
-    "view_count": 70081,
+    "view_count": 70084,
     "like_count": 2701,
     "comment_count": 14,
     "age_limit": 0,
@@ -42,7 +42,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1750700776,
+    "epoch": 1750778829,
     "webpage_url_basename": "watch"
   }
 }

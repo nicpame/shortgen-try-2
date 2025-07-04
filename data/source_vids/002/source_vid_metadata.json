@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-06-23T17:46:13.791790",
+  "extraction_date": "2025-06-24T15:27:07.531417",
   "video_info": {
     "id": "AudK_PHOo1k",
     "title": "the dumbest prison escape ever",
@@ -8,8 +8,8 @@
     "upload_date": "20250218",
     "description": "in this video, i talk about the dumbest prison escapes ever\nif you liked the video, don't forget to subscribe",
     "duration": 60,
-    "view_count": 269009,
-    "like_count": 9964,
+    "view_count": 269013,
+    "like_count": 9963,
     "comment_count": 26,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=AudK_PHOo1k",
@@ -42,7 +42,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1750700769,
+    "epoch": 1750778824,
     "webpage_url_basename": "watch"
   }
 }

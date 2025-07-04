@@ -1,19 +1,19 @@
 {
-  "extraction_date": "2025-06-24T15:27:01.934690",
+  "extraction_date": "2025-06-24T15:27:29.343071",
   "video_info": {
-    "id": "gAY-O9o8qOI",
-    "title": "the unluckiest death ever",
+    "id": "QqF1Ok8RDC0",
+    "title": "the worlds dumbest death",
     "uploader": "Emil",
     "uploader_id": "@emilfacts",
-    "upload_date": "20250219",
-    "description": "in this video, i talk about the worlds unluckiest death\nif you liked the video, don't forget to subscribe",
+    "upload_date": "20250211",
+    "description": "in this video, i talk about the worlds dumbest deaths\nif you liked the video, don't forget to subscribe",
     "duration": 60,
-    "view_count": 1350541,
-    "like_count": 65093,
-    "comment_count": 975,
+    "view_count": 183217,
+    "like_count": 7631,
+    "comment_count": 46,
     "age_limit": 0,
-    "webpage_url": "https://www.youtube.com/watch?v=gAY-O9o8qOI",
-    "thumbnail": "https://i.ytimg.com/vi/gAY-O9o8qOI/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYNyBbKHIwDw==&rs=AOn4CLDrRZFfwGwXFjvd8D4OHFlKIkDXbw",
+    "webpage_url": "https://www.youtube.com/watch?v=QqF1Ok8RDC0",
+    "thumbnail": "https://i.ytimg.com/vi/QqF1Ok8RDC0/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYQyBWKHIwDw==&rs=AOn4CLDZ1xqgNVrZ0BSWNpQ5oH1SpURjhg",
     "tags": [],
     "categories": [
       "Entertainment"
@@ -30,7 +30,7 @@
     "vcodec": "av01.0.08M.08",
     "acodec": "opus",
     "filesize": null,
-    "filesize_approx": 10981960
+    "filesize_approx": 12236140
   },
   "channel_info": {
     "channel": "Emil",
@@ -42,7 +42,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1750778818,
+    "epoch": 1750778845,
     "webpage_url_basename": "watch"
   }
 }

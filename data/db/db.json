@@ -3,23 +3,27 @@
     "source_vids": {
         "1": {
             "url": "https://www.youtube.com/shorts/gAY-O9o8qOI",
-            "state": "candidate"
+            "state": "downloaded"
         },
         "2": {
             "url": "https://www.youtube.com/shorts/AudK_PHOo1k",
-            "state": "candidate"
+            "state": "downloaded"
         },
         "3": {
             "url": "https://www.youtube.com/shorts/wuxv_C8Vvxs",
-            "state": "candidate"
+            "state": "downloaded"
         },
         "4": {
             "url": "https://www.youtube.com/shorts/rgwR_DB7IRc",
-            "state": "candidate"
+            "state": "downloaded"
         },
         "5": {
             "url": "https://www.youtube.com/shorts/UYEoYGvpYOss",
-            "state": "candidate"
+            "state": "downloaded"
+        },
+        "6": {
+            "url": "https://www.youtube.com/shorts/QqF1Ok8RDC0",
+            "state": "downloaded"
         }
     }
 }

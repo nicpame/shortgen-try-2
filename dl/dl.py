@@ -1,10 +1,11 @@
 import sys, os
 sys.path.append(os.getcwd())
-
+from config.config import config
+cfg = config()
 from dl.youtube_downloader import YouTubeDownloader
 
 # config
-SOURCE_VIDS_DIR = 'data/source_vids'
+SOURCE_VIDS_DIR = cfg['source_vids_rel_dir']
 
 yt_downloader = YouTubeDownloader(output_dir=SOURCE_VIDS_DIR)
 
@@ -36,9 +37,9 @@ def dl_batch_vids(source_vids):
     results = []
     for vid in source_vids:
         url = vid.get('url')
-        vid_id = vid.doc_id
+        vid_id = vid.doc_id # Assuming doc_id is the id of vid in db (used for foler name)
         vid_output_dir = os.path.join(SOURCE_VIDS_DIR, str(vid_id).zfill(3))
         result = yt_downloader.process_video(url = url, vid_output_dir=vid_output_dir)
-        result['vid_id'] = vid_id
+        result['source_vid_dir'] = vid_output_dir
         results.append(result)
     return results

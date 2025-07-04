@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-06-23T17:46:30.501943",
+  "extraction_date": "2025-06-24T15:27:23.457436",
   "video_info": {
     "id": "UYEoYGvpYOs",
     "title": "the unluckiest movie accident",
@@ -8,7 +8,7 @@
     "upload_date": "20250212",
     "description": "in this video, i talk about the unluckiest movie accidents\nif you liked the video, don't forget to subscribe",
     "duration": 56,
-    "view_count": 80184,
+    "view_count": 80185,
     "like_count": 2557,
     "comment_count": 7,
     "age_limit": 0,
@@ -42,7 +42,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1750700787,
+    "epoch": 1750778840,
     "webpage_url_basename": "watch"
   }
 }

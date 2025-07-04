@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-06-23T17:46:25.055986",
+  "extraction_date": "2025-06-24T15:27:18.095822",
   "video_info": {
     "id": "rgwR_DB7IRc",
     "title": "the luckiest person in the world",
@@ -8,7 +8,7 @@
     "upload_date": "20250213",
     "description": "in this video, i talk about the luckiest person in the world\nif you liked the video, don't forget to subscribe",
     "duration": 58,
-    "view_count": 42500,
+    "view_count": 42502,
     "like_count": 1728,
     "comment_count": 20,
     "age_limit": 0,
@@ -42,7 +42,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1750700781,
+    "epoch": 1750778835,
     "webpage_url_basename": "watch"
   }
 }
