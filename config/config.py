@@ -1,4 +1,3 @@
-
 """ 
 # read config file
 from config.config import config
@@ -6,12 +5,19 @@ cfg = config()
 """
 
 import tomllib as toml
+import os
 
-config_path = "config/config.toml"
-
-def config(path=config_path):
+def config():
     """
-    Reads a TOML file and returns its contents as a dictionary.
+    Reads all TOML files in the config directory and merges their contents into a single dictionary.
+    Later files override earlier ones for overlapping keys.
     """
-    with open(path, "rb") as f:
-        return toml.load(f)
+    config_dir = os.path.dirname(__file__)
+    config_dict = {}
+    for fname in os.listdir(config_dir):
+        if fname.endswith('.toml'):
+            fpath = os.path.join(config_dir, fname)
+            with open(fpath, "rb") as f:
+                data = toml.load(f)
+                config_dict.update(data)
+    return config_dict

@@ -1,6 +1,8 @@
 import os, json
 from typing import Dict, Union
 
+from config.config import config
+cfg = config()
 
 def read_prompt_template(file_path: str) -> str:
     """
@@ -14,7 +16,6 @@ def read_prompt_template(file_path: str) -> str:
         raise FileNotFoundError(f"Prompt template file not found: {file_path}")
     except IOError as e:
         raise IOError(f"Error reading prompt template file: {e}")
-
 
 def format_transcription_segments(sub: Dict) -> str:
     """
@@ -36,36 +37,39 @@ def format_transcription_segments(sub: Dict) -> str:
     
     return "\n".join(segments)
 
-def cook_prompt(prompt_template: str, sub: Dict, target_language: str) -> str:
+def cook_prompt(prompt_template: str, normalized_transcription: Dict, target_language_code: str) -> str:
     """
     Process the prompt template by replacing variables with actual values.
     """
     if not prompt_template:
         raise ValueError("Prompt template cannot be empty")
     
-    if not target_language or not target_language.strip():
+    if not target_language_code or not target_language_code.strip():
         raise ValueError("Target language must be specified")
     
-    if not isinstance(sub, dict):
+    if not isinstance(normalized_transcription, dict):
         raise ValueError("Transcription data must be a dictionary")
     
     # Format the transcription segments
-    transcription_segments = format_transcription_segments(sub)
+    transcription_segments = format_transcription_segments(normalized_transcription)
     
+    # convert language code to language name
+    target_language_name = cfg['language_name'][target_language_code.strip()]
+
     # Replace template variables
     cooked_prompt = prompt_template
-    cooked_prompt = cooked_prompt.replace("{TARGET_LANGUAGE}", target_language.strip())
+    cooked_prompt = cooked_prompt.replace("{TARGET_LANGUAGE}", target_language_name)
     cooked_prompt = cooked_prompt.replace("{TRANSCRIPTION_SEGMENTS}", transcription_segments)
     
     return cooked_prompt
 
-def process_translation_prompt(prompt_file_path: str, sub: Dict, target_language: str) -> str:
+def get_translation_prompt(prompt_file_path: str, normalized_transcription: Dict, target_language_code: str) -> str:
 
     # Read the prompt template from file
     prompt_template = read_prompt_template(prompt_file_path)
     
     # Cook the prompt with provided parameters
-    cooked_prompt = cook_prompt(prompt_template, sub, target_language)
+    cooked_prompt = cook_prompt(prompt_template, normalized_transcription, target_language_code)
     
     return cooked_prompt
 
@@ -89,10 +93,10 @@ def batch_cook_translate_prompt(videos_dir, prompt_file_path, target_language):
                     sub_data = json.load(file)
                     
                 # Process the translation prompt with the loaded JSON data
-                translation_prompt = process_translation_prompt(
+                translation_prompt = get_translation_prompt(
                     prompt_file_path=prompt_file_path,
-                    sub=sub_data,
-                    target_language=target_language
+                    normalized_transcription=sub_data,
+                    target_language_code=target_language
                 )
                 # Write translation prompt to JSON file
                 output_file = os.path.join(subfolder_path, "translate_prompt.json")
@@ -103,19 +107,3 @@ def batch_cook_translate_prompt(videos_dir, prompt_file_path, target_language):
                     print(f"Error writing translation prompt to {output_file}: {e}")
 
 
-
-# config
-NORMALIZED_TRANSCRIPTION_FILE_NAME = "normalized_transcription.json"
-VIDEOS_DIR = "./data/dled_shorts"
-TRANSLATE_PROMPT_DIR = './prompts/translate_transcription.md'
-TARGET_LANG = "Persian"
-
-# Example usage and testing
-if __name__ == "__main__":
-
-    batch_cook_translate_prompt(
-        videos_dir = VIDEOS_DIR,
-        prompt_file_path=TRANSLATE_PROMPT_DIR,
-        target_language=TARGET_LANG
-    )
-        

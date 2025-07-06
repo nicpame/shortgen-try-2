@@ -1,14 +1,15 @@
 import os
 import json
 from groq import Groq
-from dotenv import load_dotenv  # Add this import
+from dotenv import load_dotenv
 
 load_dotenv()
 client = Groq()
 
-def gen_transcription_and_write(filename):
+def gen_transcription_and_write(audio_file_dir):
+    print(f"Generating transcription for: {audio_file_dir}")
     # Open the audio file
-    with open(filename, "rb") as file:
+    with open(audio_file_dir, "rb") as file:
         # Create a transcription of the audio file
         transcription = client.audio.transcriptions.create(
             file=file, # Required audio file
@@ -27,6 +28,7 @@ def gen_transcription_and_write(filename):
         if hasattr(transcription, "segments"):
             result["segments"] = transcription.segments
 
-        output_path = os.path.splitext(filename)[0] + "_transcription.json"
+        parent_dir = os.path.dirname(audio_file_dir)
+        output_path = os.path.join(parent_dir, "source_transcription.json")
         with open(output_path, "w", encoding="utf-8") as out_file:
             json.dump(result, out_file, ensure_ascii=False, indent=2)
