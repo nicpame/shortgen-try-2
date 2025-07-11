@@ -1,7 +1,14 @@
 import sys, os
+
 sys.path.append(os.getcwd())
 
 from moviepy import VideoFileClip, AudioFileClip, concatenate_audioclips
+
+# config
+audio_file_name = "adjusted_speech.wav"
+source_video_name = "source_vid.mp4"
+output_video_name = "output_video.mp4"
+
 
 def mix_wav_to_mp4(
     input_video_path: str,
@@ -48,9 +55,31 @@ def mix_wav_to_mp4(
     audio.close()
     final.close()
 
-if __name__ == "__main__":
-    mix_wav_to_mp4(
-        input_video_path="/workspaces/shortgen-try-2/data/dled_shorts/GCbMNVgRrRI/source_video.mp4",
-        input_audio_path="/workspaces/shortgen-try-2/data/dled_shorts/GCbMNVgRrRI/output.wav",
-        output_video_path="output.mp4",
-    )
+
+# batch mix audio to video
+def batch_mix_audio_to_video(videos_dir: str):
+    print(f"Batch mixing audio to video in: {videos_dir}")
+    for vid_dir_name in os.listdir(videos_dir):  # List items in the directory
+        vid_dir = os.path.join(videos_dir, vid_dir_name)
+
+        # Skip if audio file does not exist in vid_dir
+        audio_file_path = os.path.join(vid_dir, audio_file_name)
+        if not os.path.isfile(audio_file_path):
+            print(f"Audio file does not exist for {vid_dir}, skipping.")
+            continue
+
+        if os.path.isdir(vid_dir):  # Check if it's a directory
+            video_file_path = os.path.join(
+                vid_dir, source_video_name
+            )  # Assuming video file is named 'video.mp4'
+            output_video_path = os.path.join(vid_dir, output_video_name)
+
+            if os.path.isfile(video_file_path):  # Check if the video file exists
+                print(f"Mixing audio to video: {vid_dir}")
+                mix_wav_to_mp4(
+                    input_video_path=video_file_path,
+                    input_audio_path=audio_file_path,
+                    output_video_path=output_video_path,
+                )
+            else:
+                print(f"Video file does not exist for {vid_dir}, skipping.")

@@ -24,6 +24,22 @@
         "6": {
             "url": "https://www.youtube.com/shorts/QqF1Ok8RDC0",
             "state": "downloaded"
+        },
+        "7": {
+            "url": "https://www.youtube.com/shorts/hRWf8eVV_f0",
+            "state": "candidate"
+        },
+        "8": {
+            "url": "https://www.youtube.com/shorts/pWDGKVXOJeQ",
+            "state": "downloaded"
+        },
+        "9": {
+            "url": "https://www.youtube.com/shorts/oWC369FZe58",
+            "state": "downloaded"
+        },
+        "10": {
+            "url": "https://www.youtube.com/shorts/BgifA3bzMOQ",
+            "state": "candidate"
         }
     }
 }

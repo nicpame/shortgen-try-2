@@ -1,55 +1,56 @@
 import librosa
 import soundfile as sf
-import numpy as np
+from audiostretchy.stretch import stretch_audio
+import time, os
+import json
 
-def change_playback_speed_to_duration(input_file, output_file, target_duration):
-    """
-    Change the playback speed of a WAV file to match a target duration.
-    
-    Args:
-        input_file (str): Path to input WAV file
-        output_file (str): Path to output WAV file
-        target_duration (float): Desired duration in seconds
-    """
-    # Load the audio file
-    y, sr = librosa.load(input_file, sr=None)
-    
-    # Calculate current duration
-    current_duration = len(y) / sr
-    
-    # Calculate speed factor needed
-    speed_factor = current_duration / target_duration
-    
-    # Change the speed using librosa's time_stretch
-    y_stretched = librosa.effects.time_stretch(y, rate=speed_factor)
-    
-    # Save the result
-    sf.write(output_file, y_stretched, sr)
-    
-    print(f"Original duration: {current_duration:.2f} seconds")
-    print(f"Target duration: {target_duration:.2f} seconds")
-    print(f"Speed factor: {speed_factor:.2f}x")
-    print(f"Saved to: {output_file}")
+# config
+GENED_SPEECH_FILE_NAME = "gened_speech.wav"
+ADJUSTED_SPEECH_FILE_NAME = "adjusted_speech.wav"
+METADATA_FILE_NAME = "source_vid_metadata.json"
 
-import librosa
-import soundfile as sf
-import pyrubberband as pyrb
 
-def change_speed_rubberband(input_file, output_file, target_duration):
-    """
-    Professional-quality time stretching using Rubber Band
-    """
-    # Load audio
-    y, sr = librosa.load(input_file, sr=None)
+def adjust_audio_duration(input_path: str, output_path: str, target_duration: float):
+    # Initialize processor
+    # Load and process: set desired duration directly
+    y, sr = librosa.load(input_path, sr=None)
     current_duration = len(y) / sr
     stretch_factor = target_duration / current_duration
-    
-    # Use Rubber Band for high-quality stretching
-    y_stretched = pyrb.time_stretch(y, sr, stretch_factor)
-    
-    sf.write(output_file, y_stretched, sr)
-    print(f"High-quality stretch: {current_duration:.2f}s → {target_duration:.2f}s")
+    stretch_audio(input_path, output_path, stretch_factor)
+
+    time.sleep(0.5)  # wait to make sure the file is written
+
+    # trim the stretched audio to the target duration coz stretch_audio wont do so
+    y, sr = librosa.load(output_path, sr=None)
+    start_sample = int(0 * sr)
+    end_sample = int(target_duration * sr)
+    y_trimmed = y[start_sample:end_sample]
+    sf.write(output_path, y_trimmed, sr)
 
 
-test = change_speed_rubberband
-test('data/dled_shorts/GCbMNVgRrRI/gened_speech.wav', 'output.wav', 60.0) 
+def batch_adjust_audio_duration(videos_dir: str):
+    print(f"Batch adjusting audio duration for videos in: {videos_dir}")
+    for vid_dir_name in os.listdir(videos_dir):  # List items in the directory
+        vid_dir = os.path.join(videos_dir, vid_dir_name)
+
+        if os.path.isdir(vid_dir):  # Check if it's a directory
+            audio_file_path = os.path.join(vid_dir, GENED_SPEECH_FILE_NAME)
+            if os.path.isfile(audio_file_path):  # Check if the file exists
+                # CALCULATE TARGET DURATION IN SECONDS
+                target_duration = (
+                    get_video_duration_from_metadata(vid_dir) - 0.5
+                )  # subtract 0.5 seconds for safety margin
+
+                print(
+                    f"Adjusting audio duration for: {vid_dir} to {target_duration} seconds"
+                )
+
+                output_path = os.path.join(vid_dir, ADJUSTED_SPEECH_FILE_NAME)
+                adjust_audio_duration(audio_file_path, output_path, target_duration)
+
+
+def get_video_duration_from_metadata(vid_dir: str) -> float:
+    metadata_path = os.path.join(vid_dir, METADATA_FILE_NAME)
+    with open(metadata_path, "r") as f:
+        vid = json.load(f)
+    return vid["video_info"]["duration"]
