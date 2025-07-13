@@ -1,0 +1,6 @@
+# This file is used to configure each generation iteration of dubbed shorts.
+[gen_config]
+
+source_vid_ids = []
+
+

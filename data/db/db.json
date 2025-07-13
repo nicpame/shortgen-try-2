@@ -31,7 +31,105 @@
         },
         "8": {
             "url": "https://www.youtube.com/shorts/pWDGKVXOJeQ",
-            "state": "downloaded"
+            "state": "downloaded",
+            "source_vid_file_path": "data/source_vids/008/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/008/source_audio.mp3",
+            "source_thumbnail_file_path": "data/source_vids/008/source_vid.webp",
+            "metadata": {
+                "extraction_date": "2025-07-07T10:41:25.698514",
+                "video_info": {
+                    "id": "pWDGKVXOJeQ",
+                    "title": "Shortest war in history! \u2503 Geography Facts! #facts #geography #history #funfacts #world #subscribe",
+                    "uploader": "GeoScope",
+                    "uploader_id": "@GeoScope22",
+                    "upload_date": "20250702",
+                    "description": "Shortest war in history! \u2503 Geography Facts! #facts #geography #history #funfacts #world #subscribe \n\nIn this video i show you the shortest lasting war ever! Like and subscribe for more content!",
+                    "duration": 32,
+                    "view_count": 15297,
+                    "like_count": 563,
+                    "comment_count": 4,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=pWDGKVXOJeQ",
+                    "thumbnail": "https://i.ytimg.com/vi/pWDGKVXOJeQ/maxresdefault.jpg",
+                    "tags": [
+                        "war",
+                        "geography",
+                        "funfacts",
+                        "funny",
+                        "edit"
+                    ],
+                    "categories": [
+                        "People & Blogs"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "399 - 1080x1920 (1080p60)+251 - audio only (medium)",
+                    "format_id": "399+251",
+                    "ext": "webm",
+                    "resolution": "1080x1920",
+                    "fps": 60,
+                    "vcodec": "av01.0.09M.08",
+                    "acodec": "opus",
+                    "filesize": null,
+                    "filesize_approx": 11290753
+                },
+                "channel_info": {
+                    "channel": "GeoScope",
+                    "channel_id": "UCXYO26eRlzz56ZZ6tkrdULA",
+                    "channel_url": "https://www.youtube.com/channel/UCXYO26eRlzz56ZZ6tkrdULA",
+                    "channel_follower_count": 246
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1751884882,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "transcription": {
+                "transcription": " This was the shortest war in human history. It started at 9.02 a.m., and by 9.40, it was over. The Anglo-Zanzibar War lasted just 38 minutes. Yes, minutes. So what happened? In 1896, a new sultan took power in Zanzibar. But the British didn't like him. They gave him an ultimatum, step down, or face war. He said no. The British bombarded his palace, sank his yacht, and destroyed his artillery, all within half an hour. He surrendered, and the British took control over Zanzibar.",
+                "segments": [
+                    {
+                        "start": 0.0,
+                        "end": 6.16,
+                        "duration": 6.16,
+                        "text": " This was the shortest war in human history. It started at 9.02 a.m., and by 9.40, it was over."
+                    },
+                    {
+                        "start": 6.6,
+                        "end": 13.92,
+                        "duration": 7.32,
+                        "text": " The Anglo-Zanzibar War lasted just 38 minutes. Yes, minutes. So what happened? In 1896, a new"
+                    },
+                    {
+                        "start": 13.92,
+                        "end": 18.8,
+                        "duration": 4.88,
+                        "text": " sultan took power in Zanzibar. But the British didn't like him. They gave him an ultimatum,"
+                    },
+                    {
+                        "start": 19.2,
+                        "end": 24.98,
+                        "duration": 5.78,
+                        "text": " step down, or face war. He said no. The British bombarded his palace, sank his yacht,"
+                    },
+                    {
+                        "start": 24.98,
+                        "end": 28.18,
+                        "duration": 3.2,
+                        "text": " and destroyed his artillery, all within half an hour."
+                    },
+                    {
+                        "start": 28.18,
+                        "end": 31.66,
+                        "duration": 3.48,
+                        "text": " He surrendered, and the British took control over Zanzibar."
+                    }
+                ]
+            }
         },
         "9": {
             "url": "https://www.youtube.com/shorts/oWC369FZe58",
@@ -40,6 +138,27 @@
         "10": {
             "url": "https://www.youtube.com/shorts/BgifA3bzMOQ",
             "state": "candidate"
+        }
+    },
+    "gened_vids": {
+        "2": {
+            "source_vid_id": 8,
+            "state": "init",
+            "created_at": "2025-07-13T07:34:26.856134",
+            "language": "fa",
+            "gen_config": {
+                "language": "fa",
+                "transform_layers": {
+                    "translate": {
+                        "prompt_file_dir": "prompts/translate_transcription.md",
+                        "model": ""
+                    },
+                    "translate_imporve": {
+                        "prompt_file_dir": "prompts/translate_transcription.md",
+                        "model": ""
+                    }
+                }
+            }
         }
     }
 }
