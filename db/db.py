@@ -10,7 +10,7 @@ DB = "./data/db/db.json"
 CANDIDATE_SOURCE_VIDS = "./data/candidate_source_vids.json"
 CANDIDATE_SOURCE_VIDS = "data/candidate_source_vids.txt"
 
-db = TinyDB(DB, indent=4)
+db = TinyDB(DB, indent=4, encoding='utf8')
 source_vids_db = db.table("source_vids")
 gened_vids_db = db.table("gened_vids")
 
@@ -138,7 +138,19 @@ def get_gened_vid_by_source_vid_id(source_vid_id: int):
     return gened_vids_db.search(Query().source_vid_id == source_vid_id)
 
 def get_gened_vid_by_id(vid_id: int):
+
     """
     Retrieves a gened video entry by its TinyDB doc_id.
     """
     return gened_vids_db.get(doc_id=vid_id)
+
+def update_gened_vid_by_id(vid_id: int, vid: dict):
+    gened_vids_db.update(vid, doc_ids=[vid_id])
+
+
+
+
+
+
+
+

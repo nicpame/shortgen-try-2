@@ -5,7 +5,7 @@ import dl.dl as dl
 from dl.extract_audios_from_vids import batch_extract_audio_from_video
 from state.update_state_after_batch_dl import update_state_after_batch_dl
 from transcription.transcription import batch_gen_transcription
-from translate.translate_transcriptions import batch_translate_transcription
+from translate.translate import batch_translate_transcription
 from tts.gen_translated_tc_speech import batch_gen_speech
 from tts.adjust_gened_speech_duration import batch_adjust_audio_duration
 from mix_vid.mix_audio_to_vid import batch_mix_audio_to_video

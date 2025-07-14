@@ -77,18 +77,17 @@ def batch_gen_speech(videos_dir):
                 )
 
 
-def gen_speech(translated_tc_dict: dict, audio_file_path: str, audio_filename: str):
+def gen_speech(translated_tc_dict: dict, target_dir: str, audio_filename: str):
     """
     takes translated_transcritption.json as dict,
     gens sppechs parts(coz gemini has limits in long texts for tts),
     saves parts to <audio_file_path>/<audio_filename> to join files later
 
     """
-    print(f"Generating speech for: {audio_file_path}")
+    print(f"Generating speech for: {target_dir}")
     translated_tcs_list = [
-        seg.get("translated", "") for seg in translated_tc_dict["segments"]
+        seg.get("transformed", "") for seg in translated_tc_dict["segments"]
     ]
-    translated_tcs_text = "\n".join(translated_tcs_list)
 
     word_count_threshold_for_tts = 100
     tcs_parts = accumulate_tcs_dict_to_parts(
@@ -99,14 +98,14 @@ def gen_speech(translated_tc_dict: dict, audio_file_path: str, audio_filename: s
     for i, part in enumerate(tcs_parts):
         base_filename = os.path.splitext(audio_filename)[0]
         part_filename = f"{base_filename}_part_{i}.wav"
-        part_path = os.path.join(audio_file_path, part_filename)
+        part_path = os.path.join(target_dir, part_filename)
         print(f"Generating speech part {i+1}/{len(tcs_parts)}: {part_filename}")
         generate_speech_and_save_file(
-            text=part, audio_file_path=audio_file_path, audio_filename=part_filename
+            prompt=part, audio_file_path=target_dir, audio_filename=part_filename
         )
         part_paths.append(part_path)
 
     # Join all parts into one file
-    joined_audio_path = os.path.join(audio_file_path, audio_filename)
+    joined_audio_path = os.path.join(target_dir, audio_filename)
     concat_wav_files(part_paths, joined_audio_path)
     print(f"Saved joined audio to: {joined_audio_path}")

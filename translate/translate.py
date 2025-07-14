@@ -14,6 +14,10 @@ class TranslationList(BaseModel):
     segments : list[TranslatedSegment]
 
 
+
+
+
+
 def batch_translate_transcription(videos_dir, translation_prompt_file_dir ,target_language_code="fa"):
 
     results = [] 
@@ -62,3 +66,46 @@ def batch_translate_transcription(videos_dir, translation_prompt_file_dir ,targe
 
     print("Batch translation complete.")
     return results
+
+
+
+
+def translate_transcription(normalized_transcription, translation_prompt_file_dir ,target_language_code="fa"):
+
+    result = {}
+
+    translation_prompt = get_translation_prompt(
+        prompt_file_path = translation_prompt_file_dir, 
+        normalized_transcription = normalized_transcription, 
+        target_language_code = target_language_code)
+    
+
+    print(f"  Requesting translation from LLM...")
+    translation_json = gemini_client.generate_json(
+        prompt = translation_prompt,
+        pydantic_schema = TranslationList) 
+
+    translation = json.loads(translation_json)
+
+    if (translation and 
+        'segments' in translation and 
+        isinstance(translation['segments'], list) and 
+        len(translation['segments']) > 0):
+        
+        result = {
+            'success': True,
+            'data': {
+                'language': target_language_code,
+                **translation
+            }
+        }
+        return result
+    else:
+        return {
+            'success': False,
+            'error': f"Translation failed for language {target_language_code}. No valid segments returned."
+        }
+
+
+
+

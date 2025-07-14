@@ -41,9 +41,10 @@ def generate_json(prompt: str, pydantic_schema, model_key: str = "flash") -> str
 
 
 def generate_speech_and_save_file(
-    text: str,
+    prompt: str,
     audio_file_path: str,
     audio_filename: str,
+    gemini_tts_voice_name: str = "Kore",
     model_key: str = "flash-tts",
 ):
     global client
@@ -63,13 +64,13 @@ def generate_speech_and_save_file(
     # Set up the client:
     response = client.models.generate_content(
         model=model_id,
-        contents=text,
+        contents=prompt,
         config=types.GenerateContentConfig(
             response_modalities=["AUDIO"],
             speech_config=types.SpeechConfig(
                 voice_config=types.VoiceConfig(
                     prebuilt_voice_config=types.PrebuiltVoiceConfig(
-                        voice_name="Kore",
+                        voice_name=gemini_tts_voice_name,
                     )
                 )
             ),
