@@ -111,8 +111,7 @@ def generate_image_and_save_file(prompt: str, image_file_path: str, model_key: s
     for part in response.candidates[0].content.parts:
         if hasattr(part, "inline_data") and part.inline_data is not None:
             image = Image.open(BytesIO(part.inline_data.data))
-            os.makedirs(image_file_path, exist_ok=True)
-            image.save(image_file_path)
+            image.save(image_file_path, 'JPEG')
             return image_file_path
     return None
 

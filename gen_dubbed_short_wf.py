@@ -97,7 +97,7 @@ def process_gened_vid(gened_vid_id: int):
     # =============================
     # step 4 : gen thumbnail
     # =============================
-    if vid["state"] == video_states_config["audio_video_mixed"]:
+    if vid["state"] == video_states_config["audio_video_mixed"] or True:
         gen_thumbnail(vid)
 
 

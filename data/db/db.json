@@ -143,7 +143,7 @@
     "gened_vids": {
         "2": {
             "source_vid_id": 8,
-            "state": "audio_video_mixed",
+            "state": "thumbnail_generated",
             "created_at": "2025-07-13T07:34:26.856134",
             "vid_dir": "data/gened_vids/002",
             "language": "fa",
@@ -178,7 +178,7 @@
                     }
                 },
                 "thumbnail": {
-                    "prompt_file_dir": "prompts/gen_thumbnail.md",
+                    "prompt_file_dir": "prompts/gen_thumbnail_v2.md",
                     "variables": {
                         "style": ""
                     }
@@ -276,7 +276,11 @@
                 "gened_speech_file_dir": "data/gened_vids/002/gened_speech.wav",
                 "adjusted_speech_file_dir": "data/gened_vids/002/adjusted_speech.wav"
             },
-            "output_video_file_dir": "data/gened_vids/002/output_vid.mp4"
+            "output_video_file_dir": "data/gened_vids/002/output_vid.mp4",
+            "thumbnail": {
+                "file_path": "data/gened_vids/002/thumbnail.jpg",
+                "formatted_prompt": "generate an image of a high-impact, cinematic YouTube thumbnail\n\n1. Background Image:\nGenerate a highly detailed and atmospheric background based on the video's core theme of: Shortest war in history! \u2503 Geography Facts! #facts #geography #history #funfacts #world #subscribe \n\nIn this video i show you the shortest lasting war ever! Like and subscribe for more content!\n\nScene Type: The scene is a [e.g., Satellite map of a continent, Sci-fi cityscape, Ancient battlefield, Volcanic landscape, Abstract network of data].\n\nVisual Style: Render the scene in a specific, high-fidelity style Cinematic digital painting\n\nPerspective & Framing: Use a dynamic, slight oblique angle or a three-quarters perspective to create a sense of depth and scale. Frame the shot to feel grand and expansive. Avoid flat, top-down, or straight-on views.\n\nColor & Lighting: Employ a rich, saturated color palette with high contrast. The lighting should be dramatic and moody, for example: [e.g., The low light of dusk with long shadows, An ominous overcast sky, Glowing neon city lights, The harsh glare of a sun over a desert].\n\nDetail Level: The background must be sharp and filled with intricate details and textures, making the environment feel tangible and immersive, not blurry or abstract.\n\n2. Dramatic Overlay:\nOverlay high-resolution, realistic visual effects (VFX) like smoke, fire, or energy glows onto the background. These effects should be strategically placed to add drama and relate to the core subject of: Shortest war in history! \u2503 Geography Facts! #facts #geography #history #funfacts #world #subscribe.\n\n\nThe final image must feel dramatic and urgent, undeniable focus. "
+            }
         }
     }
 }
