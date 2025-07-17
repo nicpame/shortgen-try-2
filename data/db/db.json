@@ -176,6 +176,12 @@
                     "variables": {
                         "tone": ""
                     }
+                },
+                "thumbnail": {
+                    "prompt_file_dir": "prompts/gen_thumbnail.md",
+                    "variables": {
+                        "style": ""
+                    }
                 }
             },
             "translation": {
