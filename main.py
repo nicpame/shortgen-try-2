@@ -1,9 +1,9 @@
-from llm.gemini_client import generate_gemini_response
+from llm.gemini_client import list_available_gemini_models, generate_text
 def main():
     
-    response = generate_gemini_response("who are you")
-    print(response)
-
+    print(generate_text(
+        prompt="Hello, how are you?",
+        model_key="flash"))
 
 if __name__ == "__main__":
     main()

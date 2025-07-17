@@ -1,16 +1,4 @@
-def list_available_gemini_models():
-    """
-    List available Gemini models and print their IDs and supported modalities.
-    """
-    global client
-    print("Available Gemini models:")
-    for model in client.list_models():
-        print(f"Model ID: {model.name}")
-        if hasattr(model, 'supported_generation_methods'):
-            print(f"  Supported generation methods: {model.supported_generation_methods}")
-        if hasattr(model, 'description'):
-            print(f"  Description: {model.description}")
-        print()
+
 from io import BytesIO
 from PIL import Image
 
@@ -23,7 +11,7 @@ load_dotenv()
 
 GEMINI_MODELS = {
     "flash": "gemini-2.5-flash-preview-05-20",
-    "pro": "gemini-1.5-pro-latest",
+    "pro": "gemini-2.5-pro-preview-06-05",
     "pro-vision": "gemini-1.5-pro-vision-latest",
     "flash-tts": "gemini-2.5-flash-preview-tts",
     "flash-image": "gemini-2.0-flash-preview-image-generation",
@@ -101,6 +89,7 @@ def generate_speech_and_save_file(
 
 
 def generate_image_and_save_file(prompt: str, image_file_path: str, model_key: str = "flash-image"):
+
     """
     Generate an image using Gemini API and save it to a file.
     Args:
@@ -126,3 +115,22 @@ def generate_image_and_save_file(prompt: str, image_file_path: str, model_key: s
             image.save(image_file_path)
             return image_file_path
     return None
+
+
+def list_available_gemini_models():
+    """
+    List available Gemini models and print their IDs and supported modalities.
+    """
+    print("List of models that support generateContent:\n")
+    for m in client.models.list():
+        if hasattr(m, 'supported_actions'):
+            for action in m.supported_actions:
+                if action == "generateContent":
+                    print(m.name)
+
+    print("\nList of models that support embedContent:\n")
+    for m in client.models.list():
+        if hasattr(m, 'supported_actions'):
+            for action in m.supported_actions:
+                if action == "embedContent":
+                    print(m.name)
