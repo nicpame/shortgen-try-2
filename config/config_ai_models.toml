@@ -1,0 +1,32 @@
+[gemini]
+[gemini.voice_name]
+zephyr = "Zephyr"           # male, bright
+puck = "Puck"               # male, upbeat
+charon = "Charon"           # male, informative
+kore = "Kore"               # female, firm
+fenrir = "Fenrir"           # male, excitable
+leda = "Leda"               # female, youthful
+orus = "Orus"               # male, firm
+aoede = "Aoede"             # female, breezy
+callirrhoe = "Callirrhoe"   # female, easy-going
+autonoe = "Autonoe"         # female, bright
+enceladus = "Enceladus"     # male, breathy
+iapetus = "Iapetus"         # male, clear
+umbriel = "Umbriel"         # male, easy-going
+algieba = "Algieba"         # female, smooth
+despina = "Despina"         # female, smooth
+erinome = "Erinome"         # female, clear
+algenib = "Algenib"         # female, gravelly
+rasalgethi = "Rasalgethi"   # male, informative
+laomedeia = "Laomedeia"     # female, upbeat
+achernar = "Achernar"       # male, soft
+alnilam = "Alnilam"         # female, firm
+schedar = "Schedar"         # female, even
+gacrux = "Gacrux"           # male, mature
+pulcherrima = "Pulcherrima" # female, forward
+achird = "Achird"           # male, friendly
+zubenelgenubi = "Zubenelgenubi" # female, casual
+vindemiatrix = "Vindemiatrix"   # female, gentle
+sadachbia = "Sadachbia"         # female, lively
+sadaltager = "Sadaltager"       # male, knowledgeable
+sulafat = "Sulafat"             # female, warm
