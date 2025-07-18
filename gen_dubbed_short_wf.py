@@ -1,6 +1,6 @@
 # imports
 import datetime
-import os
+import os, json
 import db.db as db
 from helpers.video_dir_name_from_id import video_dir_name_from_id
 import translate.translate as translate
@@ -23,14 +23,18 @@ def init_gened_vid(source_vid_id: int):
     """
     Initializes a new entry in the gened_vids_db for a given source video ID.
     """
+    
+    # Example: Load a JSON file named 'gen_config.json' from the current directory
+    with open(gen_cfg['gen_config_templates_path'], 'r') as f:
+        gen_config_templates = json.load(f)
+
 
     # TODO apply gen_config to the new entry
     gened_vid = {
         "source_vid_id": source_vid_id,
         "state": video_states_config["init"],
         "created_at": datetime.datetime.now().isoformat(),
-        # "language": gen_cfg["language"],
-        # "transform_layers": gen_cfg["transform_layers"]
+        "gen_config" : gen_config_templates.get(gen_cfg['template_id'], {})
     }
 
     gened_vid_id = db.gened_vids_db.insert(gened_vid)
@@ -270,12 +274,19 @@ def gen_title_and_description(vid: dict):
 # main entry point
 
 if __name__ == "__main__":
+
+    MODE = ['init','gen'][1]
+
+
     # Initialize gened_vids for each source_vid_id in the config
-    # for source_vid_id in gen_cfg["source_vid_ids"]:
-    #     init_gened_vid(source_vid_id)
+    if 'init' in MODE: 
+        for source_vid_id in gen_cfg["source_vid_ids"]:
+            init_gened_vid(source_vid_id)
 
-    for gened_vid in db.get_gened_vids():
-        vid_id = gened_vid.doc_id
 
-        process_gened_vid(vid_id)
-        # Uncomment the above line when process_gened_vid is implemented
+    elif 'gen' in MODE:
+        for gened_vid in db.get_gened_vids():
+            vid_id = gened_vid.doc_id
+
+            process_gened_vid(vid_id)
+            # Uncomment the above line when process_gened_vid is implemented

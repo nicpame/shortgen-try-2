@@ -1,0 +1,47 @@
+{
+    "fa_default": {
+        "language": "fa",
+        "transform_layers": {
+            "translate": {
+                "prompt_file_dir": "prompts/translate_transcription.md",
+                "variables": {
+                    "tone": ""
+                },
+                "model": ""
+            },
+            "informalize": {
+                "prompt_file_dir": "prompts/modify_translation.md",
+                "variables": {
+                    "tone": "informal, friendly, and engaging"
+                },
+                "model": ""
+            },
+            "vocalize": {
+                "prompt_file_dir": "prompts/vocalize.md",
+                "variables": {},
+                "model": ""
+            }
+        },
+        "speech": {
+            "voice_name": "puck",
+            "prompt_file_dir": "prompts/speech.md",
+            "variables": {
+                "tone": ""
+            }
+        },
+        "thumbnail": {
+            "prompt_file_dir": "prompts/gen_thumbnail_v2.md",
+            "variation_count": 1,
+            "variables": {
+                "style": ""
+            }
+        },
+        "metadata": {
+            "prompt_file_dir": "prompts/gen_metadata.md",
+            "variation_count": 4,
+            "variables": {
+                "tone": ""
+            }
+        }
+    }
+}

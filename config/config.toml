@@ -4,7 +4,7 @@ source_audio_file_name = 'source_audio.mp3'
 source_thumbnail_file_name = 'source_vid.webp' 
 source_metadata_file_name = 'source_vid_metadata.json' 
 
-gened_vids_rel_dir = 'data/source_vids'
+gened_vids_rel_dir = 'data/gened_vids'
 gened_speech_file_name = 'gened_speech.wav'
 adjusted_speech_file_name = 'adjusted_speech.wav'
 output_video_file_name = 'output_vid.mp4' # name of the output video file

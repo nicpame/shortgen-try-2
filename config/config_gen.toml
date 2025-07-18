@@ -2,5 +2,6 @@
 [gen_config]
 
 source_vid_ids = []
-
+gen_config_templates_path = 'config/gen_config_templates.json'
+template_id = "fa_default"
 
