@@ -3,7 +3,6 @@ import datetime
 import os
 import db.db as db
 from helpers.video_dir_name_from_id import video_dir_name_from_id
-import metadata.gen_thumbnail
 import translate.translate as translate
 from transform import transform
 from tts import gen_translated_tc_speech
