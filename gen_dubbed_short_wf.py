@@ -8,6 +8,7 @@ from transform import transform
 from tts import gen_translated_tc_speech
 from tts.adjust_gened_speech_duration import adjust_audio_duration
 from metadata.gen_thumbnail import generate_thumbnail
+from metadata.gen_metadata import gen_metadata
 
 # config
 from config.config import config
@@ -96,9 +97,14 @@ def process_gened_vid(gened_vid_id: int):
     # =============================
     # step 4 : gen thumbnail
     # =============================
-    if vid["state"] == video_states_config["audio_video_mixed"] or True: #TODO fix 
+    if vid["state"] == video_states_config["audio_video_mixed"]:
         gen_thumbnail(vid)
 
+    # =============================
+    # step 4 : gen metadata (title and description)
+    # =============================
+    if vid["state"] == video_states_config["thumbnail_generated"]:
+        gen_metadata(vid)
 
 # =============================
 # gened vids process steps
@@ -252,6 +258,12 @@ def gen_thumbnail(vid: dict):
         vid["state"] = video_states_config["thumbnail_generated"]
         db.update_gened_vid_by_id(vid.doc_id, vid)
 
+def gen_metadata(vid: dict):
+    metadata_result  = gen_metadata(vid = vid)
+    if metadata_result['success'] :
+        vid['metadata']['variations'] = metadata_result['variations']
+        vid['metadata']['formatted_prompt'] = metadata_result['formatted_prompt']
+        vid['state'] = video_states_config["metadata_generated"]
 
 # main entry point
 

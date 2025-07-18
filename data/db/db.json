@@ -183,6 +183,13 @@
                     "variables": {
                         "style": ""
                     }
+                },
+                "metadata" : {
+                    "prompt_file_dir": "prompts/gen_metadata.md",
+                    "variation_count": 4,
+                    "variables": {
+                        "tone": ""
+                    }
                 }
             },
             "translation": {

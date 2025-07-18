@@ -27,3 +27,4 @@ speech_generated = "speech_generated" # when speech is generated
 speech_adjusted = "speech_adjusted" # when speech is adjusted to match video duration
 audio_video_mixed = "audio_video_mixed" # when audio and video are mixed
 thumbnail_generated = "thumbnail_generated" # when thumbnail is generated
+metadata_generated = "metadata_generated" 
