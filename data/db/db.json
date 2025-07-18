@@ -179,6 +179,7 @@
                 },
                 "thumbnail": {
                     "prompt_file_dir": "prompts/gen_thumbnail_v2.md",
+                "variation_count": 4, 
                     "variables": {
                         "style": ""
                     }

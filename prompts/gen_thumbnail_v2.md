@@ -1,4 +1,4 @@
-generate an image of a high-impact, cinematic YouTube thumbnail
+generate an image of a high-impact, cinematic YouTube thumbnail 9:16 aspect ratio
 
 1. Background Image:
 Generate a highly detailed and atmospheric background based on the video's core theme of: {video_description}

@@ -9,6 +9,7 @@ from transform import transform
 from tts import gen_translated_tc_speech
 from tts.adjust_gened_speech_duration import adjust_audio_duration
 from metadata.gen_thumbnail import generate_thumbnail
+
 # config
 from config.config import config
 
@@ -46,7 +47,6 @@ def init_gened_vid(source_vid_id: int):
     # update the gened_vid with the directory path
     gened_vid["vid_dir"] = gened_vid_dir
     db.update_gened_vid_by_id(gened_vid_id, gened_vid)
-
 
 
 def process_gened_vid(gened_vid_id: int):
@@ -97,13 +97,14 @@ def process_gened_vid(gened_vid_id: int):
     # =============================
     # step 4 : gen thumbnail
     # =============================
-    if vid["state"] == video_states_config["audio_video_mixed"] or True:
+    if vid["state"] == video_states_config["audio_video_mixed"] or True: #TODO fix 
         gen_thumbnail(vid)
 
 
 # =============================
 # gened vids process steps
 # =============================
+
 
 def translate_transcription(vid: dict):
     print(f"Translating transcription for gened vid id: {vid.doc_id}")
@@ -236,27 +237,19 @@ def mix_audio_to_video(vid: dict):
 
 
 def gen_thumbnail(vid: dict):
-    source_vid = db.get_source_vid_by_id(vid["source_vid_id"])
-    vid_title = source_vid['metadata']['video_info']['title']
-    vid_description = source_vid['metadata']['video_info']['description']
-    vid_dir = vid["vid_dir"]
-    target_language = vid["gen_config"]["language"]
-    vid_overlay_text = "تاریخ جهان در ۶۰ ثانیه"
-    thumbnail_result = generate_thumbnail(
-        vid_title=vid_title,
-        vid_description=vid_description,
-        vid_overlay_text=vid_overlay_text,
-        target_language=target_language,
-        vid_dir = vid_dir,
-        prompt_file_path=vid["gen_config"]["thumbnail"]["prompt_file_dir"],
-    )
-    if thumbnail_result["result"]:
-        print(f"Thumbnail generation successful for gened vid id: {vid.doc_id}")
-        # Update the gened_vid with the thumbnail file path
-        vid["thumbnail"] = {
-            "file_path": thumbnail_result["thumbnail_file_path"],
-            "formatted_prompt": thumbnail_result["formatted_prompt"]
-        }
+    
+    variation_count = vid['gen_config']['thumbnail']['variation_count']
+    vid["thumbnail"] = []
+    for variation_index in range(variation_count):
+        thumbnail_result = generate_thumbnail(vid, variation_index)
+        if thumbnail_result["result"]:
+            print(f"Thumbnail generation successful for gened vid id: {vid.doc_id}, variation {variation_index}")
+            vid["thumbnail"].append({
+                "file_path": thumbnail_result["thumbnail_file_path"],
+                "formatted_prompt": thumbnail_result["formatted_prompt"],
+                "variation_index": variation_index
+            })
+    if vid["thumbnail"]:
         vid["state"] = video_states_config["thumbnail_generated"]
         db.update_gened_vid_by_id(vid.doc_id, vid)
 
