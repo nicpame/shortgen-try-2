@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-07-18T11:24:21.466223",
+  "extraction_date": "2025-07-18T16:23:14.415499",
   "video_info": {
     "id": "dMJk4AI5R3s",
     "title": "Why No Bridge Here? 🌉 New Zealand’s Main Islands 🇳🇿",
@@ -8,8 +8,8 @@
     "upload_date": "20250705",
     "description": "#newzealand #nz #island #bridge #shorts #geography #map #mapping #fyp",
     "duration": 48,
-    "view_count": 20441,
-    "like_count": 812,
+    "view_count": 20499,
+    "like_count": 813,
     "comment_count": 25,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=dMJk4AI5R3s",
@@ -45,7 +45,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1752837857,
+    "epoch": 1752855791,
     "webpage_url_basename": "watch"
   }
 }

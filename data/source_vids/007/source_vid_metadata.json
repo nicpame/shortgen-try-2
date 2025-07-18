@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-07-18T11:23:54.054530",
+  "extraction_date": "2025-07-18T16:22:47.255692",
   "video_info": {
     "id": "hRWf8eVV_f0",
     "title": "High altitude electrician #science #facts #shortsvideo #shorts #knowledge #funny",
@@ -8,7 +8,7 @@
     "upload_date": "20250703",
     "description": "",
     "duration": 59,
-    "view_count": 16369,
+    "view_count": 16370,
     "like_count": 601,
     "comment_count": 4,
     "age_limit": 0,
@@ -42,7 +42,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1752837831,
+    "epoch": 1752855763,
     "webpage_url_basename": "watch"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-07-18T11:24:48.615119",
+  "extraction_date": "2025-07-18T16:23:39.930368",
   "video_info": {
     "id": "OcUDDo8jfus",
     "title": "Why This Desert Is Unlike Any Other 🏜️🤯",
@@ -8,8 +8,8 @@
     "upload_date": "20250522",
     "description": "Did you know there’s a desert on our planet that’s so dry… even a light rainfall can make it bloom like a rainforest?\n\nIt sounds impossible, but this place actually exists—and it's among the driest regions on Earth.\n\nSome areas of this desert haven't seen rain in over 500 years. NASA even tests Mars rovers here due to its extreme conditions.\n\nBut in rare years, climate shifts like El Niño bring sudden downpours to the region—turning barren ground into a vibrant carpet of pink and purple flowers.\n\nA phenomenon locals call ‘desierto florido’, meaning \"blooming desert.\"\n\nBut, where is this extraordinary place?\n\nIt's located in northern Chile, and it's the Atacama Desert.",
     "duration": 44,
-    "view_count": 49671,
-    "like_count": 1669,
+    "view_count": 49690,
+    "like_count": 1670,
     "comment_count": 38,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=OcUDDo8jfus",
@@ -53,7 +53,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1752837884,
+    "epoch": 1752855816,
     "webpage_url_basename": "watch"
   }
 }

@@ -3,9 +3,9 @@
     "source_vids": {
         "7": {
             "url": "https://www.youtube.com/shorts/hRWf8eVV_f0",
-            "state": "downloaded",
+            "state": "transcription_generated",
             "metadata": {
-                "extraction_date": "2025-07-18T11:23:54.054530",
+                "extraction_date": "2025-07-18T16:22:47.255692",
                 "video_info": {
                     "id": "hRWf8eVV_f0",
                     "title": "High altitude electrician #science #facts #shortsvideo #shorts #knowledge #funny",
@@ -14,7 +14,7 @@
                     "upload_date": "20250703",
                     "description": "",
                     "duration": 59,
-                    "view_count": 16369,
+                    "view_count": 16370,
                     "like_count": 601,
                     "comment_count": 4,
                     "age_limit": 0,
@@ -48,11 +48,107 @@
                 "technical_info": {
                     "extractor": "youtube",
                     "extractor_key": "Youtube",
-                    "epoch": 1752837831,
+                    "epoch": 1752855763,
                     "webpage_url_basename": "watch"
                 }
             },
-            "source_vid_file_path": "data/source_vids/007/source_vid.mp4"
+            "source_vid_file_path": "data/source_vids/007/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/007/source_audio.mp3",
+            "transcription": {
+                "transcription": " This is one of the most dangerous jobs in the world. Every day, the work environment is high-voltage power lines hundreds of meters above the ground. These electricians not only have to climb with almost no safety protection, but also navigate complex terrain, constantly facing the risk of falling. To save time, they have to eat and even rest while suspended in the air. Sometimes, they must maintain their balance in unstable positions. This is not only a test of physical fitness, but also a psychological challenge. In summer, they endure the scorching heat of the sun, While in winter, the danger doubles as the icy power lines become slippery, requiring extreme caution with every step. Moreover, the temperature difference between day and night at such heights is huge, making it easy to lose balance. More importantly, the thousands of volts of electricity themselves pose a tremendous danger. One small mistake can cause burns or even death. High-voltage electricity also produces arc discharge, which can strike even without direct contact. Therefore, despite the high salary, many people give up this job. If it were you,",
+                "segments": [
+                    {
+                        "start": 0.0,
+                        "end": 2.18,
+                        "duration": 2.18,
+                        "text": " This is one of the most dangerous jobs in the world."
+                    },
+                    {
+                        "start": 2.56,
+                        "end": 7.06,
+                        "duration": 4.5,
+                        "text": " Every day, the work environment is high-voltage power lines hundreds of meters above the ground."
+                    },
+                    {
+                        "start": 7.34,
+                        "end": 10.76,
+                        "duration": 3.42,
+                        "text": " These electricians not only have to climb with almost no safety protection,"
+                    },
+                    {
+                        "start": 11.0,
+                        "end": 14.58,
+                        "duration": 3.58,
+                        "text": " but also navigate complex terrain, constantly facing the risk of falling."
+                    },
+                    {
+                        "start": 14.82,
+                        "end": 18.18,
+                        "duration": 3.36,
+                        "text": " To save time, they have to eat and even rest while suspended in the air."
+                    },
+                    {
+                        "start": 18.46,
+                        "end": 21.58,
+                        "duration": 3.12,
+                        "text": " Sometimes, they must maintain their balance in unstable positions."
+                    },
+                    {
+                        "start": 22.0,
+                        "end": 25.88,
+                        "duration": 3.88,
+                        "text": " This is not only a test of physical fitness, but also a psychological challenge."
+                    },
+                    {
+                        "start": 25.88,
+                        "end": 28.98,
+                        "duration": 3.1,
+                        "text": " In summer, they endure the scorching heat of the sun,"
+                    },
+                    {
+                        "start": 28.98,
+                        "end": 35.3,
+                        "duration": 6.32,
+                        "text": " While in winter, the danger doubles as the icy power lines become slippery, requiring extreme caution with every step."
+                    },
+                    {
+                        "start": 35.68,
+                        "end": 41.34,
+                        "duration": 5.66,
+                        "text": " Moreover, the temperature difference between day and night at such heights is huge, making it easy to lose balance."
+                    },
+                    {
+                        "start": 41.62,
+                        "end": 46.52,
+                        "duration": 4.9,
+                        "text": " More importantly, the thousands of volts of electricity themselves pose a tremendous danger."
+                    },
+                    {
+                        "start": 46.8,
+                        "end": 49.2,
+                        "duration": 2.4,
+                        "text": " One small mistake can cause burns or even death."
+                    },
+                    {
+                        "start": 49.4,
+                        "end": 54.68,
+                        "duration": 5.28,
+                        "text": " High-voltage electricity also produces arc discharge, which can strike even without direct contact."
+                    },
+                    {
+                        "start": 55.0,
+                        "end": 58.52,
+                        "duration": 3.52,
+                        "text": " Therefore, despite the high salary, many people give up this job."
+                    },
+                    {
+                        "start": 58.52,
+                        "end": 59.16,
+                        "duration": 0.64,
+                        "text": " If it were you,"
+                    }
+                ]
+            }
         },
         "8": {
             "url": "https://www.youtube.com/shorts/pWDGKVXOJeQ",
@@ -158,9 +254,9 @@
         },
         "10": {
             "url": "https://www.youtube.com/shorts/BgifA3bzMOQ",
-            "state": "downloaded",
+            "state": "transcription_generated",
             "metadata": {
-                "extraction_date": "2025-07-18T11:24:02.050279",
+                "extraction_date": "2025-07-18T16:22:54.529980",
                 "video_info": {
                     "id": "BgifA3bzMOQ",
                     "title": "the luckiest person ever",
@@ -169,7 +265,7 @@
                     "upload_date": "20250206",
                     "description": "in this video, i talk about the luckiest person ever\nif you liked the video, don't forget to subscribe",
                     "duration": 60,
-                    "view_count": 135739,
+                    "view_count": 135740,
                     "like_count": 4805,
                     "comment_count": 30,
                     "age_limit": 0,
@@ -203,17 +299,119 @@
                 "technical_info": {
                     "extractor": "youtube",
                     "extractor_key": "Youtube",
-                    "epoch": 1752837836,
+                    "epoch": 1752855770,
                     "webpage_url_basename": "watch"
                 }
             },
-            "source_vid_file_path": "data/source_vids/010/source_vid.mp4"
+            "source_vid_file_path": "data/source_vids/010/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/010/source_audio.mp3",
+            "transcription": {
+                "transcription": " Who is the luckiest person ever? You might think it'd be someone like Vesna Vulovi\u0107, a flight attendant who was working on a plane that exploded midair. After falling over 30,000 feet, she actually survived and made a full recovery. However, surprisingly, she doesn't even come close to the luckiest person ever. Not even Julianne Kepke comes close, a 17-year-old who was the only survivor of a plane crash over the Amazon. After falling over 10,000 feet, she survived for 11 days in the jungle, before being rescued. You see, the luckiest person to ever live has to be Mark Thompson. In 1985, Mark was piloting a small plane when the engine stopped working. Crazily, he survived the crash without a scratch. Then, a couple years later, he decided to go skydiving. During the jump, both his main and reserve parachutes didn't work, but he somehow landed in a marsh and was mostly okay. Finally, a few months later, he was out hiking when he was caught in an avalanche. His friends were able to dig him out and once again, he was fine.",
+                "segments": [
+                    {
+                        "start": 0.0,
+                        "end": 1.96,
+                        "duration": 1.96,
+                        "text": " Who is the luckiest person ever?"
+                    },
+                    {
+                        "start": 2.1,
+                        "end": 4.46,
+                        "duration": 2.36,
+                        "text": " You might think it'd be someone like Vesna Vulovi\u0107,"
+                    },
+                    {
+                        "start": 4.6,
+                        "end": 8.34,
+                        "duration": 3.74,
+                        "text": " a flight attendant who was working on a plane that exploded midair."
+                    },
+                    {
+                        "start": 8.42,
+                        "end": 13.88,
+                        "duration": 5.46,
+                        "text": " After falling over 30,000 feet, she actually survived and made a full recovery."
+                    },
+                    {
+                        "start": 14.0,
+                        "end": 17.86,
+                        "duration": 3.86,
+                        "text": " However, surprisingly, she doesn't even come close to the luckiest person ever."
+                    },
+                    {
+                        "start": 17.94,
+                        "end": 20.28,
+                        "duration": 2.34,
+                        "text": " Not even Julianne Kepke comes close,"
+                    },
+                    {
+                        "start": 20.44,
+                        "end": 24.9,
+                        "duration": 4.46,
+                        "text": " a 17-year-old who was the only survivor of a plane crash over the Amazon."
+                    },
+                    {
+                        "start": 25.04,
+                        "end": 29.8,
+                        "duration": 4.76,
+                        "text": " After falling over 10,000 feet, she survived for 11 days in the jungle,"
+                    },
+                    {
+                        "start": 29.8,
+                        "end": 34.76,
+                        "duration": 4.96,
+                        "text": " before being rescued. You see, the luckiest person to ever live has to be Mark Thompson."
+                    },
+                    {
+                        "start": 34.84,
+                        "end": 40.56,
+                        "duration": 5.72,
+                        "text": " In 1985, Mark was piloting a small plane when the engine stopped working. Crazily,"
+                    },
+                    {
+                        "start": 40.66,
+                        "end": 45.6,
+                        "duration": 4.94,
+                        "text": " he survived the crash without a scratch. Then, a couple years later, he decided to go skydiving."
+                    },
+                    {
+                        "start": 45.66,
+                        "end": 50.44,
+                        "duration": 4.78,
+                        "text": " During the jump, both his main and reserve parachutes didn't work, but he somehow landed"
+                    },
+                    {
+                        "start": 50.44,
+                        "end": 55.72,
+                        "duration": 5.28,
+                        "text": " in a marsh and was mostly okay. Finally, a few months later, he was out hiking when he was caught"
+                    },
+                    {
+                        "start": 55.72,
+                        "end": 56.64,
+                        "duration": 0.92,
+                        "text": " in an avalanche."
+                    },
+                    {
+                        "start": 56.7,
+                        "end": 58.24,
+                        "duration": 1.54,
+                        "text": " His friends were able to dig him out"
+                    },
+                    {
+                        "start": 58.24,
+                        "end": 59.9,
+                        "duration": 1.66,
+                        "text": " and once again, he was fine."
+                    }
+                ]
+            }
         },
         "11": {
             "url": "https://www.youtube.com/shorts/cXGFsFXf3lQ",
-            "state": "downloaded",
+            "state": "transcription_generated",
             "metadata": {
-                "extraction_date": "2025-07-18T11:24:08.114372",
+                "extraction_date": "2025-07-18T16:23:01.061295",
                 "video_info": {
                     "id": "cXGFsFXf3lQ",
                     "title": "What If Earth Was Flat? \ud83c\udf0d",
@@ -222,9 +420,9 @@
                     "upload_date": "20250713",
                     "description": "#earth #whatif #geography #map #mapping #shorts #fyp #learning",
                     "duration": 63,
-                    "view_count": 102951,
-                    "like_count": 4250,
-                    "comment_count": 120,
+                    "view_count": 103682,
+                    "like_count": 4283,
+                    "comment_count": 121,
                     "age_limit": 0,
                     "webpage_url": "https://www.youtube.com/watch?v=cXGFsFXf3lQ",
                     "thumbnail": "https://i.ytimg.com/vi/cXGFsFXf3lQ/maxresdefault.jpg",
@@ -264,17 +462,137 @@
                 "technical_info": {
                     "extractor": "youtube",
                     "extractor_key": "Youtube",
-                    "epoch": 1752837844,
+                    "epoch": 1752855777,
                     "webpage_url_basename": "watch"
                 }
             },
-            "source_vid_file_path": "data/source_vids/011/source_vid.mp4"
+            "source_vid_file_path": "data/source_vids/011/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/011/source_audio.mp3",
+            "transcription": {
+                "transcription": " What if the Earth was actually flat? As you probably know, the Earth is round. But for thousands of years, people believed it was flat. A giant disc with edges you could fall off. So, what if they were right? For starters, the continents would stretch across a flat plane. And Antarctica would be a towering ice wall wrapped around the edges, holding the oceans in like a frozen rim. But the laws of nature would break almost immediately. Gravity wouldn't pull straight down anymore. The farther you move from the center, the more sideways it pours, triggering massive tsunamis in the oceans, collapsing mountains, and thinning the air near the edges. Even the sky above would change as the sun wouldn't rise and set. It would circle above like a spotlight, lighting some places more than others. This would confuse seasonal cycles and throw time zones into chaos. And forget flying planes. You see, planes rely on GPS. And GPS only works because satellites stay in orbit. Without Earth's constant gravitational pull, these satellites would just drift into space.",
+                "segments": [
+                    {
+                        "start": 0.0,
+                        "end": 2.14,
+                        "duration": 2.14,
+                        "text": " What if the Earth was actually flat?"
+                    },
+                    {
+                        "start": 2.78,
+                        "end": 4.86,
+                        "duration": 2.08,
+                        "text": " As you probably know, the Earth is round."
+                    },
+                    {
+                        "start": 5.32,
+                        "end": 7.7,
+                        "duration": 2.38,
+                        "text": " But for thousands of years, people believed it was flat."
+                    },
+                    {
+                        "start": 8.18,
+                        "end": 10.34,
+                        "duration": 2.16,
+                        "text": " A giant disc with edges you could fall off."
+                    },
+                    {
+                        "start": 10.88,
+                        "end": 12.4,
+                        "duration": 1.52,
+                        "text": " So, what if they were right?"
+                    },
+                    {
+                        "start": 12.84,
+                        "end": 15.6,
+                        "duration": 2.76,
+                        "text": " For starters, the continents would stretch across a flat plane."
+                    },
+                    {
+                        "start": 16.28,
+                        "end": 19.44,
+                        "duration": 3.16,
+                        "text": " And Antarctica would be a towering ice wall wrapped around the edges,"
+                    },
+                    {
+                        "start": 19.98,
+                        "end": 21.9,
+                        "duration": 1.92,
+                        "text": " holding the oceans in like a frozen rim."
+                    },
+                    {
+                        "start": 22.18,
+                        "end": 24.86,
+                        "duration": 2.68,
+                        "text": " But the laws of nature would break almost immediately."
+                    },
+                    {
+                        "start": 25.56,
+                        "end": 27.34,
+                        "duration": 1.78,
+                        "text": " Gravity wouldn't pull straight down anymore."
+                    },
+                    {
+                        "start": 27.96,
+                        "end": 30.92,
+                        "duration": 2.96,
+                        "text": " The farther you move from the center, the more sideways it pours,"
+                    },
+                    {
+                        "start": 31.48,
+                        "end": 36.64,
+                        "duration": 5.16,
+                        "text": " triggering massive tsunamis in the oceans, collapsing mountains, and thinning the air near the edges."
+                    },
+                    {
+                        "start": 37.24,
+                        "end": 40.64,
+                        "duration": 3.4,
+                        "text": " Even the sky above would change as the sun wouldn't rise and set."
+                    },
+                    {
+                        "start": 41.16,
+                        "end": 44.9,
+                        "duration": 3.74,
+                        "text": " It would circle above like a spotlight, lighting some places more than others."
+                    },
+                    {
+                        "start": 45.58,
+                        "end": 49.02,
+                        "duration": 3.44,
+                        "text": " This would confuse seasonal cycles and throw time zones into chaos."
+                    },
+                    {
+                        "start": 49.38,
+                        "end": 50.6,
+                        "duration": 1.22,
+                        "text": " And forget flying planes."
+                    },
+                    {
+                        "start": 50.6,
+                        "end": 52.66,
+                        "duration": 2.06,
+                        "text": " You see, planes rely on GPS."
+                    },
+                    {
+                        "start": 53.28,
+                        "end": 56.06,
+                        "duration": 2.78,
+                        "text": " And GPS only works because satellites stay in orbit."
+                    },
+                    {
+                        "start": 56.06,
+                        "end": 63.06,
+                        "duration": 7.0,
+                        "text": " Without Earth's constant gravitational pull, these satellites would just drift into space."
+                    }
+                ]
+            }
         },
         "12": {
             "url": "https://www.youtube.com/shorts/ovyoQMhGsYU",
-            "state": "downloaded",
+            "state": "transcription_generated",
             "metadata": {
-                "extraction_date": "2025-07-18T11:24:14.893551",
+                "extraction_date": "2025-07-18T16:23:07.964105",
                 "video_info": {
                     "id": "ovyoQMhGsYU",
                     "title": "What If Pangea Came Back? \ud83c\udf0d",
@@ -283,8 +601,8 @@
                     "upload_date": "20250708",
                     "description": "#pangea #whatif #continents #geography #map #mapping #learning #shorts #fyp",
                     "duration": 63,
-                    "view_count": 1202652,
-                    "like_count": 71434,
+                    "view_count": 1204691,
+                    "like_count": 71508,
                     "comment_count": 442,
                     "age_limit": 0,
                     "webpage_url": "https://www.youtube.com/watch?v=ovyoQMhGsYU",
@@ -317,17 +635,137 @@
                 "technical_info": {
                     "extractor": "youtube",
                     "extractor_key": "Youtube",
-                    "epoch": 1752837851,
+                    "epoch": 1752855784,
                     "webpage_url_basename": "watch"
                 }
             },
-            "source_vid_file_path": "data/source_vids/012/source_vid.mp4"
+            "source_vid_file_path": "data/source_vids/012/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/012/source_audio.mp3",
+            "transcription": {
+                "transcription": " What would happen if the world's original supercontinent came back? This is Pangea, a single giant landmass that existed hundreds of millions of years ago, before splitting into the continents we know today. Now imagine it coming back. Asia, Africa, Europe, the Americas, all crashing back together into one giant piece of land. If that happened, sea levels would plummet, and hidden places like Zealandia, the sunken continent beneath New Zealand, could rise back above water, creating a new landmass almost the size of Australia. But geography wouldn't be the only thing to change. Peaceful oceans that once separated rival nations would be gone. The U.S. might suddenly share land borders with Morocco. Australia could merge with Southeast Asia. And Canada could touch parts of Portugal and Spain. New neighbors could mean new disputes over land, resources, and borders that no one ever agreed on. trade routes would collapse, and global shipping would have to reinvent itself. So it wouldn't just be a new map, it would be a new world.",
+                "segments": [
+                    {
+                        "start": 0.0,
+                        "end": 3.16,
+                        "duration": 3.16,
+                        "text": " What would happen if the world's original supercontinent came back?"
+                    },
+                    {
+                        "start": 3.76,
+                        "end": 8.68,
+                        "duration": 4.92,
+                        "text": " This is Pangea, a single giant landmass that existed hundreds of millions of years ago,"
+                    },
+                    {
+                        "start": 8.94,
+                        "end": 11.26,
+                        "duration": 2.32,
+                        "text": " before splitting into the continents we know today."
+                    },
+                    {
+                        "start": 11.9,
+                        "end": 13.3,
+                        "duration": 1.4,
+                        "text": " Now imagine it coming back."
+                    },
+                    {
+                        "start": 13.82,
+                        "end": 16.76,
+                        "duration": 2.94,
+                        "text": " Asia, Africa, Europe, the Americas,"
+                    },
+                    {
+                        "start": 17.26,
+                        "end": 20.22,
+                        "duration": 2.96,
+                        "text": " all crashing back together into one giant piece of land."
+                    },
+                    {
+                        "start": 20.62,
+                        "end": 22.84,
+                        "duration": 2.22,
+                        "text": " If that happened, sea levels would plummet,"
+                    },
+                    {
+                        "start": 23.24,
+                        "end": 27.1,
+                        "duration": 3.86,
+                        "text": " and hidden places like Zealandia, the sunken continent beneath New Zealand,"
+                    },
+                    {
+                        "start": 27.1,
+                        "end": 32.0,
+                        "duration": 4.9,
+                        "text": " could rise back above water, creating a new landmass almost the size of Australia."
+                    },
+                    {
+                        "start": 32.64,
+                        "end": 35.1,
+                        "duration": 2.46,
+                        "text": " But geography wouldn't be the only thing to change."
+                    },
+                    {
+                        "start": 35.6,
+                        "end": 38.96,
+                        "duration": 3.36,
+                        "text": " Peaceful oceans that once separated rival nations would be gone."
+                    },
+                    {
+                        "start": 39.36,
+                        "end": 42.1,
+                        "duration": 2.74,
+                        "text": " The U.S. might suddenly share land borders with Morocco."
+                    },
+                    {
+                        "start": 42.76,
+                        "end": 44.78,
+                        "duration": 2.02,
+                        "text": " Australia could merge with Southeast Asia."
+                    },
+                    {
+                        "start": 45.32,
+                        "end": 47.82,
+                        "duration": 2.5,
+                        "text": " And Canada could touch parts of Portugal and Spain."
+                    },
+                    {
+                        "start": 48.5,
+                        "end": 53.9,
+                        "duration": 5.4,
+                        "text": " New neighbors could mean new disputes over land, resources, and borders that no one ever agreed on."
+                    },
+                    {
+                        "start": 53.9,
+                        "end": 55.9,
+                        "duration": 2.0,
+                        "text": " trade routes would collapse,"
+                    },
+                    {
+                        "start": 55.9,
+                        "end": 58.4,
+                        "duration": 2.5,
+                        "text": " and global shipping would have to reinvent itself."
+                    },
+                    {
+                        "start": 58.4,
+                        "end": 60.4,
+                        "duration": 2.0,
+                        "text": " So it wouldn't just be a new map,"
+                    },
+                    {
+                        "start": 60.4,
+                        "end": 62.4,
+                        "duration": 2.0,
+                        "text": " it would be a new world."
+                    }
+                ]
+            }
         },
         "13": {
             "url": "https://www.youtube.com/shorts/dMJk4AI5R3s",
-            "state": "downloaded",
+            "state": "transcription_generated",
             "metadata": {
-                "extraction_date": "2025-07-18T11:24:21.466223",
+                "extraction_date": "2025-07-18T16:23:14.415499",
                 "video_info": {
                     "id": "dMJk4AI5R3s",
                     "title": "Why No Bridge Here? \ud83c\udf09 New Zealand\u2019s Main Islands \ud83c\uddf3\ud83c\uddff",
@@ -336,8 +774,8 @@
                     "upload_date": "20250705",
                     "description": "#newzealand #nz #island #bridge #shorts #geography #map #mapping #fyp",
                     "duration": 48,
-                    "view_count": 20441,
-                    "like_count": 812,
+                    "view_count": 20499,
+                    "like_count": 813,
                     "comment_count": 25,
                     "age_limit": 0,
                     "webpage_url": "https://www.youtube.com/watch?v=dMJk4AI5R3s",
@@ -373,17 +811,83 @@
                 "technical_info": {
                     "extractor": "youtube",
                     "extractor_key": "Youtube",
-                    "epoch": 1752837857,
+                    "epoch": 1752855791,
                     "webpage_url_basename": "watch"
                 }
             },
-            "source_vid_file_path": "data/source_vids/013/source_vid.mp4"
+            "source_vid_file_path": "data/source_vids/013/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/013/source_audio.mp3",
+            "transcription": {
+                "transcription": " Why isn't there a bridge between New Zealand's North and South Islands? The two are only 22 kilometers apart, close enough that you can see one coast from the other. This distance doesn't seem like much when compared to the world's longest bridge in China, which stretches 165 kilometers. So why isn't there a connection between the two? The thing is, the Cook Strait is nearly 130 meters deep, and the ocean currents here are among the strongest on Earth, shifting direction every few hours, making construction difficult. Also, drilling a tunnel is nearly impossible as the seabed is made up of hard rock. But the biggest reason of all is that the region lies on the Ring of Fire, a major seismic zone where frequent earthquakes pose a serious risk to any structure. So, all these factors make the construction of a bridge or tunnel here nearly impossible.",
+                "segments": [
+                    {
+                        "start": 0.4,
+                        "end": 3.68,
+                        "duration": 3.28,
+                        "text": " Why isn't there a bridge between New Zealand's North and South Islands?"
+                    },
+                    {
+                        "start": 4.4,
+                        "end": 8.88,
+                        "duration": 4.48,
+                        "text": " The two are only 22 kilometers apart, close enough that you can see one coast from the other."
+                    },
+                    {
+                        "start": 9.52,
+                        "end": 13.6,
+                        "duration": 4.08,
+                        "text": " This distance doesn't seem like much when compared to the world's longest bridge in China,"
+                    },
+                    {
+                        "start": 13.6,
+                        "end": 18.56,
+                        "duration": 4.96,
+                        "text": " which stretches 165 kilometers. So why isn't there a connection between the two?"
+                    },
+                    {
+                        "start": 19.28,
+                        "end": 24.08,
+                        "duration": 4.8,
+                        "text": " The thing is, the Cook Strait is nearly 130 meters deep, and the ocean currents here are"
+                    },
+                    {
+                        "start": 24.08,
+                        "end": 29.36,
+                        "duration": 5.28,
+                        "text": " among the strongest on Earth, shifting direction every few hours, making construction difficult."
+                    },
+                    {
+                        "start": 29.36,
+                        "end": 33.9,
+                        "duration": 4.54,
+                        "text": " Also, drilling a tunnel is nearly impossible as the seabed is made up of hard rock."
+                    },
+                    {
+                        "start": 33.9,
+                        "end": 37.46,
+                        "duration": 3.56,
+                        "text": " But the biggest reason of all is that the region lies on the Ring of Fire,"
+                    },
+                    {
+                        "start": 37.46,
+                        "end": 42.28,
+                        "duration": 4.82,
+                        "text": " a major seismic zone where frequent earthquakes pose a serious risk to any structure."
+                    },
+                    {
+                        "start": 42.28,
+                        "end": 47.56,
+                        "duration": 5.28,
+                        "text": " So, all these factors make the construction of a bridge or tunnel here nearly impossible."
+                    }
+                ]
+            }
         },
         "14": {
             "url": "https://www.youtube.com/shorts/bxKTboZ7ABg",
-            "state": "downloaded",
+            "state": "transcription_generated",
             "metadata": {
-                "extraction_date": "2025-07-18T11:24:27.950681",
+                "extraction_date": "2025-07-18T16:23:20.846338",
                 "video_info": {
                     "id": "bxKTboZ7ABg",
                     "title": "Why Half of Australia Is Empty \ud83e\udd2f",
@@ -392,8 +896,8 @@
                     "upload_date": "20250628",
                     "description": "",
                     "duration": 48,
-                    "view_count": 35454,
-                    "like_count": 1302,
+                    "view_count": 35492,
+                    "like_count": 1304,
                     "comment_count": 55,
                     "age_limit": 0,
                     "webpage_url": "https://www.youtube.com/watch?v=bxKTboZ7ABg",
@@ -434,17 +938,107 @@
                 "technical_info": {
                     "extractor": "youtube",
                     "extractor_key": "Youtube",
-                    "epoch": 1752837864,
+                    "epoch": 1752855797,
                     "webpage_url_basename": "watch"
                 }
             },
-            "source_vid_file_path": "data/source_vids/014/source_vid.mp4"
+            "source_vid_file_path": "data/source_vids/014/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/014/source_audio.mp3",
+            "transcription": {
+                "transcription": " See this side of Australia? It's almost empty, with no major cities. While this side, it's packed with cities like Sydney, Melbourne, Brisbane, and Adelaide. Even though the North is closer to Asia's shipping lanes than anywhere else in the country. In fact, fewer than 600,000 people live in the North, while over 27 million live in the South. And there's a very interesting reason behind this strange population gap. When the British arrived in 1788, they weren't building a country, they were building a prison. Australia's first colony wasn't meant to thrive or trade. It was meant to isolate. A penal colony far from everyone and everything. So they picked the south, where the harbors were calmer, the weather cooler, and escape was harder. Australia didn't grow from its most connected point. It grew from its most forgotten.",
+                "segments": [
+                    {
+                        "start": 0.0,
+                        "end": 3.68,
+                        "duration": 3.68,
+                        "text": " See this side of Australia? It's almost empty, with no major cities."
+                    },
+                    {
+                        "start": 4.12,
+                        "end": 9.12,
+                        "duration": 5.0,
+                        "text": " While this side, it's packed with cities like Sydney, Melbourne, Brisbane, and Adelaide."
+                    },
+                    {
+                        "start": 9.44,
+                        "end": 13.4,
+                        "duration": 3.96,
+                        "text": " Even though the North is closer to Asia's shipping lanes than anywhere else in the country."
+                    },
+                    {
+                        "start": 13.98,
+                        "end": 19.46,
+                        "duration": 5.48,
+                        "text": " In fact, fewer than 600,000 people live in the North, while over 27 million live in the South."
+                    },
+                    {
+                        "start": 19.98,
+                        "end": 23.46,
+                        "duration": 3.48,
+                        "text": " And there's a very interesting reason behind this strange population gap."
+                    },
+                    {
+                        "start": 23.88,
+                        "end": 28.68,
+                        "duration": 4.8,
+                        "text": " When the British arrived in 1788, they weren't building a country, they were building a prison."
+                    },
+                    {
+                        "start": 28.68,
+                        "end": 32.52,
+                        "duration": 3.84,
+                        "text": " Australia's first colony wasn't meant to thrive or trade."
+                    },
+                    {
+                        "start": 32.52,
+                        "end": 34.28,
+                        "duration": 1.76,
+                        "text": " It was meant to isolate."
+                    },
+                    {
+                        "start": 34.28,
+                        "end": 37.58,
+                        "duration": 3.3,
+                        "text": " A penal colony far from everyone and everything."
+                    },
+                    {
+                        "start": 37.58,
+                        "end": 39.04,
+                        "duration": 1.46,
+                        "text": " So they picked the south,"
+                    },
+                    {
+                        "start": 39.04,
+                        "end": 41.68,
+                        "duration": 2.64,
+                        "text": " where the harbors were calmer, the weather cooler,"
+                    },
+                    {
+                        "start": 41.68,
+                        "end": 43.06,
+                        "duration": 1.38,
+                        "text": " and escape was harder."
+                    },
+                    {
+                        "start": 43.06,
+                        "end": 45.76,
+                        "duration": 2.7,
+                        "text": " Australia didn't grow from its most connected point."
+                    },
+                    {
+                        "start": 45.76,
+                        "end": 47.66,
+                        "duration": 1.9,
+                        "text": " It grew from its most forgotten."
+                    }
+                ]
+            }
         },
         "15": {
             "url": "https://www.youtube.com/shorts/h5Jzwl_2P9Y",
-            "state": "downloaded",
+            "state": "transcription_generated",
             "metadata": {
-                "extraction_date": "2025-07-18T11:24:35.165832",
+                "extraction_date": "2025-07-18T16:23:27.430043",
                 "video_info": {
                     "id": "h5Jzwl_2P9Y",
                     "title": "This Country Could Soon Disappear Forever \ud83d\ude22\ud83c\udf0a",
@@ -453,7 +1047,7 @@
                     "upload_date": "20250527",
                     "description": "Did you know there\u2019s a country that might completely vanish underwater within your lifetime?\n\nMost of its land sits just 2 meters above sea level, and with the oceans rising, every storm swallows a little more of its future. Saltwater floods the fields. Homes are abandoned. And crops can\u2019t grow.\n\nIn response, the country took a drastic step: it signed a historic deal with Australia, known as the Falepili Act, allowing up to 280 of its citizens to relocate as climate refugees each year.\n\nBut here\u2019s the wildest part\u2014this country is now building a digital version of itself. A full online replica of its land and culture in the metaverse. So it can live on, even if it sinks beneath the sea.\n\nIt\u2019ll be the first nation to exist only in the cloud. And if you haven\u2019t guessed the country. It\u2019s Tuvalu.\n\n#geography #map #countries",
                     "duration": 51,
-                    "view_count": 98834,
+                    "view_count": 98845,
                     "like_count": 3613,
                     "comment_count": 121,
                     "age_limit": 0,
@@ -494,17 +1088,95 @@
                 "technical_info": {
                     "extractor": "youtube",
                     "extractor_key": "Youtube",
-                    "epoch": 1752837871,
+                    "epoch": 1752855803,
                     "webpage_url_basename": "watch"
                 }
             },
-            "source_vid_file_path": "data/source_vids/015/source_vid.mp4"
+            "source_vid_file_path": "data/source_vids/015/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/015/source_audio.mp3",
+            "transcription": {
+                "transcription": " Did you know there's a country that might completely vanish underwater within your lifetime? Most of its land sits just two meters above sea level, and with the oceans rising, every storm swallows a little more of its future. Salt water floods the fields, homes are abandoned, and crops can't grow. In response, the country took a drastic step. It signed a historic deal with Australia known as the Fallapilli Act, allowing up to 280 of its citizens to relocate as climate refugees each year. But here's the wildest part. This country is now building a digital version of itself, a full online replica of its land and culture in the metaverse, so it can live on, even if it sinks beneath the sea. It'll be the first nation to exist only in the cloud. And if you haven't guessed the country, it's Tuvalu.",
+                "segments": [
+                    {
+                        "start": 0.0,
+                        "end": 4.64,
+                        "duration": 4.64,
+                        "text": " Did you know there's a country that might completely vanish underwater within your lifetime?"
+                    },
+                    {
+                        "start": 5.22,
+                        "end": 9.44,
+                        "duration": 4.22,
+                        "text": " Most of its land sits just two meters above sea level, and with the oceans rising,"
+                    },
+                    {
+                        "start": 9.72,
+                        "end": 14.4,
+                        "duration": 4.68,
+                        "text": " every storm swallows a little more of its future. Salt water floods the fields,"
+                    },
+                    {
+                        "start": 14.8,
+                        "end": 20.64,
+                        "duration": 5.84,
+                        "text": " homes are abandoned, and crops can't grow. In response, the country took a drastic step."
+                    },
+                    {
+                        "start": 20.94,
+                        "end": 24.84,
+                        "duration": 3.9,
+                        "text": " It signed a historic deal with Australia known as the Fallapilli Act,"
+                    },
+                    {
+                        "start": 24.84,
+                        "end": 30.34,
+                        "duration": 5.5,
+                        "text": " allowing up to 280 of its citizens to relocate as climate refugees each year."
+                    },
+                    {
+                        "start": 30.78,
+                        "end": 32.2,
+                        "duration": 1.42,
+                        "text": " But here's the wildest part."
+                    },
+                    {
+                        "start": 32.58,
+                        "end": 35.58,
+                        "duration": 3.0,
+                        "text": " This country is now building a digital version of itself,"
+                    },
+                    {
+                        "start": 35.84,
+                        "end": 39.54,
+                        "duration": 3.7,
+                        "text": " a full online replica of its land and culture in the metaverse,"
+                    },
+                    {
+                        "start": 39.76,
+                        "end": 42.86,
+                        "duration": 3.1,
+                        "text": " so it can live on, even if it sinks beneath the sea."
+                    },
+                    {
+                        "start": 43.34,
+                        "end": 46.66,
+                        "duration": 3.32,
+                        "text": " It'll be the first nation to exist only in the cloud."
+                    },
+                    {
+                        "start": 47.04,
+                        "end": 49.7,
+                        "duration": 2.66,
+                        "text": " And if you haven't guessed the country, it's Tuvalu."
+                    }
+                ]
+            }
         },
         "16": {
             "url": "https://www.youtube.com/shorts/XZQrn28hxjU",
-            "state": "downloaded",
+            "state": "transcription_generated",
             "metadata": {
-                "extraction_date": "2025-07-18T11:24:41.714859",
+                "extraction_date": "2025-07-18T16:23:33.553142",
                 "video_info": {
                     "id": "XZQrn28hxjU",
                     "title": "This Town Changed Countries 8 Times in 30 Days \ud83e\udd2f",
@@ -547,17 +1219,95 @@
                 "technical_info": {
                     "extractor": "youtube",
                     "extractor_key": "Youtube",
-                    "epoch": 1752837878,
+                    "epoch": 1752855810,
                     "webpage_url_basename": "watch"
                 }
             },
-            "source_vid_file_path": "data/source_vids/016/source_vid.mp4"
+            "source_vid_file_path": "data/source_vids/016/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/016/source_audio.mp3",
+            "transcription": {
+                "transcription": " Did you know there's a town in Europe that changed countries not once, not twice, but eight times? And that too in just one single month? This happened in 1944. The town was located in Alsace-Lorraine, a region situated on the border between France and Germany, a place both nations had fought over for generations. As Allied forces pushed in and German troops fought back, the town switched hands back and forth, again and again. One day you were French, the next German. then French again, then German again. You get the idea. The signs changed, the currency changed, even the laws and language in schools kept changing, sometimes overnight. For the locals, it was more than confusing. It was terrifying. They didn't know which flag to have on their doorstep or whom to trust. And if you haven't guessed the name of the town, it's Apash.",
+                "segments": [
+                    {
+                        "start": 0.0,
+                        "end": 5.9,
+                        "duration": 5.9,
+                        "text": " Did you know there's a town in Europe that changed countries not once, not twice, but eight times?"
+                    },
+                    {
+                        "start": 6.22,
+                        "end": 8.54,
+                        "duration": 2.32,
+                        "text": " And that too in just one single month?"
+                    },
+                    {
+                        "start": 8.98,
+                        "end": 10.68,
+                        "duration": 1.7,
+                        "text": " This happened in 1944."
+                    },
+                    {
+                        "start": 11.22,
+                        "end": 16.62,
+                        "duration": 5.4,
+                        "text": " The town was located in Alsace-Lorraine, a region situated on the border between France and Germany,"
+                    },
+                    {
+                        "start": 16.94,
+                        "end": 19.66,
+                        "duration": 2.72,
+                        "text": " a place both nations had fought over for generations."
+                    },
+                    {
+                        "start": 20.22,
+                        "end": 23.48,
+                        "duration": 3.26,
+                        "text": " As Allied forces pushed in and German troops fought back,"
+                    },
+                    {
+                        "start": 23.62,
+                        "end": 27.02,
+                        "duration": 3.4,
+                        "text": " the town switched hands back and forth, again and again."
+                    },
+                    {
+                        "start": 27.02,
+                        "end": 29.92,
+                        "duration": 2.9,
+                        "text": " One day you were French, the next German."
+                    },
+                    {
+                        "start": 30.0,
+                        "end": 36.3,
+                        "duration": 6.3,
+                        "text": " then French again, then German again. You get the idea. The signs changed, the currency changed,"
+                    },
+                    {
+                        "start": 36.48,
+                        "end": 41.7,
+                        "duration": 5.22,
+                        "text": " even the laws and language in schools kept changing, sometimes overnight. For the locals,"
+                    },
+                    {
+                        "start": 41.9,
+                        "end": 46.78,
+                        "duration": 4.88,
+                        "text": " it was more than confusing. It was terrifying. They didn't know which flag to have on their"
+                    },
+                    {
+                        "start": 46.78,
+                        "end": 51.72,
+                        "duration": 4.94,
+                        "text": " doorstep or whom to trust. And if you haven't guessed the name of the town, it's Apash."
+                    }
+                ]
+            }
         },
         "17": {
             "url": "https://www.youtube.com/shorts/OcUDDo8jfus",
-            "state": "downloaded",
+            "state": "transcription_generated",
             "metadata": {
-                "extraction_date": "2025-07-18T11:24:48.615119",
+                "extraction_date": "2025-07-18T16:23:39.930368",
                 "video_info": {
                     "id": "OcUDDo8jfus",
                     "title": "Why This Desert Is Unlike Any Other \ud83c\udfdc\ufe0f\ud83e\udd2f",
@@ -566,8 +1316,8 @@
                     "upload_date": "20250522",
                     "description": "Did you know there\u2019s a desert on our planet that\u2019s so dry\u2026 even a light rainfall can make it bloom like a rainforest?\n\nIt sounds impossible, but this place actually exists\u2014and it's among the driest regions on Earth.\n\nSome areas of this desert haven't seen rain in over 500 years. NASA even tests Mars rovers here due to its extreme conditions.\n\nBut in rare years, climate shifts like El Ni\u00f1o bring sudden downpours to the region\u2014turning barren ground into a vibrant carpet of pink and purple flowers.\n\nA phenomenon locals call \u2018desierto florido\u2019, meaning \"blooming desert.\"\n\nBut, where is this extraordinary place?\n\nIt's located in northern Chile, and it's the Atacama Desert.",
                     "duration": 44,
-                    "view_count": 49671,
-                    "like_count": 1669,
+                    "view_count": 49690,
+                    "like_count": 1670,
                     "comment_count": 38,
                     "age_limit": 0,
                     "webpage_url": "https://www.youtube.com/watch?v=OcUDDo8jfus",
@@ -611,17 +1361,77 @@
                 "technical_info": {
                     "extractor": "youtube",
                     "extractor_key": "Youtube",
-                    "epoch": 1752837884,
+                    "epoch": 1752855816,
                     "webpage_url_basename": "watch"
                 }
             },
-            "source_vid_file_path": "data/source_vids/017/source_vid.mp4"
+            "source_vid_file_path": "data/source_vids/017/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/017/source_audio.mp3",
+            "transcription": {
+                "transcription": " Did you know there's a desert on our planet that's so dry, even a light rainfall can make it bloom like a rainforest? It sounds impossible, but this place actually exists, and it's among the driest regions on Earth. Some areas of this desert haven't seen rain in over 500 years. NASA even tests Mars rovers here due to its extreme conditions. But in rare years, climate shifts like El Nino bring sudden downpours to the region, turning barren ground into a vibrant carpet of pink and purple flowers, a phenomenon locals call Desierto Florido, meaning blooming desert. But where is this extraordinary place? It's located in northern Chile, and it's the Atacama Desert.",
+                "segments": [
+                    {
+                        "start": 0.0,
+                        "end": 6.02,
+                        "duration": 6.02,
+                        "text": " Did you know there's a desert on our planet that's so dry, even a light rainfall can make it bloom like a rainforest?"
+                    },
+                    {
+                        "start": 6.76,
+                        "end": 12.64,
+                        "duration": 5.88,
+                        "text": " It sounds impossible, but this place actually exists, and it's among the driest regions on Earth."
+                    },
+                    {
+                        "start": 13.0,
+                        "end": 17.26,
+                        "duration": 4.26,
+                        "text": " Some areas of this desert haven't seen rain in over 500 years."
+                    },
+                    {
+                        "start": 17.7,
+                        "end": 21.68,
+                        "duration": 3.98,
+                        "text": " NASA even tests Mars rovers here due to its extreme conditions."
+                    },
+                    {
+                        "start": 22.06,
+                        "end": 27.22,
+                        "duration": 5.16,
+                        "text": " But in rare years, climate shifts like El Nino bring sudden downpours to the region,"
+                    },
+                    {
+                        "start": 27.22,
+                        "end": 31.78,
+                        "duration": 4.56,
+                        "text": " turning barren ground into a vibrant carpet of pink and purple flowers,"
+                    },
+                    {
+                        "start": 32.02,
+                        "end": 36.14,
+                        "duration": 4.12,
+                        "text": " a phenomenon locals call Desierto Florido, meaning blooming desert."
+                    },
+                    {
+                        "start": 36.66,
+                        "end": 39.1,
+                        "duration": 2.44,
+                        "text": " But where is this extraordinary place?"
+                    },
+                    {
+                        "start": 39.52,
+                        "end": 42.86,
+                        "duration": 3.34,
+                        "text": " It's located in northern Chile, and it's the Atacama Desert."
+                    }
+                ]
+            }
         },
         "18": {
             "url": "https://www.youtube.com/shorts/oDrDkJuarY0",
-            "state": "downloaded",
+            "state": "transcription_generated",
             "metadata": {
-                "extraction_date": "2025-07-18T11:24:55.596913",
+                "extraction_date": "2025-07-18T16:23:46.856009",
                 "video_info": {
                     "id": "oDrDkJuarY0",
                     "title": "Why This River Reverses Every 6 Months \ud83d\udd04\ud83c\udf27\ufe0f",
@@ -673,17 +1483,113 @@
                 "technical_info": {
                     "extractor": "youtube",
                     "extractor_key": "Youtube",
-                    "epoch": 1752837891,
+                    "epoch": 1752855822,
                     "webpage_url_basename": "watch"
                 }
             },
-            "source_vid_file_path": "data/source_vids/018/source_vid.mp4"
+            "source_vid_file_path": "data/source_vids/018/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/018/source_audio.mp3",
+            "transcription": {
+                "transcription": " Did you know there's a river on Earth that flows backwards every six months? This isn't a myth, it's real. And this natural phenomenon happens in Southeast Asia. Meet the Tonle Sap River, located in Cambodia. For half the year, it flows south into the mighty Mekong River. But when the monsoon rains arrive, the Mekong River expands more than five times its usual size, pushing the river water back and forcing the Tonle Sap to go the other direction and flow north, filling up a massive freshwater lake. And this natural reversal isn't just a strange anomaly. It's vital for life in the region, as the expanding lake creates one of the richest inland fishing grounds in the world, feeding millions of people. So, while all the other rivers only flow in one direction, the Tonle Sap listens to the sky. And when the rain tells it to turn around, it does.",
+                "segments": [
+                    {
+                        "start": 0.0,
+                        "end": 4.3,
+                        "duration": 4.3,
+                        "text": " Did you know there's a river on Earth that flows backwards every six months?"
+                    },
+                    {
+                        "start": 4.8,
+                        "end": 6.66,
+                        "duration": 1.86,
+                        "text": " This isn't a myth, it's real."
+                    },
+                    {
+                        "start": 6.96,
+                        "end": 9.8,
+                        "duration": 2.84,
+                        "text": " And this natural phenomenon happens in Southeast Asia."
+                    },
+                    {
+                        "start": 10.42,
+                        "end": 13.52,
+                        "duration": 3.1,
+                        "text": " Meet the Tonle Sap River, located in Cambodia."
+                    },
+                    {
+                        "start": 14.04,
+                        "end": 17.22,
+                        "duration": 3.18,
+                        "text": " For half the year, it flows south into the mighty Mekong River."
+                    },
+                    {
+                        "start": 17.56,
+                        "end": 23.3,
+                        "duration": 5.74,
+                        "text": " But when the monsoon rains arrive, the Mekong River expands more than five times its usual size,"
+                    },
+                    {
+                        "start": 23.48,
+                        "end": 28.7,
+                        "duration": 5.22,
+                        "text": " pushing the river water back and forcing the Tonle Sap to go the other direction and flow north,"
+                    },
+                    {
+                        "start": 28.7,
+                        "end": 31.18,
+                        "duration": 2.48,
+                        "text": " filling up a massive freshwater lake."
+                    },
+                    {
+                        "start": 31.5,
+                        "end": 34.56,
+                        "duration": 3.06,
+                        "text": " And this natural reversal isn't just a strange anomaly."
+                    },
+                    {
+                        "start": 35.0,
+                        "end": 36.6,
+                        "duration": 1.6,
+                        "text": " It's vital for life in the region,"
+                    },
+                    {
+                        "start": 36.9,
+                        "end": 41.08,
+                        "duration": 4.18,
+                        "text": " as the expanding lake creates one of the richest inland fishing grounds in the world,"
+                    },
+                    {
+                        "start": 41.32,
+                        "end": 42.68,
+                        "duration": 1.36,
+                        "text": " feeding millions of people."
+                    },
+                    {
+                        "start": 43.26,
+                        "end": 46.38,
+                        "duration": 3.12,
+                        "text": " So, while all the other rivers only flow in one direction,"
+                    },
+                    {
+                        "start": 46.64,
+                        "end": 48.72,
+                        "duration": 2.08,
+                        "text": " the Tonle Sap listens to the sky."
+                    },
+                    {
+                        "start": 48.96,
+                        "end": 51.58,
+                        "duration": 2.62,
+                        "text": " And when the rain tells it to turn around, it does."
+                    }
+                ]
+            }
         },
         "19": {
             "url": "https://www.youtube.com/shorts/Wnxp0EV2C5k",
-            "state": "downloaded",
+            "state": "transcription_generated",
             "metadata": {
-                "extraction_date": "2025-07-18T11:25:01.981677",
+                "extraction_date": "2025-07-18T16:23:53.450442",
                 "video_info": {
                     "id": "Wnxp0EV2C5k",
                     "title": "What If a New Continent Appeared in the Pacific? \ud83c\udf0d",
@@ -692,9 +1598,9 @@
                     "upload_date": "20250517",
                     "description": "What if a new continent suddenly appeared in the Pacific Ocean?\n\nWell, the Pacific is the largest ocean on Earth\u2014so massive, it could literally fit all the continents inside it and still have room for one more continent. And if a new landmass appeared here, the entire world map would change.\n\nNew borders would need to be drawn. Trade routes would shift. But the biggest question\u2014who would claim this land?\n\nThe United States would likely move first due to its close proximity to Hawaii. China would also send its ships to build artificial islands, just like it did in the South China Sea. Then there\u2019s Australia and New Zealand, who might see this as a once-in-a-lifetime chance to rise on the global stage.\n\nBut why would everyone want it?\n\nWell, a new land could be rich in resources like oil, rare metals, and gold, making it one of the most valuable places on Earth. And with its location in the middle of the Pacific, it could become a global hub for trade, naval power, and influence.",
                     "duration": 45,
-                    "view_count": 966518,
-                    "like_count": 32594,
-                    "comment_count": 546,
+                    "view_count": 967393,
+                    "like_count": 32614,
+                    "comment_count": 547,
                     "age_limit": 0,
                     "webpage_url": "https://www.youtube.com/watch?v=Wnxp0EV2C5k",
                     "thumbnail": "https://i.ytimg.com/vi/Wnxp0EV2C5k/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYESBhKHIwDw==&rs=AOn4CLDx6RxHtIPlTXDipmojq_zsTsaz4Q",
@@ -726,17 +1632,107 @@
                 "technical_info": {
                     "extractor": "youtube",
                     "extractor_key": "Youtube",
-                    "epoch": 1752837898,
+                    "epoch": 1752855830,
                     "webpage_url_basename": "watch"
                 }
             },
-            "source_vid_file_path": "data/source_vids/019/source_vid.mp4"
+            "source_vid_file_path": "data/source_vids/019/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/019/source_audio.mp3",
+            "transcription": {
+                "transcription": " What if a new continent suddenly appeared in the Pacific Ocean? Well, the Pacific is the largest ocean on Earth. So massive, it could literally fit all the continents inside it and still have room for one more continent. And if a new landmass appeared here, the entire world's map would change. New borders would need to be drawn. Trade routes would shift. But the biggest question? Who would claim this land? The United States would likely make the first move due to its proximity to Hawaii. China would also send its ships to build artificial islands to claim it, just like it did in the South China Sea. Then there's Australia and New Zealand, who might see this as a once-in-a-lifetime chance to rise on the global stage. So, would you move here?",
+                "segments": [
+                    {
+                        "start": 0.0,
+                        "end": 3.8,
+                        "duration": 3.8,
+                        "text": " What if a new continent suddenly appeared in the Pacific Ocean?"
+                    },
+                    {
+                        "start": 4.34,
+                        "end": 7.28,
+                        "duration": 2.94,
+                        "text": " Well, the Pacific is the largest ocean on Earth."
+                    },
+                    {
+                        "start": 7.6,
+                        "end": 13.26,
+                        "duration": 5.66,
+                        "text": " So massive, it could literally fit all the continents inside it and still have room for one more continent."
+                    },
+                    {
+                        "start": 13.7,
+                        "end": 18.08,
+                        "duration": 4.38,
+                        "text": " And if a new landmass appeared here, the entire world's map would change."
+                    },
+                    {
+                        "start": 18.44,
+                        "end": 20.18,
+                        "duration": 1.74,
+                        "text": " New borders would need to be drawn."
+                    },
+                    {
+                        "start": 20.52,
+                        "end": 21.68,
+                        "duration": 1.16,
+                        "text": " Trade routes would shift."
+                    },
+                    {
+                        "start": 22.06,
+                        "end": 23.14,
+                        "duration": 1.08,
+                        "text": " But the biggest question?"
+                    },
+                    {
+                        "start": 23.54,
+                        "end": 25.06,
+                        "duration": 1.52,
+                        "text": " Who would claim this land?"
+                    },
+                    {
+                        "start": 25.06,
+                        "end": 29.62,
+                        "duration": 4.56,
+                        "text": " The United States would likely make the first move due to its proximity to Hawaii."
+                    },
+                    {
+                        "start": 30.0,
+                        "end": 33.84,
+                        "duration": 3.84,
+                        "text": " China would also send its ships to build artificial islands to claim it,"
+                    },
+                    {
+                        "start": 34.0,
+                        "end": 35.88,
+                        "duration": 1.88,
+                        "text": " just like it did in the South China Sea."
+                    },
+                    {
+                        "start": 36.28,
+                        "end": 38.28,
+                        "duration": 2.0,
+                        "text": " Then there's Australia and New Zealand,"
+                    },
+                    {
+                        "start": 38.44,
+                        "end": 42.54,
+                        "duration": 4.1,
+                        "text": " who might see this as a once-in-a-lifetime chance to rise on the global stage."
+                    },
+                    {
+                        "start": 42.92,
+                        "end": 44.16,
+                        "duration": 1.24,
+                        "text": " So, would you move here?"
+                    }
+                ]
+            }
         },
         "20": {
             "url": "https://www.youtube.com/shorts/jLts2glbA0Q",
-            "state": "downloaded",
+            "state": "transcription_generated",
             "metadata": {
-                "extraction_date": "2025-07-18T11:25:09.215661",
+                "extraction_date": "2025-07-18T16:24:00.176772",
                 "video_info": {
                     "id": "jLts2glbA0Q",
                     "title": "Why No Bridge on the Amazon River? \ud83c\udf09\ud83c\udf0a",
@@ -745,7 +1741,7 @@
                     "upload_date": "20250512",
                     "description": "",
                     "duration": 50,
-                    "view_count": 56353,
+                    "view_count": 56365,
                     "like_count": 2240,
                     "comment_count": 52,
                     "age_limit": 0,
@@ -785,11 +1781,107 @@
                 "technical_info": {
                     "extractor": "youtube",
                     "extractor_key": "Youtube",
-                    "epoch": 1752837905,
+                    "epoch": 1752855836,
                     "webpage_url_basename": "watch"
                 }
             },
-            "source_vid_file_path": "data/source_vids/020/source_vid.mp4"
+            "source_vid_file_path": "data/source_vids/020/source_vid.mp4",
+            "source_audio_file_path": "data/source_vids/020/source_audio.mp3",
+            "transcription": {
+                "transcription": " Did you know why there isn't a single bridge across the Amazon River? You see, the Amazon is one of the longest rivers in the world, stretching over 7,000 kilometers from east to west. That's almost as long as the Nile, which, by the way, has over 100 bridges crossing it. So why hasn't anyone built even one bridge here? Well, the main reason isn't just geography, but what lies under the ground. Scientists recently discovered a second river deep below the Amazon called the Hamza River. This hidden underground river makes the ground above it soft and unstable, making large-scale construction nearly impossible. Also, during the rainy season, the Amazon can get really wide. It can expand from just one or two kilometers to almost 50 kilometers across, turning it into the most unpredictable river in the world.",
+                "segments": [
+                    {
+                        "start": 0.0,
+                        "end": 3.38,
+                        "duration": 3.38,
+                        "text": " Did you know why there isn't a single bridge across the Amazon River?"
+                    },
+                    {
+                        "start": 3.82,
+                        "end": 6.9,
+                        "duration": 3.08,
+                        "text": " You see, the Amazon is one of the longest rivers in the world,"
+                    },
+                    {
+                        "start": 7.14,
+                        "end": 10.4,
+                        "duration": 3.26,
+                        "text": " stretching over 7,000 kilometers from east to west."
+                    },
+                    {
+                        "start": 10.72,
+                        "end": 12.66,
+                        "duration": 1.94,
+                        "text": " That's almost as long as the Nile,"
+                    },
+                    {
+                        "start": 12.88,
+                        "end": 16.18,
+                        "duration": 3.3,
+                        "text": " which, by the way, has over 100 bridges crossing it."
+                    },
+                    {
+                        "start": 16.44,
+                        "end": 19.64,
+                        "duration": 3.2,
+                        "text": " So why hasn't anyone built even one bridge here?"
+                    },
+                    {
+                        "start": 20.04,
+                        "end": 22.42,
+                        "duration": 2.38,
+                        "text": " Well, the main reason isn't just geography,"
+                    },
+                    {
+                        "start": 22.7,
+                        "end": 24.34,
+                        "duration": 1.64,
+                        "text": " but what lies under the ground."
+                    },
+                    {
+                        "start": 24.76,
+                        "end": 28.42,
+                        "duration": 3.66,
+                        "text": " Scientists recently discovered a second river deep below the Amazon"
+                    },
+                    {
+                        "start": 28.42,
+                        "end": 29.78,
+                        "duration": 1.36,
+                        "text": " called the Hamza River."
+                    },
+                    {
+                        "start": 30.0,
+                        "end": 34.12,
+                        "duration": 4.12,
+                        "text": " This hidden underground river makes the ground above it soft and unstable,"
+                    },
+                    {
+                        "start": 34.38,
+                        "end": 37.0,
+                        "duration": 2.62,
+                        "text": " making large-scale construction nearly impossible."
+                    },
+                    {
+                        "start": 37.46,
+                        "end": 41.08,
+                        "duration": 3.62,
+                        "text": " Also, during the rainy season, the Amazon can get really wide."
+                    },
+                    {
+                        "start": 41.08,
+                        "end": 46.46,
+                        "duration": 5.38,
+                        "text": " It can expand from just one or two kilometers to almost 50 kilometers across,"
+                    },
+                    {
+                        "start": 46.7,
+                        "end": 49.56,
+                        "duration": 2.86,
+                        "text": " turning it into the most unpredictable river in the world."
+                    }
+                ]
+            }
         }
     },
     "gened_vids": {

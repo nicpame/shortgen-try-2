@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-07-18T11:24:08.114372",
+  "extraction_date": "2025-07-18T16:23:01.061295",
   "video_info": {
     "id": "cXGFsFXf3lQ",
     "title": "What If Earth Was Flat? 🌍",
@@ -8,9 +8,9 @@
     "upload_date": "20250713",
     "description": "#earth #whatif #geography #map #mapping #shorts #fyp #learning",
     "duration": 63,
-    "view_count": 102951,
-    "like_count": 4250,
-    "comment_count": 120,
+    "view_count": 103682,
+    "like_count": 4283,
+    "comment_count": 121,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=cXGFsFXf3lQ",
     "thumbnail": "https://i.ytimg.com/vi/cXGFsFXf3lQ/maxresdefault.jpg",
@@ -50,7 +50,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1752837844,
+    "epoch": 1752855777,
     "webpage_url_basename": "watch"
   }
 }

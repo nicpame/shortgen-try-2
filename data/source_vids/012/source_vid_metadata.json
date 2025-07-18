@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-07-18T11:24:14.893551",
+  "extraction_date": "2025-07-18T16:23:07.964105",
   "video_info": {
     "id": "ovyoQMhGsYU",
     "title": "What If Pangea Came Back? 🌍",
@@ -8,8 +8,8 @@
     "upload_date": "20250708",
     "description": "#pangea #whatif #continents #geography #map #mapping #learning #shorts #fyp",
     "duration": 63,
-    "view_count": 1202652,
-    "like_count": 71434,
+    "view_count": 1204691,
+    "like_count": 71508,
     "comment_count": 442,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=ovyoQMhGsYU",
@@ -42,7 +42,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1752837851,
+    "epoch": 1752855784,
     "webpage_url_basename": "watch"
   }
 }

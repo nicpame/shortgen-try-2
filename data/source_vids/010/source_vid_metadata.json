@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-07-18T11:24:02.050279",
+  "extraction_date": "2025-07-18T16:22:54.529980",
   "video_info": {
     "id": "BgifA3bzMOQ",
     "title": "the luckiest person ever",
@@ -8,7 +8,7 @@
     "upload_date": "20250206",
     "description": "in this video, i talk about the luckiest person ever\nif you liked the video, don't forget to subscribe",
     "duration": 60,
-    "view_count": 135739,
+    "view_count": 135740,
     "like_count": 4805,
     "comment_count": 30,
     "age_limit": 0,
@@ -42,7 +42,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1752837836,
+    "epoch": 1752855770,
     "webpage_url_basename": "watch"
   }
 }

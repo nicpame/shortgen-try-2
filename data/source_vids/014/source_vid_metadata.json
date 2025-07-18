@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-07-18T11:24:27.950681",
+  "extraction_date": "2025-07-18T16:23:20.846338",
   "video_info": {
     "id": "bxKTboZ7ABg",
     "title": "Why Half of Australia Is Empty 🤯",
@@ -8,8 +8,8 @@
     "upload_date": "20250628",
     "description": "",
     "duration": 48,
-    "view_count": 35454,
-    "like_count": 1302,
+    "view_count": 35492,
+    "like_count": 1304,
     "comment_count": 55,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=bxKTboZ7ABg",
@@ -50,7 +50,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1752837864,
+    "epoch": 1752855797,
     "webpage_url_basename": "watch"
   }
 }

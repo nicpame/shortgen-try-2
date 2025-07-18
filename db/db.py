@@ -35,7 +35,10 @@ def import_candidate_source_vids_to_db():
 
 
 def get_candidate_source_vids():
-    return source_vids_db.search(Query().state == video_states_config["candidate"])
+    return get_source_vids_by_state(state='candidate')
+
+def get_source_vids_by_state(state: str):
+    return source_vids_db.search(Query().state == state)
 
 
 def get_source_vid_by_id(source_vid_id: int):
@@ -55,6 +58,9 @@ def get_source_vid_by_id(source_vid_id: int):
 
 def update_source_vid_by_id(vid_id: int, vid: dict):
     source_vids_db.update(vid, doc_ids=[vid_id])
+
+def update_source_vid(vid):
+    source_vids_db.update(vid, doc_ids=[vid.doc_id])
 
 #     source_vid_file_path = os.path.join(vid_dir, cfg["source_vid_file_name"])
 #     if os.path.isfile(source_vid_file_path) and not source_vid.get("source_vid_file_path"):

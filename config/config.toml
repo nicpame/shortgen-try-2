@@ -17,8 +17,14 @@ translate_prompt_file_dir = 'prompts/translate_transcription.md'
 
 # state consts
 [video_state]
+
+# source vids prep phase
 candidate = "candidate"
 downloaded = "downloaded"
+audio_extracted = "audio_extracted" # when audio is extracted from the source video
+transcription_generated = "transcription_generated"
+
+# gen vids phase
 init = 'init' # when gened vid is initialized in db
 translated = "translated"
 informalized = "informalized" # when translation is modified to be more informal

@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-07-18T11:25:01.981677",
+  "extraction_date": "2025-07-18T16:23:53.450442",
   "video_info": {
     "id": "Wnxp0EV2C5k",
     "title": "What If a New Continent Appeared in the Pacific? 🌍",
@@ -8,9 +8,9 @@
     "upload_date": "20250517",
     "description": "What if a new continent suddenly appeared in the Pacific Ocean?\n\nWell, the Pacific is the largest ocean on Earth—so massive, it could literally fit all the continents inside it and still have room for one more continent. And if a new landmass appeared here, the entire world map would change.\n\nNew borders would need to be drawn. Trade routes would shift. But the biggest question—who would claim this land?\n\nThe United States would likely move first due to its close proximity to Hawaii. China would also send its ships to build artificial islands, just like it did in the South China Sea. Then there’s Australia and New Zealand, who might see this as a once-in-a-lifetime chance to rise on the global stage.\n\nBut why would everyone want it?\n\nWell, a new land could be rich in resources like oil, rare metals, and gold, making it one of the most valuable places on Earth. And with its location in the middle of the Pacific, it could become a global hub for trade, naval power, and influence.",
     "duration": 45,
-    "view_count": 966518,
-    "like_count": 32594,
-    "comment_count": 546,
+    "view_count": 967393,
+    "like_count": 32614,
+    "comment_count": 547,
     "age_limit": 0,
     "webpage_url": "https://www.youtube.com/watch?v=Wnxp0EV2C5k",
     "thumbnail": "https://i.ytimg.com/vi/Wnxp0EV2C5k/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYESBhKHIwDw==&rs=AOn4CLDx6RxHtIPlTXDipmojq_zsTsaz4Q",
@@ -42,7 +42,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1752837898,
+    "epoch": 1752855830,
     "webpage_url_basename": "watch"
   }
 }

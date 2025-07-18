@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-07-18T11:25:09.215661",
+  "extraction_date": "2025-07-18T16:24:00.176772",
   "video_info": {
     "id": "jLts2glbA0Q",
     "title": "Why No Bridge on the Amazon River? 🌉🌊",
@@ -8,7 +8,7 @@
     "upload_date": "20250512",
     "description": "",
     "duration": 50,
-    "view_count": 56353,
+    "view_count": 56365,
     "like_count": 2240,
     "comment_count": 52,
     "age_limit": 0,
@@ -48,7 +48,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1752837905,
+    "epoch": 1752855836,
     "webpage_url_basename": "watch"
   }
 }

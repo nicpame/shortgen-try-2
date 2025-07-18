@@ -1,5 +1,5 @@
 {
-  "extraction_date": "2025-07-18T11:24:55.596913",
+  "extraction_date": "2025-07-18T16:23:46.856009",
   "video_info": {
     "id": "oDrDkJuarY0",
     "title": "Why This River Reverses Every 6 Months 🔄🌧️",
@@ -51,7 +51,7 @@
   "technical_info": {
     "extractor": "youtube",
     "extractor_key": "Youtube",
-    "epoch": 1752837891,
+    "epoch": 1752855822,
     "webpage_url_basename": "watch"
   }
 }

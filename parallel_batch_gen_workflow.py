@@ -29,10 +29,10 @@ dl.dl_batch_vids(db.get_candidate_source_vids())
 # update_state_after_batch_dl(db.get_candidate_source_vids())
 
 # step 4: Extract audios from the downloaded videos
-batch_extract_audio_from_video(cfg["source_vids_rel_dir"])
+batch_extract_audio_from_video(db.get_source_vids_by_state(cfg['video_state']['downloaded']))
 
 # step 5: Generate transcriptions for the extracted audios + normalize the transcriptions
-# batch_gen_transcription(cfg["source_vids_rel_dir"])
+batch_gen_transcription(db.get_source_vids_by_state(cfg['video_state']['audio_extracted']))
 
 # step 6: Translate the normalized transcriptions
 # batch_translate_transcription_results = batch_translate_transcription(
