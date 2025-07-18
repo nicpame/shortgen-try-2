@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-07-18T11:23:54.054530",
+  "video_info": {
+    "id": "hRWf8eVV_f0",
+    "title": "High altitude electrician #science #facts #shortsvideo #shorts #knowledge #funny",
+    "uploader": "Lelink Acrir",
+    "uploader_id": "@LelinkAcrir",
+    "upload_date": "20250703",
+    "description": "",
+    "duration": 59,
+    "view_count": 16369,
+    "like_count": 601,
+    "comment_count": 4,
+    "age_limit": 0,
+    "webpage_url": "https://www.youtube.com/watch?v=hRWf8eVV_f0",
+    "thumbnail": "https://i.ytimg.com/vi/hRWf8eVV_f0/maxresdefault.jpg",
+    "tags": [],
+    "categories": [
+      "People & Blogs"
+    ],
+    "is_live": false,
+    "was_live": false
+  },
+  "format_info": {
+    "format": "18 - 360x640 (360p)",
+    "format_id": "18",
+    "ext": "mp4",
+    "resolution": "360x640",
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "filesize": 4471508,
+    "filesize_approx": 4471504
+  },
+  "channel_info": {
+    "channel": "Lelink Acrir",
+    "channel_id": "UCxc78GKBPsIE7i3tlkfIqcw",
+    "channel_url": "https://www.youtube.com/channel/UCxc78GKBPsIE7i3tlkfIqcw",
+    "channel_follower_count": 126000
+  },
+  "transcript": {},
+  "technical_info": {
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "epoch": 1752837831,
+    "webpage_url_basename": "watch"
+  }
+}

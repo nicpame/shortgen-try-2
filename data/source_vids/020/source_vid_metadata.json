@@ -1,0 +1,54 @@
+{
+  "extraction_date": "2025-07-18T11:25:09.215661",
+  "video_info": {
+    "id": "jLts2glbA0Q",
+    "title": "Why No Bridge on the Amazon River? 🌉🌊",
+    "uploader": "Geo All Day",
+    "uploader_id": "@geoalldayog",
+    "upload_date": "20250512",
+    "description": "",
+    "duration": 50,
+    "view_count": 56353,
+    "like_count": 2240,
+    "comment_count": 52,
+    "age_limit": 0,
+    "webpage_url": "https://www.youtube.com/watch?v=jLts2glbA0Q",
+    "thumbnail": "https://i.ytimg.com/vi/jLts2glbA0Q/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYVCAnKH8wDw==&rs=AOn4CLBW1e_8oIOn_pzpxHbLkKwdkc8I0w",
+    "tags": [
+      "amazon river",
+      "why no bridge above amazon",
+      "why no bridge amazon",
+      "amazon river facts",
+      "geo reels"
+    ],
+    "categories": [
+      "Entertainment"
+    ],
+    "is_live": false,
+    "was_live": false
+  },
+  "format_info": {
+    "format": "18 - 360x640 (360p)",
+    "format_id": "18",
+    "ext": "mp4",
+    "resolution": "360x640",
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "filesize": 3710632,
+    "filesize_approx": 3710626
+  },
+  "channel_info": {
+    "channel": "Geo All Day",
+    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+    "channel_follower_count": 319000
+  },
+  "transcript": {},
+  "technical_info": {
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "epoch": 1752837905,
+    "webpage_url_basename": "watch"
+  }
+}

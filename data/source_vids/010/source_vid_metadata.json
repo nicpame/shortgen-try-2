@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-07-18T11:24:02.050279",
+  "video_info": {
+    "id": "BgifA3bzMOQ",
+    "title": "the luckiest person ever",
+    "uploader": "Emil",
+    "uploader_id": "@emilfacts",
+    "upload_date": "20250206",
+    "description": "in this video, i talk about the luckiest person ever\nif you liked the video, don't forget to subscribe",
+    "duration": 60,
+    "view_count": 135739,
+    "like_count": 4805,
+    "comment_count": 30,
+    "age_limit": 0,
+    "webpage_url": "https://www.youtube.com/watch?v=BgifA3bzMOQ",
+    "thumbnail": "https://i.ytimg.com/vi/BgifA3bzMOQ/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYRSBWKGUwDw==&rs=AOn4CLCjX_kOo7p5hfqjuBwY5WW7y_-hww",
+    "tags": [],
+    "categories": [
+      "Entertainment"
+    ],
+    "is_live": false,
+    "was_live": false
+  },
+  "format_info": {
+    "format": "18 - 360x640 (360p)",
+    "format_id": "18",
+    "ext": "mp4",
+    "resolution": "360x640",
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "filesize": 4467939,
+    "filesize_approx": 4467933
+  },
+  "channel_info": {
+    "channel": "Emil",
+    "channel_id": "UC9sojDsaF6PfTCkWkcGW6dw",
+    "channel_url": "https://www.youtube.com/channel/UC9sojDsaF6PfTCkWkcGW6dw",
+    "channel_follower_count": 278000
+  },
+  "transcript": {},
+  "technical_info": {
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "epoch": 1752837836,
+    "webpage_url_basename": "watch"
+  }
+}

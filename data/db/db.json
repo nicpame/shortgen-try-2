@@ -1,33 +1,58 @@
 {
     "_default": {},
     "source_vids": {
-        "1": {
-            "url": "https://www.youtube.com/shorts/gAY-O9o8qOI",
-            "state": "downloaded"
-        },
-        "2": {
-            "url": "https://www.youtube.com/shorts/AudK_PHOo1k",
-            "state": "downloaded"
-        },
-        "3": {
-            "url": "https://www.youtube.com/shorts/wuxv_C8Vvxs",
-            "state": "downloaded"
-        },
-        "4": {
-            "url": "https://www.youtube.com/shorts/rgwR_DB7IRc",
-            "state": "downloaded"
-        },
-        "5": {
-            "url": "https://www.youtube.com/shorts/UYEoYGvpYOss",
-            "state": "downloaded"
-        },
-        "6": {
-            "url": "https://www.youtube.com/shorts/QqF1Ok8RDC0",
-            "state": "downloaded"
-        },
         "7": {
             "url": "https://www.youtube.com/shorts/hRWf8eVV_f0",
-            "state": "candidate"
+            "state": "downloaded",
+            "metadata": {
+                "extraction_date": "2025-07-18T11:23:54.054530",
+                "video_info": {
+                    "id": "hRWf8eVV_f0",
+                    "title": "High altitude electrician #science #facts #shortsvideo #shorts #knowledge #funny",
+                    "uploader": "Lelink Acrir",
+                    "uploader_id": "@LelinkAcrir",
+                    "upload_date": "20250703",
+                    "description": "",
+                    "duration": 59,
+                    "view_count": 16369,
+                    "like_count": 601,
+                    "comment_count": 4,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=hRWf8eVV_f0",
+                    "thumbnail": "https://i.ytimg.com/vi/hRWf8eVV_f0/maxresdefault.jpg",
+                    "tags": [],
+                    "categories": [
+                        "People & Blogs"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "18 - 360x640 (360p)",
+                    "format_id": "18",
+                    "ext": "mp4",
+                    "resolution": "360x640",
+                    "fps": 30,
+                    "vcodec": "avc1.42001E",
+                    "acodec": "mp4a.40.2",
+                    "filesize": 4471508,
+                    "filesize_approx": 4471504
+                },
+                "channel_info": {
+                    "channel": "Lelink Acrir",
+                    "channel_id": "UCxc78GKBPsIE7i3tlkfIqcw",
+                    "channel_url": "https://www.youtube.com/channel/UCxc78GKBPsIE7i3tlkfIqcw",
+                    "channel_follower_count": 126000
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1752837831,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "source_vid_file_path": "data/source_vids/007/source_vid.mp4"
         },
         "8": {
             "url": "https://www.youtube.com/shorts/pWDGKVXOJeQ",
@@ -131,13 +156,640 @@
                 ]
             }
         },
-        "9": {
-            "url": "https://www.youtube.com/shorts/oWC369FZe58",
-            "state": "downloaded"
-        },
         "10": {
             "url": "https://www.youtube.com/shorts/BgifA3bzMOQ",
-            "state": "candidate"
+            "state": "downloaded",
+            "metadata": {
+                "extraction_date": "2025-07-18T11:24:02.050279",
+                "video_info": {
+                    "id": "BgifA3bzMOQ",
+                    "title": "the luckiest person ever",
+                    "uploader": "Emil",
+                    "uploader_id": "@emilfacts",
+                    "upload_date": "20250206",
+                    "description": "in this video, i talk about the luckiest person ever\nif you liked the video, don't forget to subscribe",
+                    "duration": 60,
+                    "view_count": 135739,
+                    "like_count": 4805,
+                    "comment_count": 30,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=BgifA3bzMOQ",
+                    "thumbnail": "https://i.ytimg.com/vi/BgifA3bzMOQ/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYRSBWKGUwDw==&rs=AOn4CLCjX_kOo7p5hfqjuBwY5WW7y_-hww",
+                    "tags": [],
+                    "categories": [
+                        "Entertainment"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "18 - 360x640 (360p)",
+                    "format_id": "18",
+                    "ext": "mp4",
+                    "resolution": "360x640",
+                    "fps": 30,
+                    "vcodec": "avc1.42001E",
+                    "acodec": "mp4a.40.2",
+                    "filesize": 4467939,
+                    "filesize_approx": 4467933
+                },
+                "channel_info": {
+                    "channel": "Emil",
+                    "channel_id": "UC9sojDsaF6PfTCkWkcGW6dw",
+                    "channel_url": "https://www.youtube.com/channel/UC9sojDsaF6PfTCkWkcGW6dw",
+                    "channel_follower_count": 278000
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1752837836,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "source_vid_file_path": "data/source_vids/010/source_vid.mp4"
+        },
+        "11": {
+            "url": "https://www.youtube.com/shorts/cXGFsFXf3lQ",
+            "state": "downloaded",
+            "metadata": {
+                "extraction_date": "2025-07-18T11:24:08.114372",
+                "video_info": {
+                    "id": "cXGFsFXf3lQ",
+                    "title": "What If Earth Was Flat? \ud83c\udf0d",
+                    "uploader": "Geo All Day",
+                    "uploader_id": "@geoalldayog",
+                    "upload_date": "20250713",
+                    "description": "#earth #whatif #geography #map #mapping #shorts #fyp #learning",
+                    "duration": 63,
+                    "view_count": 102951,
+                    "like_count": 4250,
+                    "comment_count": 120,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=cXGFsFXf3lQ",
+                    "thumbnail": "https://i.ytimg.com/vi/cXGFsFXf3lQ/maxresdefault.jpg",
+                    "tags": [
+                        "what if earth was flat",
+                        "flat earth",
+                        "what if videos",
+                        "what if",
+                        "geography",
+                        "geo all day",
+                        "geo reels"
+                    ],
+                    "categories": [
+                        "Entertainment"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "18 - 360x640 (360p)",
+                    "format_id": "18",
+                    "ext": "mp4",
+                    "resolution": "360x640",
+                    "fps": 30,
+                    "vcodec": "avc1.42001E",
+                    "acodec": "mp4a.40.2",
+                    "filesize": 4647348,
+                    "filesize_approx": 4647341
+                },
+                "channel_info": {
+                    "channel": "Geo All Day",
+                    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_follower_count": 319000
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1752837844,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "source_vid_file_path": "data/source_vids/011/source_vid.mp4"
+        },
+        "12": {
+            "url": "https://www.youtube.com/shorts/ovyoQMhGsYU",
+            "state": "downloaded",
+            "metadata": {
+                "extraction_date": "2025-07-18T11:24:14.893551",
+                "video_info": {
+                    "id": "ovyoQMhGsYU",
+                    "title": "What If Pangea Came Back? \ud83c\udf0d",
+                    "uploader": "Geo All Day",
+                    "uploader_id": "@geoalldayog",
+                    "upload_date": "20250708",
+                    "description": "#pangea #whatif #continents #geography #map #mapping #learning #shorts #fyp",
+                    "duration": 63,
+                    "view_count": 1202652,
+                    "like_count": 71434,
+                    "comment_count": 442,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=ovyoQMhGsYU",
+                    "thumbnail": "https://i.ytimg.com/vi/ovyoQMhGsYU/maxresdefault.jpg",
+                    "tags": [],
+                    "categories": [
+                        "Entertainment"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "18 - 360x640 (360p)",
+                    "format_id": "18",
+                    "ext": "mp4",
+                    "resolution": "360x640",
+                    "fps": 30,
+                    "vcodec": "avc1.42001E",
+                    "acodec": "mp4a.40.2",
+                    "filesize": 4668071,
+                    "filesize_approx": 4668065
+                },
+                "channel_info": {
+                    "channel": "Geo All Day",
+                    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_follower_count": 319000
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1752837851,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "source_vid_file_path": "data/source_vids/012/source_vid.mp4"
+        },
+        "13": {
+            "url": "https://www.youtube.com/shorts/dMJk4AI5R3s",
+            "state": "downloaded",
+            "metadata": {
+                "extraction_date": "2025-07-18T11:24:21.466223",
+                "video_info": {
+                    "id": "dMJk4AI5R3s",
+                    "title": "Why No Bridge Here? \ud83c\udf09 New Zealand\u2019s Main Islands \ud83c\uddf3\ud83c\uddff",
+                    "uploader": "Geo All Day",
+                    "uploader_id": "@geoalldayog",
+                    "upload_date": "20250705",
+                    "description": "#newzealand #nz #island #bridge #shorts #geography #map #mapping #fyp",
+                    "duration": 48,
+                    "view_count": 20441,
+                    "like_count": 812,
+                    "comment_count": 25,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=dMJk4AI5R3s",
+                    "thumbnail": "https://i.ytimg.com/vi/dMJk4AI5R3s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYEyBVKH8wDw==&rs=AOn4CLAghZpda7lRT3T2KD4DppzrARxI-g",
+                    "tags": [
+                        "why no bridge between newzealand",
+                        "new zealand bridge"
+                    ],
+                    "categories": [
+                        "Entertainment"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "18 - 360x640 (360p)",
+                    "format_id": "18",
+                    "ext": "mp4",
+                    "resolution": "360x640",
+                    "fps": 30,
+                    "vcodec": "avc1.42001E",
+                    "acodec": "mp4a.40.2",
+                    "filesize": 3551805,
+                    "filesize_approx": 3551803
+                },
+                "channel_info": {
+                    "channel": "Geo All Day",
+                    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_follower_count": 319000
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1752837857,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "source_vid_file_path": "data/source_vids/013/source_vid.mp4"
+        },
+        "14": {
+            "url": "https://www.youtube.com/shorts/bxKTboZ7ABg",
+            "state": "downloaded",
+            "metadata": {
+                "extraction_date": "2025-07-18T11:24:27.950681",
+                "video_info": {
+                    "id": "bxKTboZ7ABg",
+                    "title": "Why Half of Australia Is Empty \ud83e\udd2f",
+                    "uploader": "Geo All Day",
+                    "uploader_id": "@geoalldayog",
+                    "upload_date": "20250628",
+                    "description": "",
+                    "duration": 48,
+                    "view_count": 35454,
+                    "like_count": 1302,
+                    "comment_count": 55,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=bxKTboZ7ABg",
+                    "thumbnail": "https://i.ytimg.com/vi/bxKTboZ7ABg/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYfyApKCcwDw==&rs=AOn4CLB4H1pAadchBaTOUzA6Y_gB0zhfKg",
+                    "tags": [
+                        "why half of australia is empty",
+                        "why north of australia is empty",
+                        "australia population",
+                        "australia's population",
+                        "why australia is empty",
+                        "geo all day",
+                        "geo reels"
+                    ],
+                    "categories": [
+                        "Entertainment"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "18 - 360x640 (360p)",
+                    "format_id": "18",
+                    "ext": "mp4",
+                    "resolution": "360x640",
+                    "fps": 30,
+                    "vcodec": "avc1.42001E",
+                    "acodec": "mp4a.40.2",
+                    "filesize": 3547424,
+                    "filesize_approx": 3547421
+                },
+                "channel_info": {
+                    "channel": "Geo All Day",
+                    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_follower_count": 319000
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1752837864,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "source_vid_file_path": "data/source_vids/014/source_vid.mp4"
+        },
+        "15": {
+            "url": "https://www.youtube.com/shorts/h5Jzwl_2P9Y",
+            "state": "downloaded",
+            "metadata": {
+                "extraction_date": "2025-07-18T11:24:35.165832",
+                "video_info": {
+                    "id": "h5Jzwl_2P9Y",
+                    "title": "This Country Could Soon Disappear Forever \ud83d\ude22\ud83c\udf0a",
+                    "uploader": "Geo All Day",
+                    "uploader_id": "@geoalldayog",
+                    "upload_date": "20250527",
+                    "description": "Did you know there\u2019s a country that might completely vanish underwater within your lifetime?\n\nMost of its land sits just 2 meters above sea level, and with the oceans rising, every storm swallows a little more of its future. Saltwater floods the fields. Homes are abandoned. And crops can\u2019t grow.\n\nIn response, the country took a drastic step: it signed a historic deal with Australia, known as the Falepili Act, allowing up to 280 of its citizens to relocate as climate refugees each year.\n\nBut here\u2019s the wildest part\u2014this country is now building a digital version of itself. A full online replica of its land and culture in the metaverse. So it can live on, even if it sinks beneath the sea.\n\nIt\u2019ll be the first nation to exist only in the cloud. And if you haven\u2019t guessed the country. It\u2019s Tuvalu.\n\n#geography #map #countries",
+                    "duration": 51,
+                    "view_count": 98834,
+                    "like_count": 3613,
+                    "comment_count": 121,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=h5Jzwl_2P9Y",
+                    "thumbnail": "https://i.ytimg.com/vi/h5Jzwl_2P9Y/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYFyBiKHIwDw==&rs=AOn4CLCnI4FpwE_6LsoMhUT1vsPW2Jmmgw",
+                    "tags": [
+                        "geography",
+                        "geo reels",
+                        "maps",
+                        "map animations",
+                        "geo all day",
+                        "Tuvalu"
+                    ],
+                    "categories": [
+                        "Entertainment"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "18 - 360x640 (360p)",
+                    "format_id": "18",
+                    "ext": "mp4",
+                    "resolution": "360x640",
+                    "fps": 30,
+                    "vcodec": "avc1.42001E",
+                    "acodec": "mp4a.40.2",
+                    "filesize": 3787339,
+                    "filesize_approx": 3787333
+                },
+                "channel_info": {
+                    "channel": "Geo All Day",
+                    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_follower_count": 319000
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1752837871,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "source_vid_file_path": "data/source_vids/015/source_vid.mp4"
+        },
+        "16": {
+            "url": "https://www.youtube.com/shorts/XZQrn28hxjU",
+            "state": "downloaded",
+            "metadata": {
+                "extraction_date": "2025-07-18T11:24:41.714859",
+                "video_info": {
+                    "id": "XZQrn28hxjU",
+                    "title": "This Town Changed Countries 8 Times in 30 Days \ud83e\udd2f",
+                    "uploader": "Geo All Day",
+                    "uploader_id": "@geoalldayog",
+                    "upload_date": "20250525",
+                    "description": "#france #europe #facts #geography #shorts",
+                    "duration": 52,
+                    "view_count": 49449,
+                    "like_count": 1776,
+                    "comment_count": 43,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=XZQrn28hxjU",
+                    "thumbnail": "https://i.ytimg.com/vi/XZQrn28hxjU/maxresdefault.jpg",
+                    "tags": [],
+                    "categories": [
+                        "Entertainment"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "18 - 360x640 (360p)",
+                    "format_id": "18",
+                    "ext": "mp4",
+                    "resolution": "360x640",
+                    "fps": 30,
+                    "vcodec": "avc1.42001E",
+                    "acodec": "mp4a.40.2",
+                    "filesize": 3889852,
+                    "filesize_approx": 3889847
+                },
+                "channel_info": {
+                    "channel": "Geo All Day",
+                    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_follower_count": 319000
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1752837878,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "source_vid_file_path": "data/source_vids/016/source_vid.mp4"
+        },
+        "17": {
+            "url": "https://www.youtube.com/shorts/OcUDDo8jfus",
+            "state": "downloaded",
+            "metadata": {
+                "extraction_date": "2025-07-18T11:24:48.615119",
+                "video_info": {
+                    "id": "OcUDDo8jfus",
+                    "title": "Why This Desert Is Unlike Any Other \ud83c\udfdc\ufe0f\ud83e\udd2f",
+                    "uploader": "Geo All Day",
+                    "uploader_id": "@geoalldayog",
+                    "upload_date": "20250522",
+                    "description": "Did you know there\u2019s a desert on our planet that\u2019s so dry\u2026 even a light rainfall can make it bloom like a rainforest?\n\nIt sounds impossible, but this place actually exists\u2014and it's among the driest regions on Earth.\n\nSome areas of this desert haven't seen rain in over 500 years. NASA even tests Mars rovers here due to its extreme conditions.\n\nBut in rare years, climate shifts like El Ni\u00f1o bring sudden downpours to the region\u2014turning barren ground into a vibrant carpet of pink and purple flowers.\n\nA phenomenon locals call \u2018desierto florido\u2019, meaning \"blooming desert.\"\n\nBut, where is this extraordinary place?\n\nIt's located in northern Chile, and it's the Atacama Desert.",
+                    "duration": 44,
+                    "view_count": 49671,
+                    "like_count": 1669,
+                    "comment_count": 38,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=OcUDDo8jfus",
+                    "thumbnail": "https://i.ytimg.com/vi/OcUDDo8jfus/maxresdefault.jpg",
+                    "tags": [
+                        "Atacama Desert",
+                        "chile desert",
+                        "amazing places",
+                        "travel",
+                        "geo facts",
+                        "geography",
+                        "map",
+                        "mapping",
+                        "learning",
+                        "learn"
+                    ],
+                    "categories": [
+                        "Education"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "18 - 360x640 (360p)",
+                    "format_id": "18",
+                    "ext": "mp4",
+                    "resolution": "360x640",
+                    "fps": 30,
+                    "vcodec": "avc1.42001E",
+                    "acodec": "mp4a.40.2",
+                    "filesize": 3265606,
+                    "filesize_approx": 3265603
+                },
+                "channel_info": {
+                    "channel": "Geo All Day",
+                    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_follower_count": 319000
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1752837884,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "source_vid_file_path": "data/source_vids/017/source_vid.mp4"
+        },
+        "18": {
+            "url": "https://www.youtube.com/shorts/oDrDkJuarY0",
+            "state": "downloaded",
+            "metadata": {
+                "extraction_date": "2025-07-18T11:24:55.596913",
+                "video_info": {
+                    "id": "oDrDkJuarY0",
+                    "title": "Why This River Reverses Every 6 Months \ud83d\udd04\ud83c\udf27\ufe0f",
+                    "uploader": "Geo All Day",
+                    "uploader_id": "@geoalldayog",
+                    "upload_date": "20250519",
+                    "description": "Did you know there\u2019s a river on Earth that flows backwards every six months?\n\nSounds impossible, right? But it\u2019s true. And this natural phenomenon happens in Southeast Asia.\n\nMeet the Tonl\u00e9 Sap River, located in Cambodia.\n\nFor half the year, it flows south into the mighty Mekong River.\n\nBut when the monsoon rains arrive, the Mekong River expands more than five times its usual size, pushing the river water back, and forcing the Tonl\u00e9 Sap to go the other direction and flow north\u2014filling up a massive freshwater lake.\n\nAnd this natural reversal isn\u2019t just a strange anomaly. It\u2019s vital for life in the region, as the expanding lake creates one of the richest inland fishing grounds in the world, feeding millions of people.\n\nSo while all the other rivers only flow in one direction, the Tonl\u00e9 Sap listens to the sky\u2026 And when the rain tells it to turn around\u2014it does.",
+                    "duration": 53,
+                    "view_count": 43133,
+                    "like_count": 2370,
+                    "comment_count": 33,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=oDrDkJuarY0",
+                    "thumbnail": "https://i.ytimg.com/vi/oDrDkJuarY0/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBdKDAwDw==&rs=AOn4CLCfYfzG0kX1kDTObFLk4egtZHST-Q",
+                    "tags": [
+                        "river that flows backwards",
+                        "geography reels",
+                        "fun facts",
+                        "learning",
+                        "amazing",
+                        "ReversingRiver",
+                        "earth science",
+                        "weird nature"
+                    ],
+                    "categories": [
+                        "Entertainment"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "18 - 360x640 (360p)",
+                    "format_id": "18",
+                    "ext": "mp4",
+                    "resolution": "360x640",
+                    "fps": 30,
+                    "vcodec": "avc1.42001E",
+                    "acodec": "mp4a.40.2",
+                    "filesize": 3885413,
+                    "filesize_approx": 3885408
+                },
+                "channel_info": {
+                    "channel": "Geo All Day",
+                    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_follower_count": 319000
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1752837891,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "source_vid_file_path": "data/source_vids/018/source_vid.mp4"
+        },
+        "19": {
+            "url": "https://www.youtube.com/shorts/Wnxp0EV2C5k",
+            "state": "downloaded",
+            "metadata": {
+                "extraction_date": "2025-07-18T11:25:01.981677",
+                "video_info": {
+                    "id": "Wnxp0EV2C5k",
+                    "title": "What If a New Continent Appeared in the Pacific? \ud83c\udf0d",
+                    "uploader": "Geo All Day",
+                    "uploader_id": "@geoalldayog",
+                    "upload_date": "20250517",
+                    "description": "What if a new continent suddenly appeared in the Pacific Ocean?\n\nWell, the Pacific is the largest ocean on Earth\u2014so massive, it could literally fit all the continents inside it and still have room for one more continent. And if a new landmass appeared here, the entire world map would change.\n\nNew borders would need to be drawn. Trade routes would shift. But the biggest question\u2014who would claim this land?\n\nThe United States would likely move first due to its close proximity to Hawaii. China would also send its ships to build artificial islands, just like it did in the South China Sea. Then there\u2019s Australia and New Zealand, who might see this as a once-in-a-lifetime chance to rise on the global stage.\n\nBut why would everyone want it?\n\nWell, a new land could be rich in resources like oil, rare metals, and gold, making it one of the most valuable places on Earth. And with its location in the middle of the Pacific, it could become a global hub for trade, naval power, and influence.",
+                    "duration": 45,
+                    "view_count": 966518,
+                    "like_count": 32594,
+                    "comment_count": 546,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=Wnxp0EV2C5k",
+                    "thumbnail": "https://i.ytimg.com/vi/Wnxp0EV2C5k/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYESBhKHIwDw==&rs=AOn4CLDx6RxHtIPlTXDipmojq_zsTsaz4Q",
+                    "tags": [],
+                    "categories": [
+                        "Entertainment"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "18 - 360x640 (360p)",
+                    "format_id": "18",
+                    "ext": "mp4",
+                    "resolution": "360x640",
+                    "fps": 30,
+                    "vcodec": "avc1.42001E",
+                    "acodec": "mp4a.40.2",
+                    "filesize": 3347034,
+                    "filesize_approx": 3347029
+                },
+                "channel_info": {
+                    "channel": "Geo All Day",
+                    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_follower_count": 319000
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1752837898,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "source_vid_file_path": "data/source_vids/019/source_vid.mp4"
+        },
+        "20": {
+            "url": "https://www.youtube.com/shorts/jLts2glbA0Q",
+            "state": "downloaded",
+            "metadata": {
+                "extraction_date": "2025-07-18T11:25:09.215661",
+                "video_info": {
+                    "id": "jLts2glbA0Q",
+                    "title": "Why No Bridge on the Amazon River? \ud83c\udf09\ud83c\udf0a",
+                    "uploader": "Geo All Day",
+                    "uploader_id": "@geoalldayog",
+                    "upload_date": "20250512",
+                    "description": "",
+                    "duration": 50,
+                    "view_count": 56353,
+                    "like_count": 2240,
+                    "comment_count": 52,
+                    "age_limit": 0,
+                    "webpage_url": "https://www.youtube.com/watch?v=jLts2glbA0Q",
+                    "thumbnail": "https://i.ytimg.com/vi/jLts2glbA0Q/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYVCAnKH8wDw==&rs=AOn4CLBW1e_8oIOn_pzpxHbLkKwdkc8I0w",
+                    "tags": [
+                        "amazon river",
+                        "why no bridge above amazon",
+                        "why no bridge amazon",
+                        "amazon river facts",
+                        "geo reels"
+                    ],
+                    "categories": [
+                        "Entertainment"
+                    ],
+                    "is_live": false,
+                    "was_live": false
+                },
+                "format_info": {
+                    "format": "18 - 360x640 (360p)",
+                    "format_id": "18",
+                    "ext": "mp4",
+                    "resolution": "360x640",
+                    "fps": 30,
+                    "vcodec": "avc1.42001E",
+                    "acodec": "mp4a.40.2",
+                    "filesize": 3710632,
+                    "filesize_approx": 3710626
+                },
+                "channel_info": {
+                    "channel": "Geo All Day",
+                    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+                    "channel_follower_count": 319000
+                },
+                "transcript": {},
+                "technical_info": {
+                    "extractor": "youtube",
+                    "extractor_key": "Youtube",
+                    "epoch": 1752837905,
+                    "webpage_url_basename": "watch"
+                }
+            },
+            "source_vid_file_path": "data/source_vids/020/source_vid.mp4"
         }
     },
     "gened_vids": {

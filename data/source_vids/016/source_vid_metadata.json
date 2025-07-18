@@ -1,0 +1,48 @@
+{
+  "extraction_date": "2025-07-18T11:24:41.714859",
+  "video_info": {
+    "id": "XZQrn28hxjU",
+    "title": "This Town Changed Countries 8 Times in 30 Days 🤯",
+    "uploader": "Geo All Day",
+    "uploader_id": "@geoalldayog",
+    "upload_date": "20250525",
+    "description": "#france #europe #facts #geography #shorts",
+    "duration": 52,
+    "view_count": 49449,
+    "like_count": 1776,
+    "comment_count": 43,
+    "age_limit": 0,
+    "webpage_url": "https://www.youtube.com/watch?v=XZQrn28hxjU",
+    "thumbnail": "https://i.ytimg.com/vi/XZQrn28hxjU/maxresdefault.jpg",
+    "tags": [],
+    "categories": [
+      "Entertainment"
+    ],
+    "is_live": false,
+    "was_live": false
+  },
+  "format_info": {
+    "format": "18 - 360x640 (360p)",
+    "format_id": "18",
+    "ext": "mp4",
+    "resolution": "360x640",
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "filesize": 3889852,
+    "filesize_approx": 3889847
+  },
+  "channel_info": {
+    "channel": "Geo All Day",
+    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+    "channel_follower_count": 319000
+  },
+  "transcript": {},
+  "technical_info": {
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "epoch": 1752837878,
+    "webpage_url_basename": "watch"
+  }
+}

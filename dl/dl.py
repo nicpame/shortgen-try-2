@@ -1,13 +1,14 @@
 import sys, os
-sys.path.append(os.getcwd())
+
+import db.db as db
 from config.config import config
 cfg = config()
 from dl.youtube_downloader import YouTubeDownloader
 
 # config
-SOURCE_VIDS_DIR = cfg['source_vids_rel_dir']
+source_vids_dir = cfg['source_vids_rel_dir']
 
-yt_downloader = YouTubeDownloader(output_dir=SOURCE_VIDS_DIR)
+yt_downloader = YouTubeDownloader(output_dir=source_vids_dir)
 
 
 
@@ -34,12 +35,17 @@ def dl_batch_vids(source_vids):
     Each item in source_vids should be a dict with 'url' and 'doc_id'.
     Returns a list of results with doc_id included.
     """
-    results = []
     for vid in source_vids:
         url = vid.get('url')
         vid_id = vid.doc_id # Assuming doc_id is the id of vid in db (used for foler name)
-        vid_output_dir = os.path.join(SOURCE_VIDS_DIR, str(vid_id).zfill(3))
-        result = yt_downloader.process_video(url = url, vid_output_dir=vid_output_dir)
-        result['source_vid_dir'] = vid_output_dir
-        results.append(result)
-    return results
+        vid_output_dir = os.path.join(source_vids_dir, str(vid_id).zfill(3))
+
+
+        res = yt_downloader.process_video(url = url, vid_output_dir=vid_output_dir)
+        if res['success'] :
+            vid['state'] = cfg['video_state']['downloaded']
+            vid['metadata'] = res['metadata']
+            vid['source_vid_file_path'] = os.path.join(vid_output_dir, 'source_vid.mp4')
+            # update db
+            db.update_source_vid_by_id(vid_id, vid)
+        

@@ -1,0 +1,51 @@
+{
+  "extraction_date": "2025-07-18T11:24:21.466223",
+  "video_info": {
+    "id": "dMJk4AI5R3s",
+    "title": "Why No Bridge Here? 🌉 New Zealand’s Main Islands 🇳🇿",
+    "uploader": "Geo All Day",
+    "uploader_id": "@geoalldayog",
+    "upload_date": "20250705",
+    "description": "#newzealand #nz #island #bridge #shorts #geography #map #mapping #fyp",
+    "duration": 48,
+    "view_count": 20441,
+    "like_count": 812,
+    "comment_count": 25,
+    "age_limit": 0,
+    "webpage_url": "https://www.youtube.com/watch?v=dMJk4AI5R3s",
+    "thumbnail": "https://i.ytimg.com/vi/dMJk4AI5R3s/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYEyBVKH8wDw==&rs=AOn4CLAghZpda7lRT3T2KD4DppzrARxI-g",
+    "tags": [
+      "why no bridge between newzealand",
+      "new zealand bridge"
+    ],
+    "categories": [
+      "Entertainment"
+    ],
+    "is_live": false,
+    "was_live": false
+  },
+  "format_info": {
+    "format": "18 - 360x640 (360p)",
+    "format_id": "18",
+    "ext": "mp4",
+    "resolution": "360x640",
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "filesize": 3551805,
+    "filesize_approx": 3551803
+  },
+  "channel_info": {
+    "channel": "Geo All Day",
+    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+    "channel_follower_count": 319000
+  },
+  "transcript": {},
+  "technical_info": {
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "epoch": 1752837857,
+    "webpage_url_basename": "watch"
+  }
+}

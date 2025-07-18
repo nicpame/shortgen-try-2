@@ -144,7 +144,7 @@ class YouTubeDownloader:
                 'format': quality,
                 'outtmpl': str(self.output_dir / f"source_vid.%(ext)s"),
                 'writethumbnail': True,
-                'writeinfojson': False,  # We'll create our own JSON
+                'writeinfojson': True,  # We'll create our own JSON
             }
             
             # Download the video
@@ -224,7 +224,7 @@ class YouTubeDownloader:
         with open(json_path, 'w', encoding='utf-8') as f:
             json.dump(metadata, f, indent=2, ensure_ascii=False, default=str)
         
-        return str(json_path)
+        return metadata
     
     def process_video(self, url: str, quality: str = 'best', vid_output_dir: Optional[str] = None) -> Dict[str, Any]:
         """Complete processing pipeline for a YouTube video."""
@@ -250,10 +250,9 @@ class YouTubeDownloader:
 
             # Create metadata JSON
             print("Creating metadata file...")
-            safe_title = download_result['safe_title']
             video_id = download_result['video_id']
 
-            json_path = self.create_metadata_json(
+            metadata_info = self.create_metadata_json(
                 info=download_result['info'],
                 transcript={},
                 output_filename='source_vid_metadata.json'
@@ -263,11 +262,8 @@ class YouTubeDownloader:
                 'success': True,
                 'title': download_result['title'],
                 'video_id': video_id,
-                'files': {
-                    'video': f"{safe_title}_{video_id}.*",  # Extension depends on format
-                    'metadata': json_path,
-                    'thumbnail': f"{safe_title}_{video_id}.jpg"
-                },
+                'metadata' : metadata_info
+                
                 # 'transcript_available': transcript['available']
             }
 

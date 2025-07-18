@@ -1,0 +1,57 @@
+{
+  "extraction_date": "2025-07-18T11:24:55.596913",
+  "video_info": {
+    "id": "oDrDkJuarY0",
+    "title": "Why This River Reverses Every 6 Months 🔄🌧️",
+    "uploader": "Geo All Day",
+    "uploader_id": "@geoalldayog",
+    "upload_date": "20250519",
+    "description": "Did you know there’s a river on Earth that flows backwards every six months?\n\nSounds impossible, right? But it’s true. And this natural phenomenon happens in Southeast Asia.\n\nMeet the Tonlé Sap River, located in Cambodia.\n\nFor half the year, it flows south into the mighty Mekong River.\n\nBut when the monsoon rains arrive, the Mekong River expands more than five times its usual size, pushing the river water back, and forcing the Tonlé Sap to go the other direction and flow north—filling up a massive freshwater lake.\n\nAnd this natural reversal isn’t just a strange anomaly. It’s vital for life in the region, as the expanding lake creates one of the richest inland fishing grounds in the world, feeding millions of people.\n\nSo while all the other rivers only flow in one direction, the Tonlé Sap listens to the sky… And when the rain tells it to turn around—it does.",
+    "duration": 53,
+    "view_count": 43133,
+    "like_count": 2370,
+    "comment_count": 33,
+    "age_limit": 0,
+    "webpage_url": "https://www.youtube.com/watch?v=oDrDkJuarY0",
+    "thumbnail": "https://i.ytimg.com/vi/oDrDkJuarY0/hq2.jpg?sqp=-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAKAD4oCDAgAEAEYZSBdKDAwDw==&rs=AOn4CLCfYfzG0kX1kDTObFLk4egtZHST-Q",
+    "tags": [
+      "river that flows backwards",
+      "geography reels",
+      "fun facts",
+      "learning",
+      "amazing",
+      "ReversingRiver",
+      "earth science",
+      "weird nature"
+    ],
+    "categories": [
+      "Entertainment"
+    ],
+    "is_live": false,
+    "was_live": false
+  },
+  "format_info": {
+    "format": "18 - 360x640 (360p)",
+    "format_id": "18",
+    "ext": "mp4",
+    "resolution": "360x640",
+    "fps": 30,
+    "vcodec": "avc1.42001E",
+    "acodec": "mp4a.40.2",
+    "filesize": 3885413,
+    "filesize_approx": 3885408
+  },
+  "channel_info": {
+    "channel": "Geo All Day",
+    "channel_id": "UCdWuhQg9XRYXTiON98aC03w",
+    "channel_url": "https://www.youtube.com/channel/UCdWuhQg9XRYXTiON98aC03w",
+    "channel_follower_count": 319000
+  },
+  "transcript": {},
+  "technical_info": {
+    "extractor": "youtube",
+    "extractor_key": "Youtube",
+    "epoch": 1752837891,
+    "webpage_url_basename": "watch"
+  }
+}

@@ -53,6 +53,9 @@ def get_source_vid_by_id(source_vid_id: int):
     # get source vid file path if it exists
 
 
+def update_source_vid_by_id(vid_id: int, vid: dict):
+    source_vids_db.update(vid, doc_ids=[vid_id])
+
 #     source_vid_file_path = os.path.join(vid_dir, cfg["source_vid_file_name"])
 #     if os.path.isfile(source_vid_file_path) and not source_vid.get("source_vid_file_path"):
 #         source_vid["source_vid_file_path"] = source_vid_file_path
