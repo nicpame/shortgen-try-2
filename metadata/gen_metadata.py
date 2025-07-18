@@ -2,8 +2,11 @@
 from pydantic import BaseModel
 import db.db as db
 
-from langchain.prompts.loading import load_prompt
+from langchain.prompts import PromptTemplate
 from llm.gemini_client import generate_json
+
+from config.config import config
+cfg = config()
 
 class VideoMetadata(BaseModel):
     video_title: str
@@ -20,16 +23,16 @@ def gen_metadata(vid: dict) -> list :
     vid_title = source_vid["metadata"]["video_info"]["title"]
     vid_description = source_vid["metadata"]["video_info"]["description"]
     target_language = vid["gen_config"]['language']
-    vid_dir = vid["vid_dir"]
-    prompt_path = vid["gen_config"]['metadata']['title_and_description_prompt_path']
+    # vid_dir = vid["vid_dir"]
+    prompt_path = vid["gen_config"]['metadata']['prompt_file_dir']
     variation_count = vid["gen_config"]['metadata']['variation_count']
 
     # Load and format the prompt using langchain
-    prompt_template = load_prompt(prompt_path)
+    prompt_template = PromptTemplate.from_file(prompt_path)
     prompt = prompt_template.format(
         video_title=vid_title,
         video_description=vid_description,
-        target_language = target_language,
+        target_language = cfg['language_name'][target_language],
         variation_count = variation_count
     )
 

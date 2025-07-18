@@ -12,7 +12,6 @@ from metadata.gen_metadata import gen_metadata
 
 # config
 from config.config import config
-
 cfg = config()
 
 # gen config
@@ -104,7 +103,7 @@ def process_gened_vid(gened_vid_id: int):
     # step 4 : gen metadata (title and description)
     # =============================
     if vid["state"] == video_states_config["thumbnail_generated"]:
-        gen_metadata(vid)
+        gen_title_and_description(vid)
 
 # =============================
 # gened vids process steps
@@ -258,13 +257,16 @@ def gen_thumbnail(vid: dict):
         vid["state"] = video_states_config["thumbnail_generated"]
         db.update_gened_vid_by_id(vid.doc_id, vid)
 
-def gen_metadata(vid: dict):
+def gen_title_and_description(vid: dict):
+
+    vid['metadata'] = {}
+
     metadata_result  = gen_metadata(vid = vid)
     if metadata_result['success'] :
         vid['metadata']['variations'] = metadata_result['variations']
         vid['metadata']['formatted_prompt'] = metadata_result['formatted_prompt']
         vid['state'] = video_states_config["metadata_generated"]
-
+        db.update_gened_vid_by_id(vid.doc_id, vid)
 # main entry point
 
 if __name__ == "__main__":
