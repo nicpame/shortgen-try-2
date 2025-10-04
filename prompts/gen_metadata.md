@@ -8,6 +8,8 @@ INPUTS:
 - Target Language: {target_language}
 - Original Video Title: {video_title}
 - Original Video Description: {video_description}
+- Original Video Transcription: {video_transcription}
+
 
 YOUTUBE SEO BEST PRACTICES TO APPLY:
 1. Include primary keywords in the first 125 characters of descriptions

@@ -1,11 +1,11 @@
-
 from io import BytesIO
 from PIL import Image
 
 import os
 from dotenv import load_dotenv
-from google import genai
 from google.genai import types
+
+from llm.gemini_key_manager import get_client, rotate_on_rate_limit
 
 load_dotenv()
 
@@ -17,22 +17,18 @@ GEMINI_MODELS = {
     "flash-image": "gemini-2.0-flash-preview-image-generation",
 }
 
-api_key = os.getenv("GEMINI_API_KEY")
 
-client = genai.Client(api_key=api_key)
-
-
+@rotate_on_rate_limit
 def generate_text(prompt: str, model_key: str = "flash") -> str:
-    global client
-
+    client = get_client()
     model_id = GEMINI_MODELS.get(model_key, GEMINI_MODELS["flash"])
     response = client.models.generate_content(model=model_id, contents=prompt)
     return response.text
 
 
+@rotate_on_rate_limit
 def generate_json(prompt: str, pydantic_schema, model_key: str = "flash") -> str:
-    global client
-
+    client = get_client()
     model_id = GEMINI_MODELS.get(model_key, GEMINI_MODELS["flash"])
     response = client.models.generate_content(
         model=model_id,
@@ -45,6 +41,7 @@ def generate_json(prompt: str, pydantic_schema, model_key: str = "flash") -> str
     return response.text
 
 
+@rotate_on_rate_limit
 def generate_speech_and_save_file(
     prompt: str,
     audio_file_path: str,
@@ -52,8 +49,7 @@ def generate_speech_and_save_file(
     gemini_tts_voice_name: str = "Kore",
     model_key: str = "flash-tts",
 ):
-    global client
-
+    client = get_client()
     model_id = GEMINI_MODELS.get(model_key)
 
     # Set up the wave file to save the output:
@@ -66,7 +62,6 @@ def generate_speech_and_save_file(
             wf.setframerate(rate)
             wf.writeframes(pcm)
 
-    # Set up the client:
     response = client.models.generate_content(
         model=model_id,
         contents=prompt,
@@ -88,17 +83,9 @@ def generate_speech_and_save_file(
     wave_file(full_path, data)  # Save the file to specified path with given filename
 
 
+@rotate_on_rate_limit
 def generate_image_and_save_file(prompt: str, image_file_path: str, model_key: str = "flash-image"):
-
-    """
-    Generate an image using Gemini API and save it to a file.
-    Args:
-        prompt (str): The prompt for image generation.
-        file_dir (str): Directory to save the image file.
-        image_filename (str): Name of the image file (default: 'gemini_image.png').
-    """
-    global client
-
+    client = get_client()
     model_id = GEMINI_MODELS.get(model_key)
     response = client.models.generate_content(
         model=model_id,
@@ -116,11 +103,13 @@ def generate_image_and_save_file(prompt: str, image_file_path: str, model_key: s
     return None
 
 
+@rotate_on_rate_limit
 def list_available_gemini_models():
     """
     List available Gemini models and print their IDs and supported modalities.
     """
     print("List of models that support generateContent:\n")
+    client = get_client()
     for m in client.models.list():
         if hasattr(m, 'supported_actions'):
             for action in m.supported_actions:
@@ -128,6 +117,7 @@ def list_available_gemini_models():
                     print(m.name)
 
     print("\nList of models that support embedContent:\n")
+    client = get_client()
     for m in client.models.list():
         if hasattr(m, 'supported_actions'):
             for action in m.supported_actions:

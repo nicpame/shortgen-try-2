@@ -1,0 +1,629 @@
+{
+  "gened_vids": {
+    "9": {
+      "source_vid_id": 1,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "اگر قاره‌ای نو در اقیانوس اطلس پیدا شود: دنیای ما چقدر تغییر می‌کند؟",
+            "video_description": "تصور کنید ناگهان یک #قاره_جدید در میان #اقیانوس_اطلس پدیدار شود! این اتفاق کل دنیای ما را دگرگون می‌کند. مرزها، مسیرهای تجاری و هوایی بازنویسی می‌شوند و رقابتی باورنکردنی برای تصاحب این سرزمین آغاز خواهد شد. این قاره با منابع غنی و موقعیت استراتژیک خود، ژئوپلیتیک جهان را برای همیشه تغییر خواهد داد. از ادعای آمریکا و اروپا گرفته تا نقش کشورهای آفریقایی و کانادا... نظرات خود را با ما در میان بگذارید و برای دیدن ویدئوهای بیشتر سابسکرایب کنید!#قاره_جدید #اقیانوس_اطلس #تغییر_جهان #آینده_زمین #ژئوپلیتیک"
+          },
+          {
+            "video_title": "قاره جدید در اقیانوس اطلس: جنگ بر سر منابع و قدرت جهانی!",
+            "video_description": "اگر یک #قاره_جدید در میان #اقیانوس_اطلس ظاهر شود، رقابت بر سر منابع طبیعی و قدرت چگونه خواهد بود؟ این سرزمین تازه کشف شده با پتانسیل عظیم خود از نفت و فلزات گرانبها تا آب شیرین، به میدان جنگی برای قدرت‌های بزرگ تبدیل خواهد شد. آمریکا، اروپا و کشورهای دیگر برای تصاحب آن ادعا خواهند داشت. موقعیت استراتژیک این زمین جدید چگونه نفوذ جهانی را تغییر می‌دهد؟ این سناریو را از دست ندهید! حتماً لایک کنید و نظراتتان را بنویسید.#جنگ_منابع #قاره_ناشناخته #ژئوپلیتیک #رقابت_قدرت #ادعای_مالکیت"
+          },
+          {
+            "video_title": "ثروت پنهان اقیانوس اطلس: قاره جدید چگونه اقتصاد جهان را تغییر می‌دهد؟",
+            "video_description": "کشف یک #قاره_جدید در #اقیانوس_اطلس می‌تواند #اقتصاد_جهان را زیر و رو کند! این سرزمین ناشناخته می‌تواند سرشار از منابع طبیعی گرانبها مانند نفت، فلزات کمیاب و آب شیرین باشد که آن را به باارزش‌ترین منطقه روی زمین تبدیل می‌کند. موقعیت استراتژیک آن نیز آن را به یک قطب جهانی برای تجارت دریایی و قدرت تبدیل خواهد کرد. کدام کشورها برای این گنج جدید مبارزه می‌کنند؟ با ما همراه باشید تا به این سوالات پاسخ دهیم. فراموش نکنید که سابسکرایب کنید و زنگوله را بزنید!#ثروت_جهانی #اقتصاد_آینده #تجارت_دریایی #موقعیت_استراتژیک #منابع_کمیاب"
+          },
+          {
+            "video_title": "قاره جدید در اقیانوس اطلس: ۷ تغییر باورنکردنی در دنیای ما!",
+            "video_description": "چه اتفاقی می‌افتد اگر یک #قاره_جدید ناگهان در قلب #اقیانوس_اطلس ظاهر شود؟ این ویدئو به بررسی ۷ #پیامد_باورنکردنی این رویداد می‌پردازد. از ترسیم مجدد مرزهای سیاسی و تغییر کامل مسیرهای تجاری و پروازها گرفته تا آغاز یک رقابت جهانی برای ادعای مالکیت بر این سرزمین. آمریکا، اروپا و کشورهای دیگر چگونه واکنش نشان می‌دهند؟ این زمین جدید چگونه آینده دنیا را شکل می‌دهد؟ با ما همراه باشید و نظرات خود را به اشتراک بگذارید! سابسکرایب و لایک یادتان نرود.#پیامدهای_جهانی #آینده_زمین #تغییرات_دنیوی #سناریو_واقعیت #علمی_تخیلی"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n- Original Video Transcription:  What if a new continent appeared in the middle of the Atlantic Ocean? The world as we know it today would change completely. New borders would have to be drawn, trade routes reworked, and flight paths completely redesigned. But the biggest question would be, who would claim it? Well, the United States would probably make the first move, arguing that its close proximity makes it part of their backyard. But Europe wouldn't just sit back and watch. Historically, Britain hasn't been able to resist colonizing new lands, and you can bet France, Spain, and Portugal would want a peace too. Then there's Canada and even African nations, who might see this as a once-in-a-lifetime chance to expand their global influence. But why would so many countries fight for it? Well, the answer is simple. Resources. A new and unclaimed land could be rich in oil, rare metals, and fresh water, making it one of the most valuable territories on Earth. It would also hold strategic significance with its position in the middle of the continents, making it a global hub for sea trade, naval power, and influence.\n\n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "10": {
+      "source_vid_id": 2,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "راز افزایش سریع سابسکرایبر یوتیوب 2024 (تضمینی!)",
+            "video_description": "می‌خواهید کانال یوتیوب خود را سریع رشد دهید و سابسکرایبر بیشتری جذب کنید؟ این ویدیو تمام رازهای افزایش سابسکرایبر یوتیوب در سال 2024 را به شما فاش می‌کند! با بهترین استراتژی‌های سئو یوتیوب، نکات کاربردی برای افزایش بازدید و جذب مخاطب واقعی آشنا شوید. از انتخاب کلمات کلیدی تا بهینه‌سازی محتوا، همه چیز را یاد بگیرید تا درآمد خود را از یوتیوب بالا ببرید. این راهنمای جامع برای یوتیوبرهای مبتدی و باتجربه است. برای یادگیری ترفندهای بیشتر، کانال ما را سابسکرایب کنید، ویدیو را لایک کنید و نظرات خود را کامنت بگذارید! #رشد_یوتیوب #افزایش_سابسکرایبر #کسب_درآمد_از_یوتیوب #سئو_یوتیوب #ترفندهای_یوتیوب"
+          },
+          {
+            "video_title": "کسب درآمد از یوتیوب در 2024: افزایش بازدید و monetization",
+            "video_description": "چگونه از یوتیوب کسب درآمد کنیم و بازدید ویدیوهایمان را در سال 2024 افزایش دهیم؟ در این راهنمای کامل، به شما نشان می‌دهیم چطور می‌توانید کانال خود را مانیتایز کنید و درآمد دلاری داشته باشید. با استراتژی‌های موثر برای افزایش بازدید ویدیوها، بهبود زمان تماشا و جذب اسپانسر آشنا شوید. این ویدیو به شما کمک می‌کند تا الگوریتم یوتیوب را درک کرده و محتوای پرطرفدار تولید کنید. فرصت‌های درآمدزایی از یوتیوب را از دست ندهید! حتماً سابسکرایب کنید، این ویدیو را لایک کنید و اگر سوالی دارید، کامنت بگذارید. #کسب_درآمد_یوتیوب #افزایش_بازدید #مانیتایز_یوتیوب #پول_از_یوتیوب #یوتیوبر_موفق"
+          },
+          {
+            "video_title": "سئو یوتیوب 2024: تسلط بر الگوریتم برای افزایش سابسکرایبر",
+            "video_description": "آیا می‌خواهید با سئو یوتیوب در سال 2024 آشنا شوید و بر الگوریتم آن مسلط شوید؟ این ویدیو یک راهنمای جامع برای بهینه‌سازی کانال یوتیوب شماست تا سابسکرایبر و بازدید بیشتری جذب کنید. از تحقیق کلمات کلیدی گرفته تا بهینه‌سازی عنوان، توضیحات و تگ‌ها، تمام جزئیات سئو یوتیوب را آموزش می‌دهیم. یاد بگیرید چگونه محتوای خود را برای موتور جستجوی یوتیوب بهینه کنید تا در نتایج بالاتر قرار بگیرید و رشد سریعی را تجربه کنید. برای دیدن ویدیوهای بیشتر در مورد رشد کانال، سابسکرایب کنید، لایک کنید و با دوستانتان به اشتراک بگذارید! #سئو_یوتیوب_فارسی #الگوریتم_یوتیوب #بهینه_سازی_ویدیو #رشد_کانال_یوتیوب #ترافیک_یوتیوب"
+          },
+          {
+            "video_title": "محتوای جذاب یوتیوب: چطور مخاطب را درگیر کنیم و رشد کنیم؟",
+            "video_description": "راز تولید محتوای جذاب یوتیوب چیست؟ در این ویدیو یاد می‌گیرید چطور محتوایی تولید کنید که مخاطب را درگیر کند، زمان تماشا را افزایش دهد و به رشد چشمگیر کانال شما در سال 2024 کمک کند. استراتژی‌های اثبات شده برای ایده‌یابی محتوا، تکنیک‌های داستان‌سرایی و راه‌های افزایش تعامل با مخاطبان را کشف کنید. با این روش‌ها، می‌توانید یک جامعه قوی از سابسکرایبرها بسازید و کانال خود را به اوج برسانید. همین حالا سابسکرایب کنید تا هیچ یک از نکات رشد را از دست ندهید، ویدیو را لایک کنید و نظرات و ایده‌هایتان را در کامنت‌ها با ما به اشتراک بگذارید! #تولید_محتوا_یوتیوب #محتوای_جذاب #تعامل_مخاطب #زمان_تماشا #استراتژی_محتوا"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "11": {
+      "source_vid_id": 3,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "5 دستور پخت شام سالم و فوری: غذای رژیمی عالی برای هر شب",
+            "video_description": "دنبال غذاهای سالم و سریع هستید؟ در این ویدئو، 5 دستور پخت شام سالم و فوری را یاد می‌گیرید که هم خوشمزه و هم رژیمی هستند. با این ایده‌ها، آشپزی سالم آسان می‌شود. دیگر نگران کمبود وقت برای تهیه شام سالم نباشید. این دستورالعمل‌های ساده به شما کمک می‌کنند تا در کمترین زمان، غذاهای خانگی و مقوی آماده کنید. از مواد اولیه در دسترس استفاده کرده‌ایم تا همه بتوانند این غذاها را امتحان کنند. حتماً تا آخر ویدئو همراه ما باشید! اگر از این ویدئو لذت بردید، لطفاً لایک کنید، نظرات خود را بنویسید و برای دستور پخت‌های سالم بیشتر، کانال ما را سابسکرایب کنید!#آشپزی_سالم #شام_فوری #دستور_پخت_آسان #غذاهای_رژیمی #سبک_زندگی_سالم"
+          },
+          {
+            "video_title": "5 غذای سالم و ارزان: رژیم بگیرید بدون هزینه زیاد!",
+            "video_description": "آشپزی سالم و اقتصادی ممکن است! در این ویدئو، 5 دستور پخت غذای سالم و ارزان را به شما آموزش می‌دهیم که برای مدیریت هزینه‌ها و حفظ سلامتی عالی هستند. دیگر بهانه ای برای نخوردن غذای سالم ندارید! این غذاهای مقوی با مواد اولیه در دسترس و با بودجه کم تهیه می‌شوند. یاد بگیرید چگونه با مواد غذایی ارزان، وعده‌های غذایی خوشمزه و مغذی برای خود و خانواده‌تان آماده کنید. این دستورات پخت به شما کمک می‌کنند هم پول پس‌انداز کنید و هم سالم بمانید. این ویدئو را لایک کنید، تجربیات خود را در کامنت‌ها به اشتراک بگذارید و برای ویدئوهای آشپزی اقتصادی بیشتر، کانال ما را سابسکرایب کنید!#غذای_ارزان #آشپزی_اقتصادی #رژیم_اقتصادی #غذاهای_سالم_و_ارزان #شام_با_بودجه_کم"
+          },
+          {
+            "video_title": "5 غذای رژیمی برای کاهش وزن: راز لاغری سریع و سالم!",
+            "video_description": "به دنبال غذاهای رژیمی موثر برای کاهش وزن هستید؟ در این ویدئو، 5 دستور پخت غذای رژیمی برای لاغری سریع و سالم را به شما معرفی می‌کنیم. به اهداف تناسب اندام خود برسید! این دستورالعمل‌های خوشمزه و کم‌کالری به شما کمک می‌کنند تا بدون گرسنگی، وزن کم کنید. یاد بگیرید چگونه غذاهایی سیرکننده و مغذی درست کنید که متابولیسم بدن را افزایش داده و به سوزاندن چربی کمک می‌کنند. آشپزی برای لاغری هرگز به این سادگی و لذت‌بخشی نبوده است! اگر قصد کاهش وزن دارید، این ویدئو برای شماست! لایک کنید، سؤالات خود را بپرسید و برای نکات بیشتر در مورد رژیم لاغری، کانال ما را سابسکرایب کنید!#رژیم_لاغری #کاهش_وزن #غذای_رژیمی #لاغری_سریع #تناسب_اندام"
+          },
+          {
+            "video_title": "5 غذای سالم برای خانواده: همه عاشق این دستورها می‌شوند!",
+            "video_description": "به دنبال غذای سالم برای خانواده هستید که همه دوست داشته باشند؟ در این ویدئو، 5 دستور پخت غذای سالم و خوشمزه را آموزش می‌دهیم که حتی بچه‌ها هم لذت می‌برند! آشپزی برای کل خانواده می‌تواند هم سالم باشد و هم مورد پسند همه. این دستورالعمل‌های آسان و مقوی برای وعده‌های شام خانوادگی عالی هستند. با این ایده‌ها، می‌توانید اطمینان حاصل کنید که خانواده‌تان، بدون دردسر، غذاهای مغذی و خوشمزه می‌خورند. دیگر خبری از جنگ بر سر غذا نیست! این ویدئو را لایک کنید، ایده‌های غذایی خود را در کامنت‌ها به اشتراک بگذارید و برای دستور پخت‌های خانوادگی بیشتر، کانال ما را سابسکرایب کنید!#غذای_خانوادگی #آشپزی_برای_بچه‌ها #شام_سالم_خانوادگی #وعده_های_مغذی #خانواده_سالم"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "12": {
+      "source_vid_id": 4,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "یادگیری زبان فارسی در ۳۰ روز: راز مکالمه روان و سریع برای همه",
+            "video_description": "آیا می‌خواهید زبان فارسی را در مدت کوتاهی و به آسانی یاد بگیرید؟ در این ویدئو، ما رازهای یادگیری سریع و مکالمه روان فارسی را برای مبتدیان و همه علاقه‌مندان فاش می‌کنیم. این راهنمای جامع شامل عبارات کاربردی، نکات تلفظ صحیح و تکنیک‌های گرامری ساده است تا شما بتوانید در کمترین زمان فارسی صحبت کنید. با این روش‌ها، یادگیری فارسی دیگر دشوار نخواهد بود. همین حالا تماشا کنید تا مهارت‌های زبانی خود را متحول کنید! برای ویدئوهای بیشتر، کانال ما را سابسکرایب کنید، این ویدئو را لایک کنید و نظرات خود را در کامنت‌ها بنویسید! #یادگیری_فارسی_سریع #آموزش_فارسی_ساده #مکالمه_فارسی #زبان_فارسی_برای_همه #مبتدیان_فارسی"
+          },
+          {
+            "video_title": "عبارات ضروری فارسی: چطور از همین امروز روان صحبت کنید؟",
+            "video_description": "شروع مکالمه به زبان فارسی می‌تواند هیجان‌انگیز باشد! در این ویدئو، با عبارات ضروری و جملات کلیدی فارسی آشنا شوید که برای صحبت کردن در موقعیت‌های روزمره کاملا کاربردی هستند. ما به شما کمک می‌کنیم تا با اعتماد به نفس بیشتری فارسی صحبت کنید و تلفظ صحیح کلمات را یاد بگیرید. این راهنما برای کسانی که می‌خواهند سریعا وارد دنیای مکالمه فارسی شوند، ایده‌آل است. گرامر پایه نیز به زبانی ساده توضیح داده شده است. همين الان شروع كنيد! اگر از این ویدئو لذت بردید، لطفاً آن را لایک کنید، کانال ما را سابسکرایب کرده و سؤالات خود را در بخش نظرات مطرح کنید. #عبارات_فارسی #مکالمه_فارسی_روزمره #صحبت_کردن_فارسی #زبان_فارسی_عملی #تلفظ_فارسی"
+          },
+          {
+            "video_title": "آموزش گام به گام فارسی: راهنمای کامل یادگیری از صفر تا صد",
+            "video_description": "آیا برای اولین بار می‌خواهید فارسی یاد بگیرید؟ این راهنمای کامل گام به گام، شما را از صفر تا صد یادگیری زبان فارسی همراهی می‌کند. در این ویدئو، ما اصول اولیه، شامل الفبای فارسی، گرامر پایه و عبارات کلیدی را به شیوه‌ای آسان و قابل فهم آموزش می‌دهیم. مناسب برای مبتدیان مطلق، این ویدئو هر آنچه را برای شروع سفر یادگیری خود نیاز دارید، پوشش می‌دهد. قدم به قدم با ما پیش بروید و مهارت‌های خود را بسازید. کانال ما را سابسکرایب کنید تا هیچ یک از ویدئوهای آموزشی ما را از دست ندهید و این ویدئو را لایک کنید! #آموزش_فارسی_مبتدی #یادگیری_فارسی_از_صفر #گرامر_فارسی_ساده #شروع_یادگیری_فارسی #الفبای_فارسی"
+          },
+          {
+            "video_title": "فارسی مثل بومی‌ها: چطور با لهجه طبیعی و اعتماد به نفس حرف بزنیم؟",
+            "video_description": "آیا دوست دارید فارسی را مثل یک بومی صحبت کنید و با فرهنگ ایرانی ارتباط برقرار کنید؟ این ویدئو به شما نشان می‌دهد که چگونه با لهجه طبیعی و اعتماد به نفس بالا، مکالمات واقعی فارسی داشته باشید. ما به جنبه‌های فرهنگی زبان، اصطلاحات رایج و نکاتی برای درک بهتر فارسی در موقعیت‌های واقعی می‌پردازیم. این راهنما فراتر از کتاب‌های درسی است و شما را برای غوطه‌ور شدن در زبان فارسی آماده می‌کند. نکات تلفظ و عباراتی که بومی‌ها استفاده می‌کنند را اینجا یاد بگیرید. برای حمایت از ما، حتماً ویدئو را لایک کنید و نظرات خود را در بخش کامنت‌ها با ما در میان بگذارید. #فارسی_بومی #فرهنگ_فارسی #اصطلاحات_فارسی #مکالمه_واقعی_فارسی #لهجه_فارسی"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "13": {
+      "source_vid_id": 5,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "۷ گام طلایی برای یادگیری سریع فارسی! آموزش آسان برای مبتدیان",
+            "video_description": "یادگیری سریع فارسی دیگر یک رویا نیست! در این ویدیو ۷ گام طلایی و تکنیک‌های اثبات شده را برای آموزش زبان فارسی به صورت آسان و مؤثر برای مبتدیان معرفی می‌کنیم. همین امروز سفر یادگیری خود را شروع کنید و به زبان شیرین فارسی مسلط شوید. این ویدیو به شما کمک می‌کند اصول اولیه را با اعتماد به نفس فرا بگیرید. اگر این آموزش برای شما مفید بود، لطفا لایک کنید، نظر بدهید و برای ویدیوهای بیشتر سابسکرایب کنید! #آموزش_فارسی #یادگیری_فارسی_سریع #زبان_شیرین_فارسی #فارسی_برای_مبتدیان"
+          },
+          {
+            "video_title": "مکالمه فارسی در ۳۰ روز: ۱۰ جمله کلیدی برای شروع صحبت!",
+            "video_description": "می‌خواهید مکالمه فارسی را سریع شروع کنید؟ این ویدیو ۱۰ جمله کلیدی و عبارات کاربردی را به شما آموزش می‌دهد که برای شروع صحبت به زبان فارسی ضروری هستند. با این آموزش عملی، اعتماد به نفس لازم برای برقراری ارتباط روزمره را به دست آورید. یادگیری فارسی هرگز اینقدر آسان نبوده است! این ویدیو را لایک کنید، نظر خود را بنویسید و فراموش نکنید که برای درس‌های مکالمه بیشتر سابسکرایب کنید! #مکالمه_فارسی #فارسی_صحبت_کنید #جملات_کاربردی_فارسی #یادگیری_زبان_فارسی"
+          },
+          {
+            "video_title": "کشف زبان فارسی: یادگیری آسان با طعم فرهنگ ایران!",
+            "video_description": "زبان فارسی دروازه‌ای به سوی فرهنگ غنی و تاریخ پربار ایران است. در این ویدیو با رویکردی سرگرم‌کننده، به آموزش زبان فارسی می‌پردازیم و نکاتی را برای لذت بردن از فرآیند یادگیری ارائه می‌دهیم. تجربه شیرین یادگیری فارسی همراه با درک عمیق‌تر فرهنگ ایرانی را از دست ندهید. اگر عاشق فرهنگ و زبان ایران هستید، حتما این ویدیو را لایک کنید و نظرات خود را با ما در میان بگذارید! برای محتوای فرهنگی بیشتر سابسکرایب کنید. #فارسی_و_فرهنگ #آموزش_فارسی_آسان #زبان_ایران #فرهنگ_ایرانی #یادگیری_لذت‌بخش"
+          },
+          {
+            "video_title": "۵ اشتباه رایج در فارسی که باید از آنها دوری کنید! (راه حل‌ها)",
+            "video_description": "یادگیری زبان فارسی می‌تواند چالش‌برانگیز باشد، اما با شناخت اشتباهات رایج می‌توانید پیشرفت سریعی داشته باشید. در این ویدیو به ۵ خطای اصلی که زبان‌آموزان فارسی مرتکب می‌شوند، می‌پردازیم و راه حل‌های عملی برای غلبه بر آنها ارائه می‌دهیم. فارسی را با اعتماد به نفس و بدون لهجه یاد بگیرید. آیا شما هم این اشتباهات را انجام داده‌اید؟ در بخش نظرات به ما بگویید! لایک کنید و برای نکات بیشتر زبان فارسی سابسکرایب کنید. #اشتباهات_فارسی #نکات_یادگیری_فارسی #فارسی_بدون_غلط #ترفندهای_زبان"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "14": {
+      "source_vid_id": 6,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "طرز تهیه قورمه سبزی آسان و سریع: خوشمزه ترین خورشت ایرانی در خانه!",
+            "video_description": "آموزش قورمه سبزی آسان و سریع برای همه! اگر به دنبال یک دستور پخت قورمه سبزی خوشمزه و بدون دردسر هستید، این ویدیو برای شماست. در این آموزش کامل، گام به گام یاد می‌گیرید چطور یک قورمه سبزی مجلسی و اصیل ایرانی را در کمترین زمان ممکن آماده کنید. با ما همراه باشید و رازهای یک خورشت قورمه سبزی فوق‌العاده را کشف کنید. مواد اولیه ساده و روش پخت بی‌نظیر برای تجربه طعم واقعی غذای ایرانی. این خورشت نه تنها آسان است، بلکه طعمی بی‌نظیر و به یادماندنی دارد. همین الان سابسکرایب کنید، ویدیو را لایک کنید و نظرات خود را با ما در میان بگذارید تا دستور پخت‌های جدیدتری را از دست ندهید!#قورمه_سبزی_سریع #آموزش_آشپزی #غذای_ایرانی #خورشت_خوشمزه #قورمه_سبزی_آسان"
+          },
+          {
+            "video_title": "رازهای قورمه سبزی اصیل و سنتی: طعم بی‌نظیر خورشت ایرانی واقعی!",
+            "video_description": "در این ویدیو، رازهای پخت قورمه سبزی اصیل و سنتی ایرانی را کشف کنید! اگر می‌خواهید طعم بی‌نظیر و واقعی یک خورشت قورمه سبزی خانگی را تجربه کنید، این آموزش برای شماست. ما با استفاده از روش‌های سنتی و نکات کلیدی، به شما یاد می‌دهیم چطور یک قورمه سبزی با عطر و طعم بی‌مانند درست کنید. از انتخاب سبزی مناسب تا مرحله جا افتادن خورشت، تمام جزئیات را پوشش داده‌ایم تا بهترین نتیجه را بگیرید. این دستور پخت، شما را به قلب آشپزخانه مادربزرگ‌ها می‌برد و تجربه‌ای فراموش‌نشدنی از غذای ایرانی اصیل را برایتان رقم می‌زند. همین حالا لایک کنید، کامنت بگذارید و کانال ما را سابسکرایب کنید تا هیچ یک از دستور پخت‌های سنتی ما را از دست ندهید!#قورمه_سبزی_اصیل #دستور_پخت_سنتی #غذای_خانگی #خورشت_ایرانی_واقعی #آموزش_آشپزی_ایرانی"
+          },
+          {
+            "video_title": "5 نکته طلایی برای قورمه سبزی بی‌نظیر: دیگر اشتباه نمی‌کنید!",
+            "video_description": "می‌خواهید بهترین قورمه سبزی عمرتان را بپزید؟ در این ویدیو، 5 نکته طلایی و ترفندهای آشپزی برای پخت یک قورمه سبزی فوق‌العاده خوشمزه را به شما آموزش می‌دهیم. از انتخاب لوبیا تا تفت دادن سبزی و تنظیم زمان پخت، تمام اشتباهات رایج را برطرف می‌کنیم. با رعایت این نکات حرفه‌ای، قورمه سبزی شما همیشه جا افتاده، پر رنگ و پر روغن خواهد بود. دیگر نگران پخت یک خورشت بی‌مزه یا رنگ پریده نباشید! این ویدیو یک راهنمای جامع برای رسیدن به قورمه سبزی رویایی شماست. برای ترفندهای بیشتر، کانال ما را سابسکرایب کنید، این ویدیو را لایک کنید و نظرات و تجربیات خود را در بخش کامنت‌ها با ما به اشتراک بگذارید!#ترفند_آشپزی #قورمه_سبزی_حرفه_ای #نکات_پخت_قورمه_سبزی #غذاهای_ایرانی #رازهای_آشپزی"
+          },
+          {
+            "video_title": "راز روغن انداختن قورمه سبزی: چگونه خورشتی پررنگ بپزیم؟",
+            "video_description": "آیا به دنبال راز روغن انداختن قورمه سبزی و پخت یک خورشت پررنگ و مجلسی هستید؟ در این ویدیو به شما آموزش می‌دهیم که چطور با ترفندهای ساده، قورمه سبزی شما به بهترین شکل روغن بیندازد و رنگی اشتهاآور پیدا کند. این نکات کلیدی، تضمین‌کننده یک قورمه سبزی بی‌نقص است. از مراحل آماده‌سازی سبزی تا افزودن ادویه‌جات و تنظیم حرارت، هر آنچه برای داشتن یک قورمه سبزی خوش‌رنگ و لعاب نیاز دارید، اینجاست. دیگر نگران جا نیفتادن خورشت نباشید! با این روش، هر بار یک شاهکار آشپزی خلق خواهید کرد. این ویدیو را لایک کنید، برای دوستانتان بفرستید و برای آموزش‌های بیشتر سابسکرایب کنید. نظرات شما برای ما ارزشمند است!#روغن_قورمه_سبزی #قورمه_سبزی_پررنگ #آشپزی_خانگی #ترفند_آشپزی_ایرانی #خورشت_مجلسی"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "15": {
+      "source_vid_id": 7,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "یادگیری سریع مهارت جدید: 5 قدم برای موفقیت چشمگیر!",
+            "video_description": "آیا می‌خواهید یک مهارت جدید را سریع و موثر یاد بگیرید؟ در این ویدئو، 5 قدم طلایی برای یادگیری سریع هر مهارتی را آموزش می‌دهیم که زندگی شما را متحول می‌کند. این روش‌های اثبات شده به شما کمک می‌کنند تا زمان را بهینه کرده و نتایج فوق‌العاده‌ای بگیرید. از برنامه‌ریزی هوشمند تا تمرین‌های هدفمند، همه چیز را پوشش داده‌ایم. همین حالا شروع کنید و پتانسیل خود را آزاد کنید! برای دیدن ویدئوهای بیشتر، سابسکرایب کنید و لایک و کامنت فراموش نشه!#یادگیری_سریع #مهارت_جدید #موفقیت_فردی #۵_قدم_طلایی #توسعه_فردی"
+          },
+          {
+            "video_title": "یادگیری مهارت‌ها بدون استرس: راهنمای آسان و کاربردی!",
+            "video_description": "نگران شروع یادگیری یک مهارت جدید هستید؟ این ویدئو راهنمای جامع شما برای یادگیری آسان مهارت‌ها بدون هیچ استرسی است. ما روش‌هایی را معرفی می‌کنیم که یادگیری را برای شما لذت‌بخش و ساده می‌کند. از غلبه بر ترس اولیه تا ساختن عادت‌های مؤثر، همه چیز را گام به گام آموزش می‌دهیم. مهارت‌های جدید را با آرامش و اطمینان خاطر بیاموزید. این ویدئو را ببینید و به دوستانتان هم معرفی کنید! لایک و کامنت یادتون نره و برای ویدئوهای بیشتر سابسکرایب کنید.#یادگیری_آسان #مهارت_آموزی #بدون_استرس #راهنمای_جامع #تغییر_سبک_زندگی"
+          },
+          {
+            "video_title": "راز یادگیری هر مهارتی: 7 نکته طلایی از افراد موفق!",
+            "video_description": "آیا می‌خواهید راز یادگیری هر مهارتی را کشف کنید؟ در این ویدئو، 7 نکته طلایی و استراتژی اثبات شده از افراد موفق را به شما معرفی می‌کنیم که به سرعت به تسلط بر هر مهارتی کمک می‌کند. این نکات عملی شامل مدیریت زمان، تمرین هوشمندانه، و تکنیک‌های افزایش تمرکز است. یاد بگیرید چگونه از اشتباهات خود درس بگیرید و پیشرفت چشمگیری داشته باشید. همین امروز این رازها را به کار ببرید و شاهد تفاوت باشید! ویدئو را لایک کنید، کامنت بگذارید و برای نکات بیشتر سابسکرایب کنید.#راز_موفقیت #یادگیری_مهارت #نکات_کاربردی #افراد_موفق #توسعه_مهارت"
+          },
+          {
+            "video_title": "انگیزه‌ یادگیری مهارت‌های جدید: چالش‌ها و راهکارهای غلبه!",
+            "video_description": "آیا برای یادگیری مهارت‌های جدید به انگیزه نیاز دارید؟ در این ویدئو، با چالش‌های رایج در مسیر یادگیری آشنا می‌شوید و راهکارهای عملی برای غلبه بر آن‌ها و حفظ انگیزه را کشف خواهید کرد. ما به شما نشان می‌دهیم چگونه اهداف واقع‌بینانه تعیین کنید، با موانع روبرو شوید و شور و شوق خود را زنده نگه دارید. یادگیری یک سفر هیجان‌انگیز است و با این راهنمایی‌ها می‌توانید هر مهارتی را با موفقیت پشت سر بگذارید. این ویدئو را ببینید و برای دیگران هم به اشتراک بگذارید! لایک، کامنت و سابسکرایب یادتون نره.#انگیزه #یادگیری_مداوم #غلبه_بر_چالش #توسعه_شخصی #مهارت_زندگی"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "16": {
+      "source_vid_id": 8,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "رازهای تغذیه سالم: ۷ راهکار آسان برای افراد پرمشغله",
+            "video_description": "آیا از خستگی و بی‌انگیزگی در طول روز خسته شده‌اید؟ در این ویدئو، ۷ نکته تغذیه سالم و کاربردی را برای افراد پرمشغله معرفی می‌کنیم تا انرژی‌تان را افزایش دهید و با تغذیه صحیح، فعال بمانید. با این روش‌های آسان، یاد می‌گیرید چگونه بدون صرف زمان زیاد در آشپزخانه، وعده‌های غذایی مغذی و سریع آماده کنید و به سلامت خود اهمیت دهید. برای ترفندهای بیشتر در زمینه سلامتی و تندرستی، حتماً مشترک شوید و نظرات خود را با ما در میان بگذارید!\n#تغذیه_سالم #انرژی_بخش #زندگی_پرانرژی #رژیم_غذایی_سریع #سلامتی"
+          },
+          {
+            "video_title": "خداحافظی با خستگی! رژیم غذایی آسان و سریع برای شاغلین",
+            "video_description": "زمان کم و انرژی پایین دارید؟ در این ویدئو، راهکارهای عملی و رژیم غذایی آسان برای شاغلین و افراد پرمشغله ارائه می‌دهیم تا با برنامه‌ریزی غذایی سریع، خستگی را از خود دور کنید. یاد بگیرید چگونه با انتخاب‌های هوشمندانه و آماده‌سازی سریع، همیشه غذای سالم در دسترس داشته باشید و سطح انرژی خود را ثابت نگه دارید. لایک کردن ویدئو و به اشتراک‌گذاری با دوستانتان، به ما در تولید محتوای بهتر کمک می‌کند!\n#رژیم_سریع #غذای_سالم #کاهش_خستگی #تغذیه_شاغلین #لایف_استایل"
+          },
+          {
+            "video_title": "۷ عادت غذایی طلایی برای زندگی سالم‌تر در اوج مشغله",
+            "video_description": "آیا به دنبال افزایش کیفیت زندگی و بهبود سلامتی خود هستید؟ این ویدئو ۷ عادت غذایی طلایی را معرفی می‌کند که حتی در شلوغ‌ترین روزهایتان می‌توانید آنها را رعایت کنید. از برنامه‌ریزی وعده‌های غذایی گرفته تا انتخاب‌های سریع و سالم، همه چیز برای داشتن یک سبک زندگی سالم‌تر بدون نیاز به ساعت‌ها وقت‌گذرانی در آشپزخانه، در اینجا موجود است. برای ویدئوهای بیشتر مشترک شوید و سوالات خود را در بخش نظرات مطرح کنید!\n#عادات_غذایی #سبک_زندگی_سالم #افزایش_انرژی #تغذیه_پرمشغله #سلامت"
+          },
+          {
+            "video_title": "چطور در اوج مشغله، سالم غذا بخوریم؟ راهنمای کامل",
+            "video_description": "چگونه می‌توان در میان مشغله‌های روزمره، به تغذیه سالم و مقوی اهمیت داد؟ این راهنمای کامل، ۷ گام عملی برای داشتن رژیم غذایی متعادل و سالم را به شما آموزش می‌دهد. از نکات مربوط به خرید هوشمندانه و آماده‌سازی سریع غذا گرفته تا روش‌های حفظ انرژی، همه چیز برای تغذیه سالم در شرایط پرفشار کاری و زندگی گنجانده شده است. این ویدئو را لایک کنید و برای دوستانتان بفرستید تا آن‌ها نیز از این راهنما بهره‌مند شوند!\n#راهنمای_تغذیه #غذای_مقوی #زندگی_کاری #رژیم_درمانی #آشپزی_سریع"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "17": {
+      "source_vid_id": 9,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "۷ گام طلایی برای یک زندگی سالم و پرانرژی | رژیم، ورزش و آرامش",
+            "video_description": "در این ویدئو، بهترین نکات برای شروع یک زندگی سالم و پرانرژی را کشف کنید. با ۷ گام عملی یاد بگیرید چگونه رژیم غذایی متعادل، برنامه ورزشی منظم و آرامش ذهنی را در زندگی روزمره خود جای دهید. سلامتی شما در دستان شماست! برای افزایش انرژی و بهبود کیفیت زندگی، این ویدئو را حتماً ببینید و با دوستانتان به اشتراک بگذارید. همین حالا سابسکرایب کنید!#زندگی_سالم #رژیم_غذایی #ورزش_در_خانه #سلامتی_بدن #انرژی_مثبت"
+          },
+          {
+            "video_title": "زندگی سالم در کمترین زمان: ۱۰ ترفند روزانه برای سلامتی بهتر",
+            "video_description": "آیا وقت کافی برای یک سبک زندگی سالم ندارید؟ نگران نباشید! در این ویدئو، ۱۰ ترفند روزانه و آسان را برای بهبود سلامتی و افزایش انرژی به شما آموزش می‌دهیم. این نکات تغذیه‌ای و ورزشی سریع، به شما کمک می‌کنند بدون صرف وقت زیاد، بدنی سالم‌تر و ذهنی شاداب‌تر داشته باشید. همین حالا لایک کنید و نظراتتان را بنویسید!#سبک_زندگی_سالم #تغذیه_سریع #ورزش_آسان #بهبود_سلامت #انرژی"
+          },
+          {
+            "video_title": "راز سلامتی جسم و روح: راهنمای جامع برای آرامش و شادابی پایدار",
+            "video_description": "کشف کنید چگونه با پرداختن به سلامتی جسم و روح، زندگی متعادل‌تر و شاداب‌تری داشته باشید. این ویدئو راهنمای جامع شما برای کاهش استرس، افزایش آرامش درونی و بهبود کلی رفاه است. با تکنیک‌های ذهن‌آگاهی و نکات عملی، به بهترین نسخه از خودتان تبدیل شوید. برای محتوای بیشتر، کانال ما را سابسکرایب کنید!#سلامت_روان #سلامت_جسم #آرامش_درونی #کاهش_استرس #ذهن_آگاهی"
+          },
+          {
+            "video_title": "از خستگی خسته شدی؟ ۱۰ راهکار تضمینی برای افزایش انرژی و شادابی!",
+            "video_description": "اگر همیشه احساس خستگی می‌کنید و به دنبال راه‌هایی برای افزایش انرژی و شادابی خود هستید، این ویدئو برای شماست! در این ویدئو، ۱۰ راهکار عملی و مؤثر را برای غلبه بر خستگی مزمن و پر کردن روزتان با انرژی مثبت معرفی می‌کنیم. از تغذیه تا عادات خواب، همه چیز اینجاست. همین حالا تماشا کنید و به جمع ما بپیوندید!#افزایش_انرژی #رفع_خستگی #شادابی_روزانه #خواب_باکیفیت #سبک_زندگی_پرانرژی"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "18": {
+      "source_vid_id": 10,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "۵ راز یادگیری سریع زبان جدید: هر زبانی را سریعتر یاد بگیرید!",
+            "video_description": "آیا می‌خواهید زبان جدیدی را سریع و موثر یاد بگیرید؟ در این ویدئو، ۵ راهکار کلیدی و اثبات شده برای یادگیری سریع زبان را به شما آموزش می‌دهیم. این نکات به شما کمک می‌کند تا با روش‌های علمی، هر زبانی را در کمترین زمان ممکن فرا بگیرید. از برنامه‌ریزی هوشمند تا تمرین‌های روزانه، همه چیز را پوشش داده‌ایم تا تجربه یادگیری شما لذت‌بخش و پربازده باشد. همین حالا ببینید و مسیر یادگیری زبان خود را متحول کنید!\n\nلطفاً کانال ما را سابسکرایب کنید، ویدئو را لایک کنید و نظرات خود را با ما در میان بگذارید.\n\n#یادگیری_زبان #آموزش_زبان #زبان_جدید #تکنیک_یادگیری_زبان #یادگیری_سریع"
+          },
+          {
+            "video_title": "یادگیری آسان زبان: ۷ گام ساده برای تسلط کامل بر هر زبانی!",
+            "video_description": "دیگر نگران یادگیری زبان نباشید! با این ۷ گام ساده و کاربردی، یادگیری هر زبان جدیدی برای شما مثل آب خوردن خواهد شد. ما به شما نشان می‌دهیم چطور می‌توانید با روش‌هایی آسان و بدون استرس، گرامر، لغات و مکالمه را به بهترین شکل یاد بگیرید. این ویدئو پر از نکات عملی است که می‌توانید از همین امروز شروع به استفاده از آن‌ها کنید و به رویاهای زبانی خود دست یابید. تسلط بر زبان دوم هرگز تا این حد آسان نبوده است!\n\nبرای ویدئوهای بیشتر، کانال ما را سابسکرایب کنید و لایک یادتان نرود. سوالات خود را در کامنت‌ها بپرسید.\n\n#یادگیری_آسان_زبان #تسلط_زبان #روش_یادگیری_زبان #ترفند_زبان #زبان_دوم"
+          },
+          {
+            "video_title": "چطور ترس از یادگیری زبان را بشکنیم؟ (نکات طلایی برای موفقیت)",
+            "video_description": "بسیاری از ما از شروع یادگیری زبان جدید می‌ترسیم، اما نگران نباشید! در این ویدئو، با نکات طلایی و انگیزشی به شما کمک می‌کنیم تا این ترس را کنار بگذارید و با اشتیاق شروع کنید. ما به موانع ذهنی می‌پردازیم و راهکارهایی عملی برای افزایش اعتماد به نفس و حفظ انگیزه در طول مسیر یادگیری ارائه می‌دهیم. با این روش‌ها، یادگیری زبان دیگر یک کابوس نخواهد بود، بلکه یک ماجراجویی هیجان‌انگیز می‌شود. همین امروز اقدام کنید و اولین قدم را بردارید!\n\nاگر این ویدئو به شما کمک کرد، لطفاً لایک کنید و کانال را سابسکرایب نمایید. نظرات شما به ما انرژی می‌دهد!\n\n#انگیزه_یادگیری_زبان #ترس_از_زبان #موفقیت_در_زبان #نکات_انگیزشی #یادگیری_موثر"
+          },
+          {
+            "video_title": "راز یادگیری زبان مثل بومی‌ها: ۶ تکنیک کاربردی و اثربخش!",
+            "video_description": "آیا می‌خواهید مثل بومی‌ها صحبت کنید و به راحتی با آن‌ها ارتباط برقرار کنید؟ این ویدئو ۶ تکنیک کاربردی و اثربخش را به شما نشان می‌دهد که چطور می‌توانید مهارت‌های زبانی خود را در موقعیت‌های واقعی تقویت کنید. از غرق شدن در محیط زبان گرفته تا تمرین‌های مکالمه واقعی، ما همه رازهایی را فاش می‌کنیم که افراد بومی برای یادگیری زبان مادری خود استفاده می‌کنند. این تکنیک‌ها، مسیر شما را برای رسیدن به روانی در گفتار هموار می‌کنند.\n\nبرای حمایت از ما، کانال را سابسکرایب و ویدئو را لایک کنید. تجربیات خود را در بخش کامنت به اشتراک بگذارید.\n\n#یادگیری_کاربردی_زبان #مکالمه_زبان #زبان_بومی #تمرین_زبان #روانی_در_گفتار"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "19": {
+      "source_vid_id": 11,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "یادگیری سریع انگلیسی: ۵ راز برای تسلط و مکالمه روان!",
+            "video_description": "اگر می‌خواهید یادگیری زبان انگلیسی را تسریع کنید و به مکالمه روان برسید، این ویدیو برای شماست! در اینجا ۵ راز طلایی را کشف می‌کنید که به شما کمک می‌کند انگلیسی را سریع و مؤثر یاد بگیرید. از تکنیک‌های مطالعه هدفمند تا نکات کلیدی برای بهبود گرامر و افزایش دایره لغات، هر آنچه نیاز دارید تا انگلیسی را در کمترین زمان ممکن مسلط شوید. این ترفندها برای هر سطحی مناسب است. ویدیو را تا آخر ببینید و نظرات خود را با ما در میان بگذارید! لایک کنید، کامنت بگذارید و سابسکرایب کنید تا آموزش‌های بیشتری ببینید و مهارت‌های زبان خود را متحول کنید. #یادگیری_سریع_انگلیسی #آموزش_انگلیسی #مکالمه_روان #ترفندهای_زبان #انگلیسی_آسان"
+          },
+          {
+            "video_title": "مکالمه انگلیسی روزمره: با این ۶ ترفند واقعی صحبت کن!",
+            "video_description": "برای تقویت مکالمه انگلیسی و استفاده روزمره از زبان، این ویدیو بهترین راهکارها را به شما می‌دهد. با ۶ ترفند کاربردی می‌توانید به راحتی انگلیسی را در موقعیت‌های واقعی زندگی به کار ببرید. از تمرین با افراد بومی تا ساخت جملات کاربردی و روش‌های افزایش اعتماد به نفس در صحبت کردن، این نکات به شما کمک می‌کنند تا اعتماد به نفس خود را در مکالمه بالا ببرید و انگلیسی را زندگی کنید. دیگر نگران صحبت کردن نباشید! اگر این ویدیو برایتان مفید بود، حتماً لایک کنید، کانال را سابسکرایب کنید و نظرات خود را بنویسید تا بتوانیم محتوای بهتری برای شما بسازیم. #مکالمه_انگلیسی #انگلیسی_کاربردی #آموزش_روزمره #تقویت_مکالمه #انگلیسی_برای_زندگی"
+          },
+          {
+            "video_title": "۴ اشتباه رایج در یادگیری انگلیسی (مثل بومی‌ها صحبت کن!)",
+            "video_description": "آیا در یادگیری زبان انگلیسی اشتباهات رایجی مرتکب می‌شوید که مانع پیشرفتتان شده؟ در این ویدیو ۴ مورد از این خطاها را بررسی می‌کنیم و راه حل‌های عملی برای جلوگیری از آن‌ها ارائه می‌دهیم. از تلفظ‌های غلط تا گرامر اشتباه و انتخاب کلمات نامناسب، یاد بگیرید چطور مثل یک انگلیسی‌زبان بومی روان و درست صحبت کنید. این نکات برای همه سطوح زبان آموزی حیاتی است و به شما کمک می‌کند تا ایرادات خود را برطرف کنید. برای حمایت از ما، ویدیو را لایک کنید و کانال ما را سابسکرایب کنید. سوالات خود را در کامنت‌ها مطرح کنید تا به آنها پاسخ دهیم. #اشتباهات_انگلیسی #گرامر_انگلیسی #تلفظ_انگلیسی #آموزش_زبان #تسلط_بر_انگلیسی"
+          },
+          {
+            "video_title": "بهترین منابع یادگیری انگلیسی: برنامه مطالعاتی جامع (۲۰۲۴)",
+            "video_description": "دنبال بهترین منابع یادگیری زبان انگلیسی و یک برنامه مطالعاتی منظم هستید؟ این ویدیو راهنمای کامل شما برای سال ۲۰۲۴ است. ما انواع منابع معتبر و مؤثر، از اپلیکیشن‌های رایگان و وب‌سایت‌های آموزشی تا کتاب‌ها و پادکست‌های مفید را معرفی می‌کنیم. یاد بگیرید چگونه یک برنامه مطالعاتی مؤثر و گام به گام برای خود بسازید و به تسلط بر انگلیسی برسید. این راهنما برای خودآموزان و دانشجویان مفید است. اگر از این راهنما خوشتان آمد، حتماً لایک کنید، کامنت بگذارید و برای دوستانتان بفرستید. فراموش نکنید سابسکرایب کنید تا هیچ یک از آموزش‌های ما را از دست ندهید! #منابع_یادگیری_انگلیسی #برنامه_مطالعاتی #آموزش_انگلیسی #اپلیکیشن_زبان #انگلیسی_برای_همه"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "20": {
+      "source_vid_id": 12,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "۸ عادت قدرتمند روزانه: زندگی سالم و شادتر در دستان شماست!",
+            "video_description": "آیا به دنبال راهی برای بهبود کیفیت زندگی خود هستید؟ در این ویدئو، ۸ عادت قدرتمند و ساده روزانه را به شما معرفی می‌کنیم که زندگی سالم، پر انرژی و شادتری را برایتان به ارمغان می‌آورد. با اجرای این عادت‌ها، تغییرات مثبتی را در سلامت جسمی و روحی خود مشاهده خواهید کرد. اگر این ویدئو برایتان مفید بود، لطفاً آن را لایک کنید، نظرات خود را با ما در میان بگذارید و برای حمایت از کانال ما سابسکرایب کنید!#زندگی_سالم #عادات_روزانه #بهبود_کیفیت_زندگی #شادی_در_زندگی #سلامت_ذهن_و_جسم"
+          },
+          {
+            "video_title": "راز صبح‌های پر انرژی: عادات طلایی که روز شما را متحول می‌کند!",
+            "video_description": "شروع روز با انرژی و انگیزه، کلید بهره‌وری و موفقیت است. در این ویدئو، رازهای یک صبح پر انرژی را کشف کنید! ما به شما عادات طلایی صبحگاهی را آموزش می‌دهیم که نه تنها روزتان را متحول می‌کند، بلکه به شما کمک می‌کند تا با ذهنی آرام و متمرکز به اهدافتان برسید. اگر آماده‌اید تا صبح‌هایتان را متحول کنید، این ویدئو را لایک کرده، تجربیات خود را در کامنت‌ها بنویسید و فراموش نکنید که سابسکرایب کنید!#عادات_صبحگاهی #صبح_پر_انرژی #شروع_عالی_روز #بهره_وری #ذهن_آرام"
+          },
+          {
+            "video_title": "زندگی سالم بدون دردسر: ۵ تغییر ساده برای سلامتی بیشتر!",
+            "video_description": "آیا فکر می‌کنید داشتن یک زندگی سالم کار سختی است؟ اشتباه می‌کنید! در این ویدئو، ۵ تغییر بسیار ساده و قابل اجرا را به شما معرفی می‌کنیم که می‌توانید از همین امروز شروع کنید و بدون دردسر به سلامتی بیشتر برسید. این عادت‌های کوچک، نتایج بزرگی برایتان به همراه خواهند داشت. اگر به دنبال راهکارهای آسان برای سلامتی هستید، این ویدئو را لایک کنید و با دوستانتان به اشتراک بگذارید. نظرات شما برای ما ارزشمند است، پس حتماً کامنت بگذارید و سابسکرایب کنید!#سلامتی_آسان #عادات_کوچک #زندگی_سالم_مبتدی #تغییرات_مثبت #راز_سلامتی"
+          },
+          {
+            "video_title": "ساختن زندگی رویایی: عادات روزانه برای تحول دائمی و خوشبختی!",
+            "video_description": "آیا می‌خواهید زندگی‌ای بسازید که همیشه رویایش را داشتید؟ در این ویدئو، به شما نشان می‌دهیم چگونه با ایجاد عادات روزانه پایدار، می‌توانید تحولی دائمی در زندگی خود ایجاد کنید و به خوشبختی واقعی برسید. این عادت‌ها نه تنها سلامت شما را بهبود می‌بخشند، بلکه آینده‌ای روشن‌تر برایتان رقم می‌زنند. برای شروع مسیر تحول زندگی‌تان، همین حالا لایک کنید، دیدگاه‌هایتان را در کامنت‌ها بنویسید و برای محتوای بیشتر سابسکرایب کنید!#تحول_زندگی #عادات_پایدار #خوشبختی_واقعی #آینده_روشن #سلامت_در_بلند_مدت"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "21": {
+      "source_vid_id": 13,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "5 روش اعجاب‌انگیز برای یادگیری سریع هر زبان جدید",
+            "video_description": "آیا می‌خواهید زبان جدیدی را سریع و موثر یاد بگیرید؟ این ویدئو ۵ روش اثبات‌شده را برای سرعت بخشیدن به زبان آموزی شما فاش می‌کند. از تکنیک‌های حفظ موثر تا نکات غرق شدن در محیط زبان، همه چیز را برای رسیدن به تسلط سریعتر پوشش می‌دهیم. برای تحول در مهارت‌های زبانی‌تان همین حالا تماشا کنید! فراموش نکنید ویدئو را لایک کرده، کامنت بگذارید و برای ترفندهای بیشتر زبان آموزی سابسکرایب کنید. #یادگیری_زبان #آموزش_سریع_زبان #ترفند_زبان_آموزی #یادگیری_موثر"
+          },
+          {
+            "video_title": "یادگیری زبان جدید دیگر سخت نیست! 5 قدم برای تسلط آسان",
+            "video_description": "آیا فکر می‌کنید یادگیری زبان جدید دشوار است؟ در این ویدئو، ما به شما نشان می‌دهیم چگونه با ۵ قدم ساده به راحتی به هر زبانی مسلط شوید. روش‌هایی را کشف کنید که موانع یادگیری را برطرف کرده و مسیر شما را برای روان صحبت کردن هموار می‌کند. همین حالا کلیک کنید تا تجربه زبان آموزی شما متحول شود! اگر این ویدئو برای شما مفید بود، لطفا لایک کنید، نظرات خود را به اشتراک بگذارید و کانال ما را سابسکرایب کنید. #یادگیری_آسان_زبان #تسلط_بر_زبان #آموزش_زبان_بدون_سختی #زبان_دوم"
+          },
+          {
+            "video_title": "راز یادگیری زبان: ۵ ترفند پنهان برای تسلط سریع و همیشگی",
+            "video_description": "کنجکاوید بدانید چگونه زبان آموزان موفق به سرعت به تسلط می‌رسند؟ در این ویدئو، ۵ ترفند پنهان را فاش می‌کنیم که مسیر شما را برای یادگیری هر زبان جدیدی متحول می‌کند. این نکات کاربردی، از تقویت حافظه تا مکالمه بدون ترس، به شما کمک می‌کنند تا روان و مطمئن صحبت کنید. همین حالا ببینید و راز تسلط بر زبان را کشف کنید! لایک و سابسکرایب فراموش نشود تا هیچ یک از ویدئوهای آینده ما را از دست ندهید. #راز_یادگیری_زبان #ترفندهای_زبان #آموزش_کاربردی_زبان #تسلط_به_مکالمه"
+          },
+          {
+            "video_title": "چگونه در 3 ماه به هر زبانی مسلط شویم؟ 5 گام طلایی",
+            "video_description": "آیا رویای روان صحبت کردن به یک زبان جدید را در سر دارید؟ با ۵ گام طلایی این ویدئو، مسیر رسیدن به تسلط بر هر زبانی برای شما هموار می‌شود. ما بهترین استراتژی‌ها را برای سرعت بخشیدن به زبان آموزی شما و تبدیل شدن به یک فرد مسلط در کمترین زمان ممکن آموزش می‌دهیم. از روش‌های اثبات شده تا نکات تمرینی روزانه، همه چیز اینجاست! همین امروز یادگیری خود را متحول کنید! برای حمایت از ما لطفا لایک کنید، سوالاتتان را کامنت بگذارید و سابسکرایب کنید. #روان_صحبت_کردن #آموزش_فوری_زبان #کسب_تسلط_زبانی #تغییر_مهارت_زبان"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "22": {
+      "source_vid_id": 14,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "۷ راهکار طلایی افزایش بهره وری روزانه: زندگی مؤثرتر!",
+            "video_description": "در این ویدئو، ۷ راهکار طلایی برای افزایش بهره وری روزانه و مدیریت زمان مؤثر را کشف خواهید کرد. اگر به دنبال دستیابی به اهداف خود با کارایی بیشتر هستید، این نکات کلیدی زندگی شما را متحول می‌کند. با استفاده از این استراتژی‌های ساده و کاربردی، می‌توانید تمرکز خود را بهبود بخشید، اهمال‌کاری را کنار بگذارید و کارهای بیشتری را در زمان کمتری انجام دهید. یاد بگیرید چگونه برنامه ریزی کنید، اولویت‌بندی کنید و از زمان خود به بهترین نحو استفاده نمایید. این تکنیک‌ها به شما کمک می‌کنند تا زندگی متعادل‌تر و موفق‌تری داشته باشید. برای نکات بیشتر در مورد بهره وری و مدیریت زمان، کانال ما را سابسکرایب کنید، این ویدئو را لایک کرده و نظرات خود را در بخش کامنت با ما به اشتراک بگذارید! #بهره_وری #مدیریت_زمان #موفقیت_فردی #افزایش_کارایی #برنامه_ریزی"
+          },
+          {
+            "video_title": "چگونه بر اهمال‌کاری غلبه کنیم؟ راز مدیریت زمان عالی!",
+            "video_description": "اهمال‌کاری بزرگترین دشمن بهره وری است! در این ویدئو، رازهای مدیریت زمان عالی و استراتژی‌های اثبات‌شده برای غلبه بر اهمال‌کاری را فرا خواهید گرفت. دیگر هیچ کاری را به تعویق نیندازید! با تکنیک‌هایی مانند تقسیم کارها به بخش‌های کوچک، قانون ۵ ثانیه و ایجاد انگیزه درونی، می‌توانید به راحتی عادت‌های بد را ترک کرده و به سمت موفقیت گام بردارید. این راهکارها به شما کمک می‌کنند تا تمرکز خود را افزایش داده و کارهای مهم را در زمان مقرر به پایان برسانید. از همین امروز تغییر را آغاز کنید! با سابسکرایب کردن کانال، لایک کردن ویدئو و گذاشتن کامنت، از ما حمایت کنید و به جامعه ما بپیوندید! #اهمال_کاری #مدیریت_زمان #انگیزه #غلبه_بر_تنبلی #برنامه_ریزی_مؤثر"
+          },
+          {
+            "video_title": "عادات افراد موفق: بهره وری بالا و دستیابی به اهداف بزرگ",
+            "video_description": "آیا می‌خواهید مانند افراد موفق زندگی کنید؟ در این ویدئو، عادات کلیدی افراد با بهره وری بالا را کشف خواهید کرد که به آن‌ها در دستیابی به اهداف بزرگ و ساختن یک زندگی رؤیایی کمک کرده است. یاد بگیرید چگونه عادت‌های مثبت را در زندگی خود بگنجانید، روتین‌های روزانه خود را بهینه کنید و با تمرکز بر رشد فردی، به موفقیت‌های پایدار دست یابید. این ویدئو راهنمای شما برای تغییرات کوچک اما قدرتمند است که نتایج بزرگی در پی خواهد داشت. از همین امروز شروع به ساختن آینده خود کنید! اگر این ویدئو برای شما مفید بود، لطفاً آن را لایک کنید، کانال ما را سابسکرایب کرده و سؤالات و نظرات خود را در بخش کامنت مطرح کنید. #عادات_موفق #رشد_فردی #بهره_وری #خودسازی #هدف_گذاری"
+          },
+          {
+            "video_title": "بهره وری هوشمند با ابزارهای دیجیتال: کار کمتر، نتیجه بیشتر!",
+            "video_description": "آینده بهره وری در دستان شماست! در این ویدئو، با بهترین ابزارهای دیجیتال و ترفندهای هوشمند آشنا می‌شوید که به شما کمک می‌کنند با کار کمتر، نتایج بیشتری کسب کنید و زمان خود را بهینه سازید. از برنامه‌های مدیریت وظایف گرفته تا تکنیک‌های تمرکز دیجیتال، این ویدئو راهنمای جامع شما برای استفاده حداکثری از فناوری است. یاد بگیرید چگونه جریان کاری خود را خودکار کنید، سازماندهی خود را بهبود بخشید و بهره وری خود را به سطح جدیدی ارتقا دهید. دیگر وقت خود را با کارهای تکراری هدر ندهید! کانال ما را سابسکرایب کنید تا هیچ یک از ویدئوهای آینده ما را از دست ندهید! لطفاً ویدئو را لایک کرده و نظرات خود را با ما در میان بگذارید. #بهره_وری_دیجیتال #ابزارهای_افزایش_کارایی #تکنولوژی #کار_هوشمند #مدیریت_پروژه"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "23": {
+      "source_vid_id": 15,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "۵ صبحانه سالم و سریع: انرژی روزانه شما در کمتر از ۱۰ دقیقه!",
+            "video_description": "آیا صبح‌ها وقت کمی برای صبحانه دارید؟ در این ویدئو، ۵ ایده فوق‌العاده برای صبحانه سالم و سریع را به شما معرفی می‌کنیم که می‌توانید در کمتر از ۱۰ دقیقه آماده کنید. با این دستورهای آسان، روز خود را با انرژی و سلامت آغاز کنید. دیگر نگران نداشتن وقت برای یک صبحانه مقوی نباشید! برای دستورهای پخت بیشتر و ترفندهای تغذیه سالم، کانال ما را سابسکرایب کنید و لایک و کامنت یادتان نرود!#صبحانه_سالم #صبحانه_سریع #صبحانه_آسان #انرژی_زا #غذای_سریع"
+          },
+          {
+            "video_title": "صبحانه رژیمی و آسان: ۵ ایده فوق‌العاده برای شروع روز کم‌کالری!",
+            "video_description": "به دنبال ایده‌های صبحانه رژیمی و کم‌کالری هستید؟ این ویدئو ۵ دستور پخت آسان و خوشمزه را به شما نشان می‌دهد تا روز خود را با سبک‌ترین و سالم‌ترین روش ممکن شروع کنید. با این صبحانه‌های رژیمی، هم وزن کم کنید و هم از طعم بی‌نظیرشان لذت ببرید! برای دیدن ویدئوهای بیشتر درباره رژیم غذایی و کاهش وزن، کانال ما را سابسکرایب کنید، لایک کنید و نظراتتان را کامنت بگذارید.#صبحانه_رژیمی #کاهش_وزن #صبحانه_کم_کالری #لاغری_با_صبحانه #رژیم_غذایی"
+          },
+          {
+            "video_title": "دیگر صبحانه را از دست ندهید: ۵ گزینه عالی برای افراد پرمشغله!",
+            "video_description": "آیا بخاطر مشغله زیاد صبحانه را از دست می‌دهید؟ در این ویدئو، ۵ ایده فوق‌العاده و کاربردی برای صبحانه آسان و سریع را معرفی می‌کنیم که مخصوص افراد پرمشغله طراحی شده‌اند. با این گزینه‌ها، دیگر هیچوقت صبحانه مهم‌ترین وعده غذایی روز را فراموش نمی‌کنید و همیشه آماده و پرانرژی خواهید بود. برای ترفندهای بیشتر در زندگی پرمشغله، حتماً کانال ما را سابسکرایب کنید و ویدئو را لایک کرده و نظرات خود را با ما در میان بگذارید!#صبحانه_برای_مشغولها #وعده_غذایی_مهم #زندگی_سالم #صبحانه_سریع #مدیریت_زمان"
+          },
+          {
+            "video_title": "با این ۵ صبحانه خوشمزه و ساده، هر روزتان را عالی شروع کنید!",
+            "video_description": "آیا دوست دارید هر روزتان را با یک صبحانه خوشمزه و در عین حال ساده شروع کنید؟ در این ویدئو، ۵ دستور پخت آسان و دلپذیر را به شما آموزش می‌دهیم که برای همه سلیقه‌ها مناسب هستند. از طعم‌های جدید لذت ببرید و صبح‌های خود را متحول کنید! برای کشف دستورالخت‌های غذایی بیشتر و الهام‌بخش، کانال ما را سابسکرایب کنید، این ویدئو را لایک کنید و با دوستانتان به اشتراک بگذارید.#صبحانه_خوشمزه #صبحانه_ساده #دستور_پخت_آسان #ایده_غذایی #لذت_آشپزی"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "24": {
+      "source_vid_id": 16,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "۵ نکته جادویی برای یادگیری سریع هر زبان جدیدی! [حرفه‌ای شوید]",
+            "video_description": "می‌خوای هر زبان جدیدی رو سریع یاد بگیری؟ تو این ویدیو، ۵ نکته طلایی رو بهت می‌گیم که چطور با روش‌های اثبات‌شده، یادگیری زبان رو فوق‌العاده سریع و مؤثر کنی. از تقویت واژگان تا روان صحبت کردن، همه چی اینجاست! یادگیری زبان دیگه سخت نیست. همین حالا ببین و حرفه‌ای شو! یادت نره لایک کنی، کامنت بذاری و سابسکرایب کنی تا نکات بیشتری ببینی. #یادگیری_زبان #آموزش_سریع_زبان #نکات_یادگیری_زبان #زبان_جدید #مکالمه_سریع"
+          },
+          {
+            "video_title": "دیگه یادگیری زبان سخت نیست! ۵ روش آسان و جذاب [بدون استرس]",
+            "video_description": "آیا یادگیری زبان براتون سخته و خسته‌کننده؟ نگران نباشید! در این ویدیو، ۵ روش آسان و جذاب رو معرفی می‌کنیم که یادگیری هر زبان جدیدی رو براتون لذت‌بخش و بدون استرس می‌کنه. از بازی‌های زبانی تا منابع رایگان، کشف کنید چطور می‌تونید از مسیر یادگیری لذت ببرید. برای شروع یه سفر شیرین زبانی آماده‌اید؟ ویدیو رو ببینید! لطفا لایک کنید، نظراتتون رو بنویسید و کانال ما رو سابسکرایب کنید. #یادگیری_آسان_زبان #یادگیری_زبان_با_بازی #زبان_سرگرم_کننده #تکنیک_های_زبان #یادگیری_بدون_استرس"
+          },
+          {
+            "video_title": "فقط در ۵ قدم به هر زبانی مسلط شو! [مکالمه روان و بی‌نقص]",
+            "video_description": "آیا می‌خواید به هر زبانی مسلط بشید و با اعتماد به نفس صحبت کنید؟ این ویدیو برای شماست! ۵ گام عملی و اثربخش رو بهتون نشون می‌دیم که چطور مهارت مکالمه خودتون رو تقویت کنید و به روانی دلخواه برسید. از تمرینات روزانه تا پیدا کردن پارتنر زبانی، همه چیز برای رسیدن به تسلط کامل! شروع کنید و نتیجه رو ببینید. فراموش نکنید که ویدیو رو لایک کنید، نظرتون رو بنویسید و برای آموزش‌های بیشتر سابسکرایب کنید. #مکالمه_زبان #تسلط_بر_زبان #یادگیری_عملی_زبان #روان_صحبت_کردن #آموزش_مکالمه"
+          },
+          {
+            "video_title": "چرا یادگیری زبان سخته؟ ۵ راز موفقیت و انگیزه [دیگه تسلیم نشو!]",
+            "video_description": "اگه با یادگیری زبان جدید مشکل داری و احساس می‌کنی انگیزه‌ات رو از دست دادی، این ویدیو رو از دست نده! ما ۵ راز مهم رو فاش می‌کنیم که چطور بر چالش‌های یادگیری غلبه کنی و با انگیزه بالا به سمت موفقیت حرکت کنی. از تنظیم اهداف واقع‌بینانه تا حفظ روحیه، راهکارهای عملی اینجاست تا دیگه هرگز تسلیم نشی. برای یک شروع دوباره آماده‌ای؟ ویدیو رو ببین! لطفا لایک کنید، کامنت بذارید و برای دیدن ویدیوهای انگیزشی بیشتر سابسکرایب کنید. #انگیزه_یادگیری_زبان #غلبه_بر_چالشها #رازهای_موفقیت_زبان #تلاش_برای_یادگیری #زبان_آموزی"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "25": {
+      "source_vid_id": 17,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "خطا: لطفاً عنوان و توضیحات اصلی ویدئو را ارائه دهید",
+            "video_description": "برای تولید عناوین و توضیحات بهینه شده برای یوتیوب در زبان فارسی، به ورودی‌های اصلی ویدئو نیاز است. لطفاً عنوان و توضیحات کامل ویدئو را وارد کنید تا بتوانم به شما کمک کنم. این ویدئو نیازمند اطلاعات بیشتر است. #اطلاعات_ناقص #یوتوب_فارسی #خطای_ورودی"
+          },
+          {
+            "video_title": "راهنمایی: بدون عنوان و توضیحات، بهینه‌سازی ممکن نیست",
+            "video_description": "ما برای ایجاد محتوای جذاب و قابل جستجو در یوتیوب به زبان فارسی، به متن اصلی ویدئو (عنوان و توضیحات) نیاز داریم. لطفاً اطلاعات خواسته شده را تکمیل کنید تا بهترین نتیجه را بگیرید. لایک و سابسکرایب فراموش نشود! #ورودی_مفقود #SEO_یوتوب #فارسی"
+          },
+          {
+            "video_title": "کمبود داده: محتوای اصلی ویدئو برای ترجمه موجود نیست",
+            "video_description": "برای اینکه بتوانم عناوین و توضیحات ویدئوی شما را به بهترین شکل ممکن برای مخاطبان فارسی‌زبان ترجمه و بهینه کنم، لطفاً عنوان و توضیحات اصلی ویدئو را وارد نمایید. سابسکرایب کنید تا از محتوای آینده با خبر شوید! #محتوای_ناقص #ترجمه_ویدئو #سئو_فارسی"
+          },
+          {
+            "video_title": "تکمیل اطلاعات: عنوان و توضیحات ویدئو برای ما ارسال کنید",
+            "video_description": "برای شروع فرآیند بهینه‌سازی و بومی‌سازی محتوای یوتیوب شما به زبان فارسی، لطفاً عنوان و توضیحات دقیق ویدئوی اصلی را در قسمت ورودی فراهم کنید. ما منتظر اطلاعات شما هستیم تا بهترین خروجی را ارائه دهیم. #نیاز_به_اطلاعات #یوتوب_سئو #فارسی"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "26": {
+      "source_vid_id": 18,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "اولین سفر هیجان‌انگیز: راهنمای کامل سفر برای مبتدیان",
+            "video_description": "آیا برای اولین سفر خود آماده‌اید؟ در این ویدئو، همه نکات ضروری برای برنامه‌ریزی یک سفر آسان و خاطره‌انگیز را یاد می‌گیرید. از انتخاب مقصد تا رزرو بلیط و اقامت، با ما همراه باشید. چگونه برای سفر برنامه‌ریزی کنید، چمدان ببندید و هزینه‌ها را مدیریت کنید؟ این راهنمای سفر برای مبتدیان بهترین شروع برای ماجراجویی شماست. برای نکات بیشتر، سابسکرایب، لایک و کامنت یادتون نره! #سفر #نکات_سفر #اولین_سفر #راهنمای_سفر #ماجراجویی"
+          },
+          {
+            "video_title": "سفر ارزان و هوشمندانه: ۵ نکته طلایی برای مسافرت کم‌هزینه",
+            "video_description": "می‌خواهید سفر کنید اما نگران هزینه‌ها هستید؟ در این ویدئو، ۵ نکته طلایی و عملی برای سفر ارزان و هوشمندانه را کشف کنید. یاد بگیرید چگونه پروازهای ارزان پیدا کنید، اقامتگاه‌های اقتصادی رزرو کنید و با بودجه کم، سفری فراموش‌نشدنی داشته باشید. این نکات به شما کمک می‌کند تا با مدیریت دقیق هزینه‌ها، بدون نگرانی سفر کنید. حتماً لایک کنید، نظراتتان را بنویسید و کانال ما را سابسکرایب کنید تا هیچ نکته‌ای را از دست ندهید! #سفر_ارزان #مسافرت_کم_هزینه #بودجه_سفر #نکات_هوشمندانه #راهنمای_سفر"
+          },
+          {
+            "video_title": "سفری امن و به یادماندنی: نکات ضروری برای ماجراجویی بی‌خطر",
+            "video_description": "آیا رؤیای یک ماجراجویی فراموش‌نشدنی را در سر دارید؟ در این ویدئو، نکات ضروری برای داشتن سفری امن و لذت‌بخش را یاد بگیرید. از آمادگی‌های قبل از سفر گرفته تا حفظ امنیت شخصی در طول مسیر و چگونگی برخورد با شرایط غیرمنتظره. ما به شما نشان می‌دهیم چگونه یک تجربه سفر بی‌دغدغه و خاطره‌انگیز را بسازید. این نکات امنیتی برای هر مسافری حیاتی است. برای اطلاعات بیشتر و ویدئوهای جذاب بعدی، حتماً سابسکرایب کنید، لایک کنید و سوالات خود را کامنت بگذارید! #امنیت_سفر #ماجراجویی_امن #نکات_ایمنی_سفر #سفر_بیخطر #تجربه_سفر"
+          },
+          {
+            "video_title": "ماجراجویی بی‌نظیر: راهنمای گام به گام سفر برای همه",
+            "video_description": "آماده یک ماجراجویی بی‌نظیر هستید؟ این راهنمای کامل سفر، همه چیز را از صفر تا صد به شما آموزش می‌دهد! از ایده‌پردازی برای مقصد رؤیایی‌تان گرفته تا برنامه‌ریزی بودجه، رزرو هوشمندانه و لذت بردن از لحظه لحظه سفر. این ویدئو برای هر کسی که می‌خواهد سفری هیجان‌انگیز و بدون دغدغه داشته باشد، ضروری است. با این راهنمای گام به گام، به یک مسافر حرفه‌ای تبدیل شوید. برای حمایت از ما، سابسکرایب کنید، لایک کنید و نظرات خود را با ما به اشتراک بگذارید! #راهنمای_کامل_سفر #سفر_هیجان_انگیز #ماجراجویی_جدید #نکات_سفر_جامع #سفر_حرفه‌ای"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "27": {
+      "source_vid_id": 21,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "ایرانگردی: کشف جذابیت‌های پنهان و تجربه فرهنگ غنی فارسی",
+            "video_description": "آیا برای یک سفر فراموش‌نشدنی به ایران آماده‌اید؟ در این ویدئو، به شما جذابیت‌های پنهان و فرهنگ غنی فارسی را معرفی می‌کنیم. از بازارهای سنتی گرفته تا معماری بی‌نظیر و مهمان‌نوازی مثال‌زدنی، هر آنچه برای یک ایرانگردی فوق‌العاده نیاز دارید، اینجاست. بهترین مکان‌های دیدنی ایران را بشناسید و تجربه یک سفر بی‌دغدغه به سرزمین شعر و هنر را داشته باشید. برای دیدن ویدئوهای بیشتر در مورد ایران سابسکرایب کنید، لایک کنید و نظرات خود را با ما در میان بگذارید. #ایرانگردی #سفر_به_ایران #فرهنگ_ایرانی #مکانهای_دیدنی #گردشگری_ایران"
+          },
+          {
+            "video_title": "راهنمای کامل فرهنگ فارسی: رازهای زندگی ایرانی را کشف کنید",
+            "video_description": "برای آشنایی عمیق با فرهنگ فارسی و آداب و رسوم ایرانی آماده‌اید؟ این ویدئو راهنمای جامعی است برای درک بهتر سبک زندگی، ارتباطات اجتماعی و ارزش‌های مردم ایران. با ما همراه باشید تا از نکات کلیدی در مورد زبان فارسی، مهمان‌نوازی و جشن‌های سنتی مطلع شوید. این نکات به شما کمک می‌کند تا با اعتماد به نفس بیشتری در جامعه ایرانی ارتباط برقرار کنید. سابسکرایب کنید، لایک کنید و نظرات خود را به اشتراک بگذارید تا از ویدئوهای آموزشی بیشتر بهره‌مند شوید. #فرهنگ_ایرانی #آداب_و_رسوم_ایران #زبان_فارسی #ایران_شناسی #آموزش_فرهنگ"
+          },
+          {
+            "video_title": "آشپزی ایرانی: سفر لذیذ به دنیای طعم‌های اصیل و بی‌نظیر",
+            "video_description": "عاشق غذاهای خوشمزه هستید؟ در این ویدئو، شما را به یک سفر لذیذ در دنیای آشپزی ایرانی می‌بریم! از کباب کوبیده و قیمه گرفته تا خورش سبزی و دیزی، با ما همراه باشید تا با اصیل‌ترین طعم‌های ایران آشنا شوید. ما نه تنها طرز تهیه چند غذای محبوب را نشان می‌دهیم، بلکه رازهای نهفته در ادویه‌ها و مواد اولیه ایرانی را نیز فاش می‌کنیم. آماده‌اید تا آشپزی ایرانی را در خانه خود تجربه کنید؟ فراموش نکنید که سابسکرایب کنید، لایک کنید و نظرات خود را بنویسید! #غذای_ایرانی #آشپزی_سنتی_ایران #رسپی_ایرانی #طعم_ایرانی #فرهنگ_غذا"
+          },
+          {
+            "video_title": "تاریخ و هنر ایران: کاوش در معماری باستانی و تمدن شکوهمند",
+            "video_description": "آیا مجذوب تاریخ باستانی و هنر غنی هستید؟ این ویدئو شما را به کاوشی عمیق در تاریخ ایران، از دوران امپراتوری‌های بزرگ تا معماری شکوهمند و شاهکارهای هنری می‌برد. با ما همراه شوید تا از تخت جمشید تا اصفهان، میراث فرهنگی بی‌نظیر ایران را کشف کنید. ما به جزئیات خیره‌کننده طراحی‌ها، نمادها و داستان‌های پشت این آثار باستانی می‌پردازیم. برای دیدن ویدئوهای بیشتر در مورد تاریخ و هنر، سابسکرایب کنید، لایک کنید و نظراتتان را به اشتراک بگذارید. #تاریخ_ایران #معماری_ایرانی #هنر_باستانی_ایران #تمدن_فارسی #میراث_جهانی_ایران"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "28": {
+      "source_vid_id": 22,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "تهچین آسان و خوشمزه: راز یک پلو زعفرانی بی‌نظیر برای مبتدیان",
+            "video_description": "با این دستور پخت آسان، تهچین مرغ و پلو زعفرانی را در خانه به سادگی تهیه کنید! این ویدئو به شما قدم به قدم یاد می‌دهد چگونه یک تهچین خوشمزه و مجلسی با ته دیگ طلایی عالی درست کنید. اگر مبتدی هستید و به دنبال طرز تهیه تهچین آسان و بی‌نقص می‌گردید، جای درستی آمده‌اید. نکات کلیدی برای ته دیگ تهچین حرفه‌ای و انتخاب مواد اولیه را توضیح می‌دهیم. این غذای اصیل ایرانی را بدون دردسر بپزید و از آن لذت ببرید. برای دستورات بیشتر، کانال را سابسکرایب کنید و ویدئو را لایک کنید!#تهچین_آسان #پلو_زعفرانی #آموزش_آشپزی #غذای_ایرانی #تهچین_مرغ"
+          },
+          {
+            "video_title": "تهچین اصیل ایرانی: دستور پخت پلو زعفرانی سنتی با ته دیگ بی‌نظیر",
+            "video_description": "تهچین مرغ اصیل ایرانی با ته دیگ طلایی! در این ویدئو، طرز تهیه تهچین سنتی را قدم به قدم به شما آموزش می‌دهیم. از انتخاب برنج مناسب و دم کردن زعفران گرفته تا رازهای یک ته دیگ عالی، همه نکات را پوشش داده‌ایم. این غذای مجلسی و خوشمزه ایرانی را دقیقاً به روش اصیل آن آماده کنید و از طعم بی‌نظیرش لذت ببرید. اگر می‌خواهید هنر آشپزی ایرانی را به بهترین شکل یاد بگیرید، این ویدئو را از دست ندهید! سابسکرایب کنید و نظرات خود را با ما در میان بگذارید. #تهچین_سنتی #غذای_اصیل #آشپزی_ایرانی #زعفران_پلو #دستورپخت_سنتی"
+          },
+          {
+            "video_title": "رازهای تهچین بی‌نقص: ۵ نکته طلایی برای یک پلو زعفرانی حرفه‌ای",
+            "video_description": "۵ نکته طلایی برای تهچین مرغ بی‌نقص و خوشمزه! در این ویدئو، رازهای حرفه‌ای تهیه پلو زعفرانی با ته دیگ ترد را فاش می‌کنیم. یاد بگیرید چگونه بهترین برنج و ماست را انتخاب کنید و چطور زعفران را دم کنید. این نکات به شما کمک می‌کند تا هر بار تهچینی شاهانه بپزید. برای اینکه هیچ یک از این رازها را از دست ندهید، سابسکرایب کنید و با دوستانتان به اشتراک بگذارید! #تهچین_رازها #نکات_آشپزی #پلو_زعفرانی #آشپزی_حرفه_ای #غذای_مجلسی"
+          },
+          {
+            "video_title": "تهچین شاهانه: مهمانانتان را با این پلو زعفرانی فوق‌العاده شگفت‌زده کنید!",
+            "video_description": "مهمانانتان را با تهچین مرغ شاهانه و پلو زعفرانی خوش‌عطر و طعم شگفت‌زده کنید! این ویدئو روش تهیه تهچین مجلسی با ته دیگی ترد و طلایی را آموزش می‌دهد. بهترین روش برای تهیه تهچین زعفرانی را با تمام جزئیات، از انتخاب مواد اولیه تا مراحل پخت نهایی، آموزش می‌دهیم. این غذای فوق‌العاده ایرانی، انتخابی عالی برای مهمانی‌ها و مجالس شماست. همین حالا تماشا کنید و آشپزی خود را به سطح بالاتری ببرید! لایک و کامنت یادتون نره، برای آموزش‌های بیشتر سابسکرایب کنید. #تهچین_مجلسی #مهمانی_ایرانی #غذای_خاص #پلو_زعفرانی #آشپزی_مهمانی"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "29": {
+      "source_vid_id": 23,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "افزایش بهره‌وری دانشجویی: ۷ راز موفقیت در تحصیل",
+            "video_description": "بهره‌وری دانشجویی خود را افزایش دهید! با ۷ ترفند اثبات‌شده برای موفقیت در تحصیل، نمرات عالی کسب کنید و زمان را بهتر مدیریت کنید. این ویدئو پر از نکات کلیدی برای دانشجویان است. یاد بگیرید چگونه هوشمندانه‌تر مطالعه کنید، نه سخت‌تر، با استراتژی‌های عملی که می‌توانید همین امروز پیاده‌سازی کنید. اگر این ویدئو برایتان مفید بود، حتماً لایک کنید، کانال ما را برای ترفندهای درسی بیشتر سابسکرایب کنید و نظرتان را در بخش کامنت‌ها بنویسید!#بهره‌وری_دانشجویی#موفقیت_در_تحصیل#ترفند_درسی#مدیریت_زمان#دانشجو"
+          },
+          {
+            "video_title": "مدیریت زمان برای دانشجویان: چطور دیگر وقت تلف نکنیم؟",
+            "video_description": "مدیریت زمان دانشجویی برایتان چالش‌برانگیز است؟ با ۷ راهکار طلایی، وقت تلف کردن را کنار بگذارید! به بهره‌وری واقعی برسید. این ترفندها برنامه‌ریزی درسی شما را بهینه می‌کند تا از شر تعلل خلاص شوید و بهترین استفاده را از زمانتان ببرید. مطالعه مؤثرتر، نمرات بهتر، زندگی راحت‌تر! همین امروز تغییر کنید. ویدئو را لایک کنید، کانال را سابسکرایب و نظرتان را کامنت کنید. #مدیریت_زمان_دانشجویی#وقت_تلف_نکن#برنامه‌ریزی_درسی#غلبه_بر_تعلل#دانشجوی_موفق"
+          },
+          {
+            "video_title": "ترفندهای مطالعه برای دانشجویان: درس بخوانید، استرس نداشته باشید!",
+            "video_description": "درس خواندن با استرس؟ ۷ ترفند مطالعه اثبات‌شده برای دانشجویان را یاد بگیرید! هم استرس خود را کاهش دهید و هم نمرات بهتری کسب کنید. نکات طلایی برای یادگیری مؤثر اینجاست. این نکات شامل روش‌های نوین یادگیری، تکنیک‌های تمرکز و راه‌های مؤثر برای مدیریت حجم زیاد درس‌هاست. هوشمندانه درس بخوانید و از مسیر لذت ببرید! اگر این ویدئو را دوست داشتید، لایک و سابسکرایب فراموش نشود. نظراتتان را با ما در میان بگذارید. #ترفند_مطالعه#کاهش_استرس_درسی#یادگیری_مؤثر#دانشجو#درس_بدون_استرس"
+          },
+          {
+            "video_title": "نمرات عالی برای دانشجویان: ۷ راز برتر شدن در هر ترم!",
+            "video_description": "برای کسب نمرات عالی و دانشجوی برتر شدن آماده‌اید؟ ۷ راز و تکنیک کلیدی برای موفقیت تحصیلی را بیاموزید. بالاترین نمرات را کسب کنید! این راهکارها شامل برنامه‌ریزی هوشمندانه، روش‌های مؤثر یادداشت‌برداری، و تکنیک‌های آمادگی برای امتحانات است. با این نکات، هر ترم را به بهترین شکل پشت سر بگذارید و به بهترین نتایج برسید! برای نمرات عالی آماده‌اید؟ لایک، سابسکرایب و نظرات شما به ما انرژی می‌دهد!#نمرات_عالی#موفقیت_تحصیلی#دانشجوی_برتر#رازهای_دانشجویی#درس_خوب"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "30": {
+      "source_vid_id": 24,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "رازهای یادگیری سریع هر زبانی: ۵ نکته طلایی!",
+            "video_description": "آیا می‌خواهید هر زبانی را سریع یاد بگیرید؟ در این ویدئو، ۵ راز و نکته طلایی برای تسریع فرآیند یادگیری زبان را فاش می‌کنیم. از روش‌های تمرین روزانه گرفته تا تکنیک‌های مؤثر برای حفظ لغات، هر آنچه برای مسلط شدن سریع‌تر نیاز دارید، پوشش داده شده است. همین حالا تماشا کنید تا پتانسیل زبانی خود را شکوفا کنید! فراموش نکنید ویدئو را لایک کرده، نظراتتان را بنویسید و برای محتواهای بیشتر در زمینه یادگیری زبان سابسکرایب کنید. #یادگیری_زبان #آموزش_زبان #زبان_جدید #ترفندهای_یادگیری #مسلط_شدن_به_زبان"
+          },
+          {
+            "video_title": "چگونه به سرعت به هر زبانی مسلط شویم؟ ۵ روش اثبات شده!",
+            "video_description": "آیا رؤیای تسلط سریع به یک زبان جدید را در سر دارید؟ در این ویدئو، ۵ روش اثبات شده و کاربردی را به شما معرفی می‌کنیم که یادگیری زبان را متحول خواهد کرد. با این تکنیک‌ها می‌توانید لغات و گرامر را سریع‌تر بیاموزید و به روانی صحبت کنید. همین الان ببینید و سفر خود را برای رسیدن به تسلط آغاز کنید! فراموش نکنید کانال ما را سابسکرایب کرده، ویدئو را لایک کنید و نظرات ارزشمندتان را با ما در میان بگذارید. #یادگیری_زبان_سریع #تسلط_به_زبان #تکنیک_یادگیری #زبان_خارجی #روش_موثر"
+          },
+          {
+            "video_title": "۵ تکنیک آسان برای یادگیری زبان در کمترین زمان!",
+            "video_description": "یادگیری زبان می‌تواند آسان و لذت‌بخش باشد! در این ویدئو، ۵ تکنیک کاربردی و ساده را به شما آموزش می‌دهیم که به کمک آن‌ها می‌توانید زبان جدیدی را در کمترین زمان ممکن یاد بگیرید. از بین بردن ترس از صحبت کردن تا افزایش دایره لغات، این روش‌ها به شما کمک می‌کنند تا مسیر یادگیری را هموار کنید. برای یادگیری مؤثر و بدون دردسر، همین حالا تماشا کنید! برای حمایت از ما، حتماً ویدئو را لایک کرده، کانال را سابسکرایب کنید و سؤالات خود را در کامنت‌ها بپرسید. #یادگیری_زبان_آسان #آموزش_سریع_زبان #تکنیکهای_یادگیری_زبان #زبان_آموزی #موفقیت_در_یادگیری_زبان"
+          },
+          {
+            "video_title": "تسریع یادگیری زبان: ۵ گام کلیدی برای پیشرفت سریع!",
+            "video_description": "می‌خواهید در یادگیری زبان به سرعت پیشرفت کنید؟ این ویدئو ۵ گام کلیدی و استراتژی مؤثر را به شما نشان می‌دهد تا روند یادگیری خود را تسریع بخشید و به اهدافتان برسید. با این راهکارها، دیگر یادگیری زبان خسته‌کننده نخواهد بود! همین حالا تماشا کنید و انگیزه خود را برای رسیدن به تسلط زبانی افزایش دهید. لطفاً برای حمایت از ما ویدئو را لایک کنید، نظراتتان را به اشتراک بگذارید و برای ویدئوهای بیشتر سابسکرایب کنید! #پیشرفت_زبان #مهارت_زبان #انگیزه_یادگیری #راهکارهای_یادگیری #زبان_آینده"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "31": {
+      "source_vid_id": 25,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "5 ترفند طلایی افزایش بهره وری: سریع تر به اهدافت برس!",
+            "video_description": "در این ویدیو، 5 ترفند طلایی و عملی برای افزایش بهره وری روزانه را کشف کنید تا بتوانید در کمترین زمان به اهداف خود دست یابید. این راهکارها شامل مدیریت زمان و تکنیک‌های تمرکز هستند که زندگی شما را متحول می‌کنند. اگر به دنبال روش‌های موثر برای بهره وری بیشتر هستید، این ویدیو را از دست ندهید. برای حمایت از ما، سابسکرایب کنید، لایک کنید و نظرات خود را با ما در میان بگذارید! #بهره_وری #مدیریت_زمان #موفقیت_فردی #انگیزه"
+          },
+          {
+            "video_title": "راز بهره وری پایدار: عادت‌هایی که زندگی‌تان را دگرگون می‌کنند!",
+            "video_description": "آیا می‌خواهید بهره وری خود را به طور پایدار افزایش دهید؟ در این ویدیو به رازهای ساخت عادت‌های موثر و تغییر ذهنیت برای دستیابی به موفقیت‌های بلندمدت می‌پردازیم. یاد بگیرید چگونه با ایجاد روتین‌های قدرتمند، نه تنها بهره وری خود را بالا ببرید، بلکه زندگی شادتری داشته باشید. این تکنیک‌های اثبات شده به شما کمک می‌کنند تا مسیر موفقیت را با ثبات بیشتری طی کنید. برای دیدن ویدیوهای بیشتر، کانال ما را سابسکرایب کنید و این ویدیو را با دوستانتان به اشتراک بگذارید. نظرات شما برای ما ارزشمند است! #عادت_سازی #موفقیت_فردی #بهره_وری_پایدار #تغییر_سبک_زندگی"
+          },
+          {
+            "video_title": "مدیریت زمان به سبک حرفه‌ای‌ها: 7 تکنیک برای حداکثر بازدهی!",
+            "video_description": "در این ویدیو جامع، 7 تکنیک برتر مدیریت زمان را به شما آموزش می‌دهیم که حرفه‌ای‌ها برای دستیابی به حداکثر بازدهی و بهره وری از آن‌ها استفاده می‌کنند. از تکنیک پومودورو تا ماتریس آیزنهاور، این روش‌ها به شما کمک می‌کنند زمان خود را به بهترین شکل سازماندهی کرده و کارهای بیشتری را در طول روز انجام دهید. اگر می‌خواهید زمانتان را به طلا تبدیل کنید، حتماً این آموزش را ببینید. با لایک و کامنت خود از ما حمایت کنید و فراموش نکنید سابسکرایب کنید! #مدیریت_زمان #تکنیک_پومودورو #افزایش_بازدهی #برنامه_ریزی"
+          },
+          {
+            "video_title": "چگونه بر اهمال‌کاری غلبه کنیم؟ 4 گام برای شروع عمل‌گرایی!",
+            "video_description": "آیا اهمال‌کاری مانع موفقیت شما شده است؟ در این ویدیو، 4 گام عملی و اثبات شده برای غلبه بر اهمال‌کاری و تبدیل شدن به فردی عمل‌گرا را به شما نشان می‌دهیم. از امروز با این روش‌ها، کارهایتان را به تعویق نیندازید و با انگیزه بالا به سمت اهدافتان حرکت کنید. این راهنمای جامع به شما کمک می‌کند تا موانع ذهنی را کنار بزنید و بهره وری خود را به شکل چشمگیری افزایش دهید. همین حالا شروع کنید! اگر این ویدیو برایتان مفید بود، لطفا لایک کنید، کامنت بگذارید و برای حمایت از کانال، سابسکرایب کنید! #اهمالکاری #غلبه_بر_اهمالکاری #انگیزه #عملگرایی #افزایش_بهره_وری"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "32": {
+      "source_vid_id": 26,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "انگلیسی را سریع یاد بگیرید: 5 راهکار موثر برای مبتدیان",
+            "video_description": "اگر می‌خواهید یادگیری زبان انگلیسی را سریع و آسان شروع کنید، این ویدئو برای شماست! در این آموزش، 5 راهکار تضمینی و موثر برای تسلط به انگلیسی از پایه را کشف خواهید کرد. این نکات برای تقویت مکالمه، درک شنیداری و گرامر انگلیسی شما فوق‌العاده‌اند. با ما همراه شوید و مسیر تسلط به زبان انگلیسی را هموار کنید. فراموش نکنید که کانال را سابسکرایب کنید، لایک و کامنت بگذارید!#آموزش_انگلیسی #یادگیری_زبان #انگلیسی_سریع #زبان_انگلیسی_برای_مبتدیان #مکالمه_انگلیسی"
+          },
+          {
+            "video_title": "راز تسلط بر مکالمه انگلیسی: 7 نکته برای حرف زدن روان",
+            "video_description": "آیا رویای صحبت کردن روان به زبان انگلیسی را دارید؟ در این ویدئو، رازهای کلیدی برای تسلط بر مکالمه انگلیسی و افزایش اعتماد به نفس شما را فاش می‌کنیم. با 7 نکته عملی و کاربردی، از امروز می‌توانید شروع به حرف زدن بهتر کنید. این آموزش به شما کمک می‌کند تا اصطلاحات رایج و عبارات ضروری را یاد بگیرید و ترس از صحبت کردن را کنار بگذارید. حتماً این ویدئو را تماشا کنید و با لایک و کامنت از ما حمایت کنید. سابسکرایب فراموش نشود!#مکالمه_انگلیسی #انگلیسی_روان #آموزش_زبان #اصطلاحات_انگلیسی #انگلیسی_کاربردی"
+          },
+          {
+            "video_title": "اشتباهات رایج در انگلیسی: 5 خطای زبان‌آموزان ایرانی + راه حل!",
+            "video_description": "همه ما در یادگیری زبان انگلیسی اشتباه می‌کنیم، اما دانستن اشتباهات رایج می‌تواند روند یادگیری شما را تسریع کند! در این ویدئو، 5 خطای پرتکرار که زبان‌آموزان ایرانی در انگلیسی مرتکب می‌شوند را بررسی کرده و راه‌حل‌های عملی برای جلوگیری از آن‌ها ارائه می‌دهیم. این نکات به شما کمک می‌کند گرامر، تلفظ و واژگان خود را به طور چشمگیری بهبود بخشید. برای یک یادگیری بدون اشتباه، این ویدئو را از دست ندهید. لایک کنید، کامنت بگذارید و کانال ما را سابسکرایب کنید!#اشتباهات_انگلیسی #گرامر_انگلیسی #یادگیری_آسان_انگلیسی #تلفظ_انگلیسی #زبان_آموزی"
+          },
+          {
+            "video_title": "چگونه به انگلیسی مسلط شویم؟ نقشه راه کامل برای روان صحبت کردن",
+            "video_description": "آیا می‌خواهید به زبان انگلیسی مسلط شوید و مانند یک بومی صحبت کنید؟ این ویدئو نقشه راهی جامع و گام به گام برای رسیدن به تسلط کامل بر انگلیسی را به شما ارائه می‌دهد. از پایه تا پیشرفته، تکنیک‌های اثبات شده‌ای را آموزش می‌دهیم که برای بهبود همه مهارت‌های زبانی شما – شنیداری، گفتاری، خواندن و نوشتن – ضروری هستند. این فرصت را برای تبدیل شدن به یک انگلیسی‌زبان حرفه‌ای از دست ندهید. کانال ما را سابسکرایب کنید، این ویدئو را لایک کنید و نظرات خود را با ما در میان بگذارید!#تسلط_به_انگلیسی #انگلیسی_پیشرفته #یادگیری_جامع_انگلیسی #آموزش_زبان_انگلیسی #مهارت_زبانی"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    },
+    "33": {
+      "source_vid_id": 27,
+      "state": "metadata_generated",
+      "metadata": {
+        "variations": [
+          {
+            "video_title": "۷ راز سبک زندگی سالم: افزایش انرژی و شادابی روزانه",
+            "video_description": "آیا می‌خواهید انرژی و شادابی بیشتری در زندگی روزمره داشته باشید؟ در این ویدئو، ۷ راز کلیدی برای یک سبک زندگی سالم و پرانرژی را کشف کنید. از تغذیه مناسب گرفته تا ورزش و سلامت روان، همه جوانب برای افزایش کیفیت زندگی شما پوشش داده شده است. این راهکارها به شما کمک می‌کند تا احساس بهتری داشته باشید و زندگی سالم‌تری را تجربه کنید. برای دیدن ویدئوهای بیشتر در زمینه سلامتی، کانال ما را سابسکرایب کنید و نظرات خود را با ما در میان بگذارید.#سبکزندگیسالم #افزایش_انرژی #سلامتی #ورزش_در_خانه #شادابی"
+          },
+          {
+            "video_title": "تغییرات کوچک، نتایج بزرگ: ۳ گام آسان برای سلامتی بیشتر",
+            "video_description": "دنبال راهکارهای ساده و سریع برای بهبود سلامتی خود هستید؟ این ویدئو ۳ گام عملی و آسان را به شما نشان می‌دهد که با اعمال تغییرات کوچک در زندگی روزمره، می‌توانید نتایج بزرگی در سلامتی و کیفیت زندگی خود مشاهده کنید. این نکات شامل عادت‌های غذایی سالم، حرکت بیشتر و تکنیک‌های مدیریت استرس است. همین امروز شروع کنید و تفاوت را احساس کنید! اگر این ویدئو برای شما مفید بود، لطفاً لایک کنید و برای حمایت از ما سابسکرایب کنید.#سلامت_آسان #عادت_سالم #تغییرات_کوچک #زندگی_بهتر #مدیریت_استرس"
+          },
+          {
+            "video_title": "تغذیه هوشمند: افزایش انرژی پایدار با رژیم غذایی سالم",
+            "video_description": "آیا می‌دانستید غذایی که می‌خورید، مستقیماً بر سطح انرژی شما تاثیر می‌گذارد؟ در این ویدئو، ما روی اصول تغذیه هوشمند تمرکز می‌کنیم تا به شما کمک کنیم انرژی پایدار و شادابی بیشتری داشته باشید. با کشف خوراکی‌های انرژی‌زا و رژیم غذایی متعادل، می‌توانید خستگی را از خود دور کرده و تمرکزتان را افزایش دهید. نکات کاربردی برای انتخاب غذاهای سالم و پرانرژی را بیاموزید. کانال ما را برای دریافت بهترین راهنمایی‌های تغذیه‌ای دنبال کنید و سوالات خود را در کامنت‌ها مطرح کنید.#تغذیه_سالم #انرژی_زا #رژیم_غذایی #خوراکی_سالم #سلامت_غذا"
+          },
+          {
+            "video_title": "ذهن سالم، بدن سالم: رازهای آرامش و سلامتی ماندگار",
+            "video_description": "آیا می‌دانستید که سلامت روان، پایه و اساس یک زندگی سالم و پرانرژی است؟ در این ویدئو، به اهمیت ارتباط ذهن و بدن می‌پردازیم و راهکارهای عملی برای دستیابی به آرامش درونی و سلامتی پایدار را با شما به اشتراک می‌گذاریم. یاد بگیرید چگونه استرس را مدیریت کنید، افکار مثبت را پرورش دهید و عادت‌هایی ایجاد کنید که به شما کمک کند تا از درون احساس خوبی داشته باشید. برای شروع تغییرات مثبت و دیدن ویدئوهای انگیزشی بیشتر، لطفاً سابسکرایب کرده و این ویدئو را لایک کنید.#سلامت_روان #آرامش_درون #ذهن_سالم #مدیریت_استرس #انگیزش_سلامتی"
+          }
+        ],
+        "formatted_prompt": "You are an expert YouTube SEO and localization specialist. Your task is to translate and optimize video metadata for a new international audience. You will be given a target language, an original video title, and an original video description.\n\nYour goal is to create compelling, natural-sounding, and highly searchable titles and descriptions in the specified target language. You must also generate relevant hashtags in description text.\n\nGenerate 4 YouTube video titles and descriptions with hashtags in the target language. Apply YouTube SEO best practices to maximize discoverability and engagement.\n\nINPUTS:\n- Target Language: Persian\n- Original Video Title: \n- Original Video Description: \n\nYOUTUBE SEO BEST PRACTICES TO APPLY:\n1. Include primary keywords in the first 125 characters of descriptions\n2. Use 3-5 relevant hashtags (mix of broad and specific)\n3. Create compelling titles between 60-70 characters\n4. Include a clear call-to-action (subscribe, like, comment)\n5. Add relevant keywords naturally throughout the description\n6. Use power words and emotional triggers in titles\n7. Include numbers or lists when applicable\n8. Front-load important information in descriptions\n\nREQUIREMENTS:\n- ouput is JSON\n- Generate 4 different variations\n- Each variation should have a unique angle or focus\n- Maintain the core message of the original content\n- Adapt cultural references and idioms appropriately\n- Use native expressions that resonate with the target language audience\n\n\nEnsure all content is culturally appropriate and uses natural language patterns for the target audience. Prioritize clarity, engagement, and search visibility."
+      }
+    }
+  }
+}

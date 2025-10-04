@@ -22,6 +22,7 @@ def gen_metadata(vid: dict) -> list :
     source_vid = db.get_source_vid_by_id(vid["source_vid_id"])
     vid_title = source_vid["metadata"]["video_info"]["title"]
     vid_description = source_vid["metadata"]["video_info"]["description"]
+    source_vid_transcription = source_vid["transcription"]["transcription"]
     target_language = vid["gen_config"]['language']
     # vid_dir = vid["vid_dir"]
     prompt_path = vid["gen_config"]['metadata']['prompt_file_dir']
@@ -32,6 +33,7 @@ def gen_metadata(vid: dict) -> list :
     prompt = prompt_template.format(
         video_title=vid_title,
         video_description=vid_description,
+        video_transcription=source_vid_transcription,
         target_language = cfg['language_name'][target_language],
         variation_count = variation_count
     )

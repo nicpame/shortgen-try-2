@@ -9,6 +9,7 @@ from tts import gen_translated_tc_speech
 from tts.adjust_gened_speech_duration import adjust_audio_duration
 from metadata.gen_thumbnail import generate_thumbnail
 from metadata.gen_metadata import gen_metadata
+from moviepy import AudioFileClip
 
 # config
 from config.config import config
@@ -19,10 +20,24 @@ gen_cfg = cfg["gen_config"]
 video_states_config = cfg["video_state"]
 
 
-def init_gened_vid(source_vid_id: int):
+
+
+
+def init_gened_vid(source_vid_id: int, skip_if_exists: bool = True):
     """
     Initializes a new entry in the gened_vids_db for a given source video ID.
+
+    If skip_if_exists is True, the function will check whether a gened vid
+    already exists for the provided source_vid_id and will skip creating a
+    duplicate entry.
     """
+
+    # If requested, skip creating a new gened vid when one already exists
+    if skip_if_exists:
+        existing = db.get_gened_vid_by_source_vid_id(source_vid_id)
+        if existing:
+            print(f"Gened vid for source_vid_id {source_vid_id} already exists in DB. Skipping creation.")
+            return
     
     # Example: Load a JSON file named 'gen_config.json' from the current directory
     with open(gen_cfg['gen_config_templates_path'], 'r') as f:
@@ -199,10 +214,17 @@ def gen_speech(vid: dict):
         db.update_gened_vid_by_id(vid.doc_id, vid)
 
         # Adjust the audio duration after speech generation
+
+        # Get source video audio file and calculate its duration
+        source_vid = db.get_source_vid_by_id(vid["source_vid_id"])
+        source_audio_path = source_vid["source_audio_file_path"]
+        audio_clip = AudioFileClip(source_audio_path)
+        audio_duration = audio_clip.duration
+        audio_clip.close()
+        print(f"Generated speech audio duration: {audio_duration:.2f} seconds")
+
         target_duration = (
-            db.get_source_vid_by_id(vid["source_vid_id"])["metadata"]["video_info"][
-                "duration"
-            ]
+            audio_duration
             - 0.5
         )
         adjust_audio_duration(
@@ -275,18 +297,21 @@ def gen_title_and_description(vid: dict):
 
 if __name__ == "__main__":
 
+    # choose mode of run 0 or 1
     MODE = ['init','gen'][1]
 
-
-    # Initialize gened_vids for each source_vid_id in the config
-    if 'init' in MODE: 
+    def init():
         for source_vid_id in gen_cfg["source_vid_ids"]:
             init_gened_vid(source_vid_id)
-
-
-    elif 'gen' in MODE:
+    def gen():
         for gened_vid in db.get_gened_vids():
             vid_id = gened_vid.doc_id
-
             process_gened_vid(vid_id)
-            # Uncomment the above line when process_gened_vid is implemented
+
+    if 'init' in MODE: 
+        init()
+
+    elif 'gen' in MODE:
+        init()
+        gen()
+        

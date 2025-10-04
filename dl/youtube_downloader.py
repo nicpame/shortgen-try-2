@@ -63,9 +63,9 @@ class YouTubeDownloader:
         """Extract video information without downloading."""
         ydl_opts = {
             **self.default_ydl_opts,
-            'quiet': True,
-            'no_warnings': True,
-            'extract_flat': False,
+            # 'quiet': True,
+            # 'no_warnings': True,
+            # 'extract_flat': False,
         }
         
         try:
@@ -131,8 +131,10 @@ class YouTubeDownloader:
         """Download video and return information about the downloaded file."""
         try:
             # First, get video info
+            print('Getting video info...')
             info = self.get_video_info(url)
             
+            print(info)
             # Create safe filename
             title = info.get('title', 'Unknown')
             safe_title = self.sanitize_filename(title)
@@ -148,8 +150,8 @@ class YouTubeDownloader:
             }
             
             # Download the video
-            with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-                ydl.download([url])
+            # with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+            #     ydl.download([url])
             
             return {
                 'success': True,

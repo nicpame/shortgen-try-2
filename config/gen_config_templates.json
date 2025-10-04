@@ -30,7 +30,7 @@
             }
         },
         "thumbnail": {
-            "prompt_file_dir": "prompts/gen_thumbnail_v2.md",
+            "prompt_file_dir": "prompts/gen_thumbnail_v3.md",
             "variation_count": 1,
             "variables": {
                 "style": ""

@@ -14,6 +14,7 @@ def generate_thumbnail(vid, variation_index):
     source_vid = db.get_source_vid_by_id(vid["source_vid_id"])
     vid_title = source_vid["metadata"]["video_info"]["title"]
     vid_description = source_vid["metadata"]["video_info"]["description"]
+    vid_transcription = source_vid["transcription"]["transcription"]
     vid_dir = vid["vid_dir"]
     prompt_file_path=vid["gen_config"]["thumbnail"]["prompt_file_dir"]
 
@@ -23,8 +24,7 @@ def generate_thumbnail(vid, variation_index):
 
     # Format the prompt with the provided variables
     formatted_prompt = prompt.format(
-        video_title=vid_title,
-        video_description=vid_description,
+        video_transcription = vid_transcription,
     )
 
     # Generate the image using Gemini
